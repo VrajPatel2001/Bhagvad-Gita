@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bhagavad Gita Reader</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+Devanagari:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="app-header">
+        <div class="title-wrap">
+          <h1>Bhagavad Gita Reader</h1>
+          <p class="tagline">Contemplate each verse with clarity and focus.</p>
+        </div>
+        <div class="state-actions">
+          <button id="resetState" class="ghost-button" type="button">
+            Reset reader state
+          </button>
+        </div>
+      </header>
+      <main class="layout">
+        <aside class="toc-panel" aria-label="Chapter table of contents">
+          <div class="toc-heading">
+            <h2>Verses</h2>
+            <span id="tocCount" class="toc-count"></span>
+          </div>
+          <nav id="tocList" class="toc-list" aria-label="Verses navigation">
+            <!-- dynamically populated -->
+          </nav>
+        </aside>
+        <section class="reader-panel">
+          <section class="control-panel" aria-label="Chapter controls">
+            <div class="chapter-controls">
+              <button id="prevChapter" class="nav-button" type="button">
+                ◀
+                <span class="sr-only">Previous chapter</span>
+              </button>
+              <label class="chapter-select">
+                <span class="label">Chapter</span>
+                <select id="chapterSelect" aria-label="Select chapter"></select>
+              </label>
+              <button id="nextChapter" class="nav-button" type="button">
+                <span class="sr-only">Next chapter</span>
+                ▶
+              </button>
+            </div>
+            <div class="chapter-meta">
+              <span id="verseCount" class="verse-count"></span>
+              <span id="chapterSummary" class="chapter-summary"></span>
+            </div>
+            <div class="reading-preferences">
+              <label class="toggle">
+                <input
+                  id="transliterationToggle"
+                  type="checkbox"
+                  checked
+                  aria-label="Toggle transliteration visibility"
+                />
+                <span>Show transliteration</span>
+              </label>
+              <label class="toggle">
+                <input
+                  id="notesToggle"
+                  type="checkbox"
+                  checked
+                  aria-label="Toggle notes visibility"
+                />
+                <span>Show notes</span>
+              </label>
+              <label class="search">
+                <span class="sr-only">Search verses</span>
+                <input
+                  id="searchInput"
+                  type="search"
+                  placeholder="Search verses or keywords"
+                />
+              </label>
+            </div>
+          </section>
+          <section class="progress-panel" aria-label="Chapter reading progress">
+            <div class="progress-bar">
+              <div id="progressBar" class="progress-value"></div>
+            </div>
+            <span id="progressText" class="progress-text">0% read</span>
+          </section>
+          <section id="versesContainer" class="verses-container">
+            <!-- verses rendered here -->
+          </section>
+        </section>
+      </main>
+    </div>
+    <div class="sr-announcer" id="srAnnouncer" aria-live="polite"></div>
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>
