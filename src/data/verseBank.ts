@@ -1,0 +1,148 @@
+export interface Verse {
+  id: string
+  chapter: number
+  verse: number
+  text: string
+  theme: string
+  keywords: string[]
+  takeaway: string
+}
+
+export const verseBank: Verse[] = [
+  {
+    id: '2-47',
+    chapter: 2,
+    verse: 47,
+    text:
+      'You have the right to action alone, never to its fruits. Let not the fruits of action be your motive, nor let your attachment be to inaction.',
+    theme: 'Selfless Action',
+    keywords: ['duty', 'detachment', 'karma'],
+    takeaway: 'Fulfil your duty wholeheartedly and release your grip on outcomes.',
+  },
+  {
+    id: '2-50',
+    chapter: 2,
+    verse: 50,
+    text: 'One who is engaged in devotional service rids oneself of both good and bad reactions even in this life. Therefore strive for yoga, which is the art of all work.',
+    theme: 'Yoga in Daily Life',
+    keywords: ['equanimity', 'skill', 'service'],
+    takeaway: 'Approach every action as a sacred art that purifies the heart.',
+  },
+  {
+    id: '3-19',
+    chapter: 3,
+    verse: 19,
+    text: 'Therefore, without attachment, always perform the work that has to be done. For by performing action without attachment, one attains the Supreme.',
+    theme: 'Liberation through Action',
+    keywords: ['discipline', 'focus', 'dedication'],
+    takeaway: 'Freedom unfolds when responsibility is embraced without clinging.',
+  },
+  {
+    id: '3-30',
+    chapter: 3,
+    verse: 30,
+    text: 'Dedicate all actions to Me, free from longing and egoism, with your mind centered on the Self. Fight without fever.',
+    theme: 'Divine Surrender',
+    keywords: ['surrender', 'ego', 'devotion'],
+    takeaway: 'Offer every effort to the Divine and act with serene clarity.',
+  },
+  {
+    id: '4-7',
+    chapter: 4,
+    verse: 7,
+    text: 'Whenever righteousness declines and unrighteousness increases, I manifest Myself, O Arjuna.',
+    theme: 'Divine Incarnation',
+    keywords: ['avatar', 'restoration', 'dharma'],
+    takeaway: 'Cosmic compassion expresses itself whenever harmony needs renewal.',
+  },
+  {
+    id: '4-13',
+    chapter: 4,
+    verse: 13,
+    text: 'The fourfold order was created by Me according to the divisions of quality and work; though its author, know Me as non-doer and immutable.',
+    theme: 'Cosmic Order',
+    keywords: ['varna', 'balance', 'non-doer'],
+    takeaway: 'The Divine choreographs creation yet remains untouched by its play.',
+  },
+  {
+    id: '5-10',
+    chapter: 5,
+    verse: 10,
+    text: 'He who performs actions offering them to the Supreme, abandoning attachment, is untouched by sin as lotus leaf by water.',
+    theme: 'Purity in Action',
+    keywords: ['renunciation', 'purity', 'offering'],
+    takeaway: 'Surrendering the fruits of work keeps the heart spotless amidst activity.',
+  },
+  {
+    id: '6-5',
+    chapter: 6,
+    verse: 5,
+    text: 'Let a person lift oneself by one’s own mind, and let one not lower oneself; for mind alone is the friend of the self, and mind alone is the enemy of the self.',
+    theme: 'Mastering the Mind',
+    keywords: ['mind', 'self-effort', 'discipline'],
+    takeaway: 'Harness the mind and it becomes an ally; neglect it and it binds.',
+  },
+  {
+    id: '6-26',
+    chapter: 6,
+    verse: 26,
+    text: 'Wherever the restless and unsteady mind wanders, one should withdraw it and bring it back under the control of the Self.',
+    theme: 'Meditative Steadiness',
+    keywords: ['focus', 'meditation', 'steadiness'],
+    takeaway: 'Patiently returning to center weaves resilience into awareness.',
+  },
+  {
+    id: '8-6',
+    chapter: 8,
+    verse: 6,
+    text: 'Whatever state of being one remembers when leaving the body, that alone one attains, O son of Kunti, being ever absorbed in that state.',
+    theme: 'Final Thought',
+    keywords: ['consciousness', 'destiny', 'remembrance'],
+    takeaway: 'The quality of our remembrance shapes the destination of our journey.',
+  },
+  {
+    id: '9-22',
+    chapter: 9,
+    verse: 22,
+    text: 'Those who always worship Me with exclusive devotion, meditating on My transcendental form—to them I carry what they lack and preserve what they have.',
+    theme: 'Divine Assurance',
+    keywords: ['devotion', 'grace', 'support'],
+    takeaway: 'Steady devotion invites divine nourishment and protection.',
+  },
+  {
+    id: '10-20',
+    chapter: 10,
+    verse: 20,
+    text: 'I am the Self, O Gudakesha, seated in the hearts of all beings; I am the beginning, the middle, and also the end of all beings.',
+    theme: 'All-pervading Self',
+    keywords: ['oneness', 'presence', 'divine'],
+    takeaway: 'The Divine pulse beats at the core of every moment and being.',
+  },
+  {
+    id: '12-15',
+    chapter: 12,
+    verse: 15,
+    text: 'By whom the world is not agitated and who cannot be agitated by the world, who is freed from joy, envy, fear and anxiety—he is dear to Me.',
+    theme: 'Fearless Devotee',
+    keywords: ['equanimity', 'compassion', 'devotee'],
+    takeaway: 'Gentle strength and inner balance make one beloved to the Divine.',
+  },
+  {
+    id: '13-18',
+    chapter: 13,
+    verse: 18,
+    text: 'It is the light of all lights, beyond darkness; it is knowledge, the object of knowledge, and knowledge itself, seated in the hearts of all.',
+    theme: 'Light of Consciousness',
+    keywords: ['knowledge', 'illumination', 'awareness'],
+    takeaway: 'Consciousness shines within everything as the wisdom that knows itself.',
+  },
+  {
+    id: '18-66',
+    chapter: 18,
+    verse: 66,
+    text: 'Abandon all varieties of dharma and surrender unto Me alone; I shall liberate you from all sins—do not grieve.',
+    theme: 'Ultimate Surrender',
+    keywords: ['surrender', 'liberation', 'fearlessness'],
+    takeaway: 'Wholehearted surrender dissolves the heaviest burdens of the soul.',
+  },
+]
