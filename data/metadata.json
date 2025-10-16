@@ -1,0 +1,17 @@
+{
+  "chaptersCount": 18,
+  "totalVerses": 701,
+  "source": {
+    "sanskrit": {
+      "repository": "https://github.com/gita/gita",
+      "license": "Unlicense (Public Domain)"
+    },
+    "translation": {
+      "translator": "Shri Purohit Swami (with W.B. Yeats)",
+      "edition": "The Bhagavad Gita (1935)",
+      "publicDomain": true,
+      "reference": "https://www.gutenberg.org/ebooks/7435"
+    }
+  },
+  "generatedAt": "2025-10-16T04:11:09.093Z"
+}
