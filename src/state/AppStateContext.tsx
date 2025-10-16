@@ -80,6 +80,16 @@ const initialPaths: LearningPath[] = [
   },
 ];
 
+const fallbackLearningPath: LearningPath = {
+  id: 'choose-learning-path',
+  title: 'Choose your next step',
+  description: 'Select a learning path to continue exploring the Bhagavad Gita.',
+  focus: 'Awaiting selection',
+  progress: 0,
+  nextChapter: 'Your next chapter awaits',
+  type: 'reading',
+};
+
 const AppStateContext = createContext<AppStateValue | undefined>(undefined);
 
 export function AppStateProvider({ children }: { children: ReactNode }) {
@@ -118,7 +128,8 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
   const selectedLearningPath = useMemo<LearningPath>(() => {
     return (
       learningPaths.find((path) => path.id === selectedLearningPathId) ??
-      learningPaths[0]
+      learningPaths[0] ??
+      fallbackLearningPath
     );
   }, [learningPaths, selectedLearningPathId]);
 
