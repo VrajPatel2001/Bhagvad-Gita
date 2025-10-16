@@ -1,0 +1,296 @@
+:root {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #0f172a;
+  background-color: #f8fafc;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.app-shell {
+  min-height: 100vh;
+  padding: 2rem 1.5rem 3rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+header.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: clamp(1.75rem, 2.4vw, 2.75rem);
+}
+
+.primary-button {
+  background-color: #2563eb;
+  color: white;
+  padding: 0.6rem 1.1rem;
+  border: none;
+  border-radius: 0.55rem;
+  font-weight: 600;
+  transition: background-color 0.2s ease;
+}
+
+.primary-button:hover {
+  background-color: #1d4ed8;
+}
+
+.layout-grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+@media (min-width: 960px) {
+  .layout-grid.two-column {
+    grid-template-columns: 1.2fr 1fr;
+  }
+}
+
+.card {
+  background-color: white;
+  border-radius: 1rem;
+  padding: 1.4rem;
+  box-shadow: 0 12px 30px -18px rgba(15, 23, 42, 0.35);
+}
+
+.card h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.card h3 {
+  margin-top: 1.4rem;
+  margin-bottom: 0.6rem;
+}
+
+.metric-grid {
+  display: grid;
+  gap: 0.9rem;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  margin-bottom: 1.25rem;
+}
+
+.metric-tile {
+  background-color: #eff6ff;
+  border-radius: 0.75rem;
+  padding: 0.9rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.metric-tile strong {
+  color: #1e3a8a;
+  font-size: 0.9rem;
+  letter-spacing: 0.02rem;
+}
+
+.metric-value {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #1f2937;
+}
+
+.select-field {
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.55rem;
+  border: 1px solid #cbd5f5;
+  font-size: 1rem;
+}
+
+.section-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.inline-actions {
+  display: flex;
+  gap: 0.7rem;
+  flex-wrap: wrap;
+}
+
+.chapter-list,
+.quiz-list,
+.achievement-list {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.85rem 1rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 0.75rem;
+  background-color: #f8fafc;
+}
+
+.list-item.completed {
+  border-color: #bbf7d0;
+  background-color: #ecfdf5;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.badge.unlocked {
+  background-color: #22c55e;
+  color: white;
+}
+
+.badge.locked {
+  background-color: #e2e8f0;
+  color: #475569;
+}
+
+.xp-bar {
+  height: 14px;
+  background-color: #e2e8f0;
+  border-radius: 999px;
+  overflow: hidden;
+  position: relative;
+}
+
+.xp-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #38bdf8, #6366f1);
+}
+
+.small-label {
+  font-size: 0.85rem;
+  color: #475569;
+}
+
+.streak {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.settings-backdrop {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(15, 23, 42, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  z-index: 1000;
+}
+
+.settings-modal {
+  background-color: white;
+  border-radius: 1rem;
+  width: min(480px, 100%);
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.settings-modal h2 {
+  margin: 0;
+}
+
+.settings-section {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.checkbox-row,
+.radio-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.settings-actions {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.settings-actions button {
+  flex: 1;
+}
+
+.secondary-button {
+  background-color: white;
+  border: 1px solid #cbd5f5;
+  color: #1d4ed8;
+  padding: 0.6rem 1.1rem;
+  border-radius: 0.55rem;
+  font-weight: 600;
+}
+
+.secondary-button:hover {
+  background-color: #eff6ff;
+}
+
+.danger-button {
+  background-color: #ef4444;
+  color: white;
+  border: none;
+  border-radius: 0.55rem;
+  padding: 0.6rem 1.1rem;
+  font-weight: 600;
+}
+
+.danger-button:hover {
+  background-color: #dc2626;
+}
+
+.helper-text {
+  font-size: 0.85rem;
+  color: #64748b;
+}
+
+.notification-banner {
+  background-color: #eef2ff;
+  border: 1px solid #c7d2fe;
+  border-radius: 0.75rem;
+  padding: 0.85rem 1rem;
+  font-size: 0.95rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.notification-banner strong {
+  color: #4338ca;
+}
