@@ -6,7 +6,7 @@ import { getChapter, listChapters } from "@/lib/gita";
 
 type VersePageProps = {
   params: {
-    chapterNumber: string;
+    chapter: string;
     verseNumber: string;
   };
 };
@@ -14,14 +14,14 @@ type VersePageProps = {
 export function generateStaticParams() {
   return listChapters().flatMap((chapter) =>
     chapter.verses.map((verse) => ({
-      chapterNumber: chapter.number.toString(),
+      chapter: chapter.number.toString(),
       verseNumber: verse.number.toString(),
     })),
   );
 }
 
 export function generateMetadata({ params }: VersePageProps): Metadata {
-  const chapterNumber = Number(params.chapterNumber);
+  const chapterNumber = Number(params.chapter);
   const verseNumber = Number(params.verseNumber);
 
   if (!Number.isFinite(chapterNumber) || !Number.isFinite(verseNumber)) {
@@ -50,7 +50,7 @@ export function generateMetadata({ params }: VersePageProps): Metadata {
 }
 
 export default function VersePage({ params }: VersePageProps) {
-  const chapterNumber = Number(params.chapterNumber);
+  const chapterNumber = Number(params.chapter);
   const verseNumber = Number(params.verseNumber);
 
   if (!Number.isFinite(chapterNumber) || !Number.isFinite(verseNumber)) {
