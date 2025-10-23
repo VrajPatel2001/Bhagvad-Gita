@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+  background-color: #fbf8f3;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@theme inline {
+  --font-sans: var(--font-sans);
+  --font-serif: var(--font-serif);
+
+  --color-sand-25: #fdf9f3;
+  --color-sand-50: #fbf3e6;
+  --color-sand-100: #f6e9d4;
+  --color-pearl-200: #eadfd2;
+  --color-pearl-300: #d9cbb7;
+  --color-lotus-50: #fff6f7;
+  --color-lotus-100: #ffe9ef;
+  --color-peacock-50: #e4f4f3;
+  --color-peacock-200: #9dd6d4;
+  --color-peacock-500: #26828b;
+  --color-peacock-600: #1f6f78;
+  --color-peacock-700: #1b5c63;
+  --color-peacock-800: #174c51;
+  --color-peacock-900: #123f47;
+  --color-saffron-200: #f6d7a7;
+  --color-saffron-500: #e7a343;
+  --color-saffron-600: #d9891f;
+  --color-saffron-700: #c26f13;
+  --color-ink-400: #9a8f82;
+  --color-ink-500: #7d7165;
+  --color-ink-600: #5f554c;
+  --color-ink-700: #453b34;
+
+  --shadow-soft: 0 25px 45px -20px rgba(18, 63, 71, 0.25);
+  --radius-3xl: 1.75rem;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font-sans);
+  background-color: var(--color-sand-25);
+  color: var(--color-ink-600);
+  line-height: 1.75;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
