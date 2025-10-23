@@ -26,19 +26,16 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
     );
   }, [supportedLanguages]);
 
-  const [language, setLanguageState] = useState<GitaLanguage>(fallbackLanguage);
-
-  useEffect(() => {
-    if (typeof window === "undefined") {
-      return;
+  const [language, setLanguageState] = useState<GitaLanguage>(() => {
+    if (typeof window !== "undefined") {
+      const stored = window.localStorage.getItem(LANGUAGE_STORAGE_KEY) as GitaLanguage | null;
+      if (stored && supportedLanguages.includes(stored)) {
+        return stored;
+      }
     }
 
-    const stored = window.localStorage.getItem(LANGUAGE_STORAGE_KEY) as GitaLanguage | null;
-
-    if (stored && supportedLanguages.includes(stored)) {
-      setLanguageState(stored);
-    }
-  }, [supportedLanguages]);
+    return fallbackLanguage;
+  });
 
   useEffect(() => {
     if (typeof window === "undefined") {

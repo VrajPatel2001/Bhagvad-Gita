@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useSyncExternalStore } from "react";
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
@@ -19,32 +19,34 @@ type ChapterNavigationProps = {
 
 const chapters = listChapters();
 
+function useHashTracker(track: boolean): string {
+  return useSyncExternalStore(
+    (onChange) => {
+      if (typeof window === "undefined" || !track) {
+        return () => {};
+      }
+
+      window.addEventListener("hashchange", onChange);
+      return () => {
+        window.removeEventListener("hashchange", onChange);
+      };
+    },
+    () => {
+      if (typeof window === "undefined" || !track) {
+        return "";
+      }
+
+      return window.location.hash;
+    },
+    () => "",
+  );
+}
+
 export function ChapterNavigation({ variant = "desktop", onNavigate, onDismiss }: ChapterNavigationProps) {
   const { language } = useLanguage();
   const pathname = usePathname();
-  const [activeHash, setActiveHash] = useState<string>("");
-
-  useEffect(() => {
-    if (typeof window === "undefined") {
-      return;
-    }
-
-    if (pathname !== "/chapters") {
-      setActiveHash("");
-      return;
-    }
-
-    const updateHash = () => {
-      setActiveHash(window.location.hash);
-    };
-
-    updateHash();
-    window.addEventListener("hashchange", updateHash);
-
-    return () => {
-      window.removeEventListener("hashchange", updateHash);
-    };
-  }, [pathname]);
+  const trackHash = pathname === "/chapters";
+  const activeHash = useHashTracker(trackHash);
 
   const containerStyles = useMemo(
     () =>
@@ -97,7 +99,6 @@ export function ChapterNavigation({ variant = "desktop", onNavigate, onDismiss }
                 <Link
                   href={`/chapters${targetHash}`}
                   onClick={() => {
-                    setActiveHash(targetHash);
                     onNavigate?.();
                   }}
                   aria-current={isActive ? "true" : undefined}

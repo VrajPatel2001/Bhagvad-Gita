@@ -20,6 +20,10 @@ export const siteConfig = {
       href: "/chapters",
     },
     {
+      title: "Games",
+      href: "/games",
+    },
+    {
       title: "Resources",
       href: "/resources",
     },
@@ -30,6 +34,10 @@ export const siteConfig = {
       {
         title: "Practices",
         href: "/resources",
+      },
+      {
+        title: "Interactive Games",
+        href: "/games",
       },
       {
         title: "Community Guidance",

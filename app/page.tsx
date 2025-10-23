@@ -66,10 +66,10 @@ export default function Home() {
           <div className="absolute -bottom-20 -left-10 h-56 w-56 rounded-full bg-peacock-200/40 blur-3xl" aria-hidden />
           <div className="relative space-y-4">
             <p className="text-sm font-semibold uppercase tracking-[0.2em] text-peacock-700">
-              "Yoga of insight"
+              &ldquo;Yoga of insight&rdquo;
             </p>
             <p className="font-serif text-3xl leading-snug text-peacock-900">
-              "The mind that is not shaken by adversity, nor elated by happiness, lives in perfect peace."
+              &ldquo;The mind that is not shaken by adversity, nor elated by happiness, lives in perfect peace.&rdquo;
             </p>
             <p className="text-sm text-ink-500">— Bhagavad Gita, Chapter 2</p>
           </div>

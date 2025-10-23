@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useEffect, useMemo, useState, useId } from "react";
+import { useCallback, useMemo, useState, useId } from "react";
 
 import Link from "next/link";
 
@@ -20,34 +20,41 @@ export function ChapterReader({ chapter }: ChapterReaderProps) {
   const { language, supportedLanguages } = useLanguage();
   const { isBookmarked } = useBookmarks();
   const [query, setQuery] = useState("");
-  const [visibleLanguages, setVisibleLanguages] = useState<GitaLanguage[]>(() => [language]);
+  const [languagePreferences, setLanguagePreferences] = useState<GitaLanguage[]>(() => [language]);
   const searchInputId = useId();
 
-  useEffect(() => {
-    setVisibleLanguages((current) => {
-      if (current.includes(language)) {
-        return sortLanguagesByPreference(current, supportedLanguages);
-      }
-
-      return sortLanguagesByPreference([language, ...current], supportedLanguages);
-    });
-  }, [language, supportedLanguages]);
+  const visibleLanguages = useMemo(() => {
+    const merged = new Set<GitaLanguage>([language, ...languagePreferences]);
+    return sortLanguagesByPreference(Array.from(merged), supportedLanguages);
+  }, [language, languagePreferences, supportedLanguages]);
 
   const toggleLanguage = useCallback(
     (targetLanguage: GitaLanguage) => {
-      setVisibleLanguages((current) => {
-        if (current.includes(targetLanguage)) {
-          if (current.length === 1) {
+      setLanguagePreferences((current) => {
+        const next = new Set(current);
+
+        if (next.has(targetLanguage)) {
+          if (targetLanguage === language) {
             return current;
           }
 
-          return current.filter((item) => item !== targetLanguage);
+          if (next.size === 1) {
+            return current;
+          }
+
+          next.delete(targetLanguage);
+          return Array.from(next);
         }
 
-        return sortLanguagesByPreference([...current, targetLanguage], supportedLanguages);
+        if (!supportedLanguages.includes(targetLanguage)) {
+          return current;
+        }
+
+        next.add(targetLanguage);
+        return Array.from(next);
       });
     },
-    [supportedLanguages],
+    [language, supportedLanguages],
   );
 
   const normalizedQuery = query.trim().toLowerCase();
