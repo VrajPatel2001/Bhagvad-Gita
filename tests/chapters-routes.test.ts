@@ -84,4 +84,15 @@ describe("chapters routes", () => {
 
     expect(html).toContain("Chapter 01");
   });
+
+  it("responds with a chapter page using the legacy singular route", async () => {
+    const response = await fetch(`${baseUrl}/chapter/1`);
+
+    expect(response.status).toBe(200);
+
+    const html = await response.text();
+
+    expect(html).toMatch(/Arjuna(?:&#39;|&apos;|'|’|&rsquo;)s Dilemma/);
+    expect(html).toContain("BG1.1");
+  });
 });
