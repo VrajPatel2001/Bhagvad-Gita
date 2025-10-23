@@ -16,7 +16,7 @@ export function GameCard({ mode, onSelect }: GameCardProps) {
         <span className="flex h-11 w-11 items-center justify-center rounded-2xl bg-peacock-900/90 text-2xl text-sand-25 shadow-soft">
           {mode.icon}
         </span>
-        <h3 className="font-serif text-2xl text-peacock-900">{mode.name}</h3>
+        <h3 className="font-serif text-fluid-heading text-peacock-900">{mode.name}</h3>
         <p className="text-sm font-semibold uppercase tracking-[0.3em] text-peacock-700">{mode.tagline}</p>
         <p className="text-sm text-ink-600">{mode.description}</p>
         <div className="mt-3 space-y-3">

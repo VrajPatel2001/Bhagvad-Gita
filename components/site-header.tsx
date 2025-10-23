@@ -10,6 +10,9 @@ import { LanguageSwitcher } from "./language-switcher";
 
 type SiteHeaderProps = {
   onOpenChapterNav?: () => void;
+  onCloseChapterNav?: () => void;
+  isChapterNavOpen?: boolean;
+  navigationId?: string;
 };
 
 function isNavItemActive(pathname: string, href: string): boolean {
@@ -20,17 +23,27 @@ function isNavItemActive(pathname: string, href: string): boolean {
   return pathname === href || pathname.startsWith(`${href}/`);
 }
 
-export function SiteHeader({ onOpenChapterNav }: SiteHeaderProps) {
+export function SiteHeader({
+  onOpenChapterNav,
+  onCloseChapterNav,
+  isChapterNavOpen = false,
+  navigationId,
+}: SiteHeaderProps) {
   const pathname = usePathname();
+  const chapterNavButtonLabel = isChapterNavOpen ? "Close chapter navigation" : "Open chapter navigation";
 
   return (
-    <header className="sticky top-0 z-50 border-b border-pearl-200/70 bg-sand-25/85 backdrop-blur">
+    <header className="sticky top-0 z-50 border-b border-pearl-200/70 bg-sand-25/85 pt-safe backdrop-blur">
       <div className="mx-auto flex w-full max-w-6xl flex-col gap-3 px-4 py-4 sm:px-5 lg:px-6">
         <div className="flex items-center justify-between gap-3">
           <div className="flex items-center gap-3">
             <button
               type="button"
-              onClick={() => onOpenChapterNav?.()}
+              aria-label={chapterNavButtonLabel}
+              aria-expanded={isChapterNavOpen}
+              aria-controls={navigationId}
+              aria-haspopup="dialog"
+              onClick={() => (isChapterNavOpen ? onCloseChapterNav?.() : onOpenChapterNav?.())}
               className="inline-flex items-center gap-2 rounded-full border border-pearl-300 bg-white/70 px-4 py-2 text-xs font-semibold uppercase tracking-[0.35em] text-peacock-800 shadow-soft transition hover:border-peacock-300 hover:text-peacock-600 focus:outline-none focus:ring-2 focus:ring-peacock-200 lg:hidden"
             >
               <span aria-hidden className="text-lg leading-none text-peacock-700">
