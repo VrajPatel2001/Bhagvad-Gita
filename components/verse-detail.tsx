@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 
 import Link from "next/link";
 
@@ -32,11 +32,34 @@ export function VerseDetail({
   const [languagePreferences, setLanguagePreferences] = useState<GitaLanguage[]>(() =>
     sortLanguagesByPreference([language], supportedLanguages),
   );
+  const [activeMobileLanguage, setActiveMobileLanguage] = useState<GitaLanguage>(language);
 
   const visibleLanguages = useMemo(() => {
     const merged = new Set<GitaLanguage>([language, ...languagePreferences]);
     return sortLanguagesByPreference(Array.from(merged), supportedLanguages);
   }, [language, languagePreferences, supportedLanguages]);
+
+  const availableLanguages = useMemo(
+    () => supportedLanguages.filter((supportedLanguage) => Boolean(verse.text[supportedLanguage])),
+    [supportedLanguages, verse],
+  );
+
+  useEffect(() => {
+    if (!availableLanguages.length) {
+      return;
+    }
+
+    if (availableLanguages.includes(activeMobileLanguage)) {
+      return;
+    }
+
+    if (availableLanguages.includes(language)) {
+      setActiveMobileLanguage(language);
+      return;
+    }
+
+    setActiveMobileLanguage(availableLanguages[0]);
+  }, [activeMobileLanguage, availableLanguages, language]);
 
   const toggleLanguage = useCallback(
     (targetLanguage: GitaLanguage) => {
@@ -73,6 +96,7 @@ export function VerseDetail({
   );
 
   const verseLabel = `Chapter ${chapter.number}, Verse ${verse.number}`;
+  const sanitizedVerseId = verse.id.replace(/[^a-zA-Z0-9-]/g, "-").toLowerCase();
   const backToChapterHref = `/chapters/${chapter.number}#verse-${verse.number}`;
   const previousLink =
     typeof previousVerseNumber === "number"
@@ -94,7 +118,7 @@ export function VerseDetail({
             <span aria-hidden>←</span>
             Back to chapter
           </Link>
-          <h1 className="font-serif text-3xl text-peacock-900 sm:text-4xl">
+          <h1 className="font-serif text-fluid-display text-peacock-900">
             Chapter {chapter.number}, Verse {verse.number}
           </h1>
           <div className="space-y-1">
@@ -118,7 +142,7 @@ export function VerseDetail({
               Within Chapter {chapter.number} · {chapter.versesCount} total verses
             </p>
           </div>
-          <div className="flex flex-wrap items-center gap-2">
+          <div className="hidden flex-wrap items-center gap-2 md:flex">
             <p className="text-xs font-semibold uppercase tracking-[0.3em] text-ink-400">Translations</p>
             <div className="flex flex-wrap gap-2">
               {supportedLanguages.map((supportedLanguage) => {
@@ -156,44 +180,145 @@ export function VerseDetail({
           </div>
         ) : null}
 
-        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-          {visibleLanguages.map((selectedLanguage) => {
-            const translation = verse.text[selectedLanguage];
+        <div className="space-y-4">
+          {availableLanguages.length ? (
+            <div className="md:hidden">
+              {(() => {
+                const selectedMobileLanguage = availableLanguages.includes(activeMobileLanguage)
+                  ? activeMobileLanguage
+                  : availableLanguages[0];
 
-            if (!translation) {
-              return null;
-            }
-
-            const translator = verse.translators[selectedLanguage];
-            const source = verse.sources[selectedLanguage];
-            const languageLabel = LANGUAGE_LABELS[selectedLanguage] ?? selectedLanguage;
-
-            return (
-              <div
-                key={selectedLanguage}
-                className="flex h-full flex-col justify-between rounded-2xl border border-pearl-200 bg-white/90 p-4"
-              >
-                <div>
-                  <div className="flex items-baseline justify-between gap-3">
-                    <p className="text-xs font-semibold uppercase tracking-[0.3em] text-peacock-700">
-                      {languageLabel}
-                    </p>
-                    {translator ? (
-                      <p className="text-[11px] uppercase tracking-[0.2em] text-ink-400">
-                        {translator}
+                return (
+                  <div className="space-y-3 rounded-2xl border border-pearl-200 bg-white/90 p-4 shadow-soft">
+                    <div className="flex items-center justify-between">
+                      <p className="text-xs font-semibold uppercase tracking-[0.3em] text-peacock-700">
+                        Translations
                       </p>
-                    ) : null}
+                      <p className="text-[11px] uppercase tracking-[0.2em] text-ink-400">
+                        {availableLanguages.length} options
+                      </p>
+                    </div>
+                    <div
+                      role="tablist"
+                      aria-label={`Translations for ${verseLabel}`}
+                      className="flex items-center gap-2 overflow-x-auto pb-1"
+                    >
+                      {availableLanguages.map((languageOption) => {
+                        const languageLabel = LANGUAGE_LABELS[languageOption] ?? languageOption;
+                        const tabId = `${sanitizedVerseId}-${languageOption}-tab`;
+                        const panelId = `${sanitizedVerseId}-${languageOption}-panel`;
+                        const isActive = selectedMobileLanguage === languageOption;
+
+                        return (
+                          <button
+                            key={languageOption}
+                            id={tabId}
+                            type="button"
+                            role="tab"
+                            aria-selected={isActive}
+                            aria-controls={panelId}
+                            onClick={() => setActiveMobileLanguage(languageOption)}
+                            className={cn(
+                              "min-w-[3.25rem] rounded-full border px-4 py-2 text-xs font-semibold uppercase tracking-[0.3em] transition focus:outline-none focus:ring-2 focus:ring-peacock-200",
+                              isActive
+                                ? "border-peacock-500 bg-peacock-600 text-sand-25 shadow-soft"
+                                : "border-pearl-300 bg-white/80 text-peacock-800 hover:border-peacock-200 hover:text-peacock-600",
+                            )}
+                          >
+                            {languageLabel}
+                          </button>
+                        );
+                      })}
+                    </div>
+                    {availableLanguages.map((languageOption) => {
+                      const translation = verse.text[languageOption];
+
+                      if (!translation) {
+                        return null;
+                      }
+
+                      const translator = verse.translators[languageOption];
+                      const source = verse.sources[languageOption];
+                      const languageLabel = LANGUAGE_LABELS[languageOption] ?? languageOption;
+                      const panelId = `${sanitizedVerseId}-${languageOption}-panel`;
+                      const tabId = `${sanitizedVerseId}-${languageOption}-tab`;
+                      const isActive = selectedMobileLanguage === languageOption;
+
+                      return (
+                        <div
+                          key={panelId}
+                          id={panelId}
+                          role="tabpanel"
+                          aria-labelledby={tabId}
+                          hidden={!isActive}
+                        >
+                          <div className="flex h-full flex-col justify-between rounded-2xl border border-pearl-200 bg-white/95 p-4">
+                            <div>
+                              <div className="flex items-baseline justify-between gap-3">
+                                <p className="text-xs font-semibold uppercase tracking-[0.3em] text-peacock-700">
+                                  {languageLabel}
+                                </p>
+                                {translator ? (
+                                  <p className="text-[11px] uppercase tracking-[0.2em] text-ink-400">
+                                    {translator}
+                                  </p>
+                                ) : null}
+                              </div>
+                              <p className="mt-3 whitespace-pre-line text-base leading-relaxed text-ink-700">
+                                {translation}
+                              </p>
+                            </div>
+                            <p className="mt-4 text-[11px] uppercase tracking-[0.25em] text-ink-400">
+                              Source: {source ?? "—"}
+                            </p>
+                          </div>
+                        </div>
+                      );
+                    })}
                   </div>
-                  <p className="mt-3 whitespace-pre-line text-base leading-relaxed text-ink-700">
-                    {translation}
+                );
+              })()}
+            </div>
+          ) : null}
+          <div className="hidden gap-4 md:grid md:grid-cols-2 lg:grid-cols-3">
+            {visibleLanguages.map((selectedLanguage) => {
+              const translation = verse.text[selectedLanguage];
+
+              if (!translation) {
+                return null;
+              }
+
+              const translator = verse.translators[selectedLanguage];
+              const source = verse.sources[selectedLanguage];
+              const languageLabel = LANGUAGE_LABELS[selectedLanguage] ?? selectedLanguage;
+
+              return (
+                <div
+                  key={selectedLanguage}
+                  className="flex h-full flex-col justify-between rounded-2xl border border-pearl-200 bg-white/90 p-4"
+                >
+                  <div>
+                    <div className="flex items-baseline justify-between gap-3">
+                      <p className="text-xs font-semibold uppercase tracking-[0.3em] text-peacock-700">
+                        {languageLabel}
+                      </p>
+                      {translator ? (
+                        <p className="text-[11px] uppercase tracking-[0.2em] text-ink-400">
+                          {translator}
+                        </p>
+                      ) : null}
+                    </div>
+                    <p className="mt-3 whitespace-pre-line text-base leading-relaxed text-ink-700">
+                      {translation}
+                    </p>
+                  </div>
+                  <p className="mt-4 text-[11px] uppercase tracking-[0.25em] text-ink-400">
+                    Source: {source ?? "—"}
                   </p>
                 </div>
-                <p className="mt-4 text-[11px] uppercase tracking-[0.25em] text-ink-400">
-                  Source: {source ?? "—"}
-                </p>
-              </div>
-            );
-          })}
+              );
+            })}
+          </div>
         </div>
 
         <div className="flex flex-wrap items-center justify-between gap-3 border-t border-pearl-200 pt-4 text-sm">

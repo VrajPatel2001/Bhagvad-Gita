@@ -14,7 +14,7 @@ export default function ChaptersPage() {
   return (
     <div className="space-y-10">
       <header className="space-y-4">
-        <h1 className="font-serif text-4xl text-peacock-900 sm:text-5xl">Chapters overview</h1>
+        <h1 className="font-serif text-fluid-display text-peacock-900">Chapters overview</h1>
         <p className="max-w-2xl text-lg text-ink-600">
           Explore each chapter of the Bhagavad Gita in order. Full study content is on the way, but you can
           bookmark the chapter numbers below and check back as the learning experience expands.
@@ -33,7 +33,7 @@ export default function ChaptersPage() {
                 <span className="inline-flex rounded-full bg-sand-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.2em] text-peacock-800">
                   Chapter {chapterNumber.toString().padStart(2, "0")}
                 </span>
-                <h2 className="mt-3 font-serif text-3xl text-peacock-900">Chapter {chapterNumber}</h2>
+                <h2 className="mt-3 font-serif text-fluid-heading text-peacock-900">Chapter {chapterNumber}</h2>
                 <p className="text-sm text-ink-500">Content loading soon</p>
               </div>
               <Link

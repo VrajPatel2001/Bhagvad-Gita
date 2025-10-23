@@ -68,7 +68,7 @@ export function GamesExperience() {
         <div className="relative grid gap-6 md:grid-cols-[1.4fr,1fr] md:items-center">
           <div className="space-y-4">
             <p className="text-xs font-semibold uppercase tracking-[0.4em] text-sand-200/70">Playful study</p>
-            <h1 className="font-serif text-4xl leading-tight text-white sm:text-5xl">
+            <h1 className="font-serif text-fluid-hero leading-tight text-white">
               Core educational games catalog
             </h1>
             <p className="max-w-xl text-sand-50/80">
@@ -97,11 +97,11 @@ export function GamesExperience() {
         <section key={section.title} className="space-y-6">
           <div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
             <div>
-              <h2 className="font-serif text-3xl text-peacock-900 sm:text-4xl">{section.title}</h2>
+              <h2 className="font-serif text-fluid-display text-peacock-900">{section.title}</h2>
               <p className="text-sm text-ink-600">{section.description}</p>
             </div>
           </div>
-          <div className="grid gap-6 lg:grid-cols-3">
+          <div className="grid gap-6 sm:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
             {section.modes.map((mode) => (
               <GameCard key={mode.id} mode={mode} onSelect={handleSelectLevel} />
             ))}

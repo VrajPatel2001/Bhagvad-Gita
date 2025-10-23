@@ -40,7 +40,7 @@ export function GameShell({
           </div>
           <div>
             <p className="text-sm text-ink-500">{mode.focus}</p>
-            <h2 className="font-serif text-3xl text-peacock-900 sm:text-4xl">
+            <h2 className="font-serif text-fluid-display text-peacock-900">
               {mode.name}
             </h2>
             <p className="max-w-xl text-sm text-ink-600">{mode.tagline}</p>

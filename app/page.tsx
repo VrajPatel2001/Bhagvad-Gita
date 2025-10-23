@@ -32,7 +32,7 @@ export default function Home() {
           <span className="inline-flex items-center justify-center rounded-full bg-lotus-100 px-4 py-1 text-sm font-semibold text-saffron-700 shadow-soft">
             Discover the song of the divine
           </span>
-          <h1 className="font-serif text-4xl leading-tight text-peacock-900 sm:text-5xl lg:text-6xl">
+          <h1 className="font-serif text-fluid-hero leading-tight text-peacock-900">
             Cultivate wisdom with the Bhagavad Gita
           </h1>
           <p className="max-w-xl text-lg leading-relaxed text-ink-600">
@@ -93,7 +93,7 @@ export default function Home() {
       <section className="space-y-6">
         <div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
           <div>
-            <h2 className="font-serif text-3xl text-peacock-900 sm:text-4xl">A glimpse of the journey</h2>
+            <h2 className="font-serif text-fluid-display text-peacock-900">A glimpse of the journey</h2>
             <p className="text-ink-600">
               Explore curated chapter highlights to anchor your study sessions.
             </p>
@@ -114,7 +114,7 @@ export default function Home() {
               <span className="inline-flex w-fit rounded-full bg-sand-100 px-3 py-1 text-xs font-semibold tracking-wide text-peacock-800">
                 Chapter {chapter.number}
               </span>
-              <h3 className="font-serif text-2xl text-peacock-900">{chapter.title}</h3>
+              <h3 className="font-serif text-fluid-heading text-peacock-900">{chapter.title}</h3>
               <p className="text-sm font-semibold uppercase tracking-[0.25em] text-saffron-600">
                 {chapter.theme}
               </p>
@@ -137,7 +137,7 @@ export default function Home() {
       <section className="overflow-hidden rounded-3xl border border-pearl-200 bg-gradient-to-br from-peacock-900 via-peacock-700 to-peacock-600 p-10 text-sand-25 shadow-soft">
         <div className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
           <div className="space-y-3">
-            <h2 className="font-serif text-3xl leading-tight sm:text-4xl">
+            <h2 className="font-serif text-fluid-display leading-tight">
               Align study, contemplation, and service.
             </h2>
             <p className="max-w-2xl text-sand-100/80">
