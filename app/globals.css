@@ -3,6 +3,7 @@
 :root {
   color-scheme: light;
   background-color: #fbf8f3;
+  scroll-behavior: smooth;
 }
 
 * {
@@ -26,6 +27,21 @@
 
 .animate-pop {
   animation: gentle-pop 0.45s ease-out;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .animate-pop {
+    animation: none;
+  }
 }
 
 @theme inline {
@@ -57,6 +73,10 @@
 
   --shadow-soft: 0 25px 45px -20px rgba(18, 63, 71, 0.25);
   --radius-3xl: 1.75rem;
+}
+
+:where([id^="chapter-"], [id^="verse-"]) {
+  scroll-margin-top: 6.5rem;
 }
 
 body {

@@ -10,6 +10,8 @@ import { LanguageSwitcher } from "./language-switcher";
 
 type SiteHeaderProps = {
   onOpenChapterNav?: () => void;
+  isChapterNavOpen?: boolean;
+  mobileNavigationId?: string;
 };
 
 function isNavItemActive(pathname: string, href: string): boolean {
@@ -20,7 +22,7 @@ function isNavItemActive(pathname: string, href: string): boolean {
   return pathname === href || pathname.startsWith(`${href}/`);
 }
 
-export function SiteHeader({ onOpenChapterNav }: SiteHeaderProps) {
+export function SiteHeader({ onOpenChapterNav, isChapterNavOpen = false, mobileNavigationId }: SiteHeaderProps) {
   const pathname = usePathname();
 
   return (
@@ -31,6 +33,9 @@ export function SiteHeader({ onOpenChapterNav }: SiteHeaderProps) {
             <button
               type="button"
               onClick={() => onOpenChapterNav?.()}
+              aria-expanded={isChapterNavOpen}
+              aria-controls={mobileNavigationId}
+              aria-label="Open chapter navigation"
               className="inline-flex items-center gap-2 rounded-full border border-pearl-300 bg-white/70 px-4 py-2 text-xs font-semibold uppercase tracking-[0.35em] text-peacock-800 shadow-soft transition hover:border-peacock-300 hover:text-peacock-600 focus:outline-none focus:ring-2 focus:ring-peacock-200 lg:hidden"
             >
               <span aria-hidden className="text-lg leading-none text-peacock-700">
@@ -44,7 +49,7 @@ export function SiteHeader({ onOpenChapterNav }: SiteHeaderProps) {
             </Link>
           </div>
 
-          <nav className="hidden items-center gap-2 text-sm font-medium text-ink-600 md:flex md:gap-4">
+          <nav aria-label="Primary navigation" className="hidden items-center gap-2 text-sm font-medium text-ink-600 md:flex md:gap-4">
             {siteConfig.navigation.map((item) => {
               const isActive = isNavItemActive(pathname, item.href);
 
@@ -70,6 +75,7 @@ export function SiteHeader({ onOpenChapterNav }: SiteHeaderProps) {
             <LanguageSwitcher />
             <Link
               href={siteConfig.cta.href}
+              aria-label={`${siteConfig.cta.label} – ${siteConfig.name}`}
               className="hidden shrink-0 items-center justify-center rounded-full bg-peacock-600 px-5 py-2 text-sm font-semibold text-sand-25 shadow-soft transition hover:bg-peacock-500 sm:inline-flex"
             >
               {siteConfig.cta.label}
@@ -77,7 +83,10 @@ export function SiteHeader({ onOpenChapterNav }: SiteHeaderProps) {
           </div>
         </div>
 
-        <div className="flex items-center gap-2 overflow-x-auto pb-1 text-sm text-ink-600 md:hidden">
+        <nav
+          aria-label="Primary navigation"
+          className="flex items-center gap-2 overflow-x-auto pb-1 text-sm text-ink-600 md:hidden"
+        >
           {siteConfig.navigation.map((item) => {
             const isActive = isNavItemActive(pathname, item.href);
 
@@ -99,11 +108,12 @@ export function SiteHeader({ onOpenChapterNav }: SiteHeaderProps) {
           })}
           <Link
             href={siteConfig.cta.href}
+            aria-label={`${siteConfig.cta.label} – ${siteConfig.name}`}
             className="ml-auto inline-flex flex-shrink-0 items-center justify-center rounded-full border border-peacock-200 bg-peacock-600 px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.3em] text-sand-25 shadow-soft transition hover:bg-peacock-500"
           >
             {siteConfig.cta.label}
           </Link>
-        </div>
+        </nav>
       </div>
     </header>
   );

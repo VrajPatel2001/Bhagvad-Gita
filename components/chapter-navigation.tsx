@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useSyncExternalStore } from "react";
+import { useId, useMemo, useSyncExternalStore } from "react";
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
@@ -70,24 +70,29 @@ export function ChapterNavigation({ variant = "desktop", onNavigate, onDismiss }
     }
   }, [language]);
 
+  const headingId = useId();
+
   return (
     <div className={containerStyles}>
       <header className="flex items-center justify-between gap-4 border-b border-pearl-200/60 px-6 py-5">
         <div>
           <p className="text-xs font-semibold uppercase tracking-[0.25em] text-ink-400">{heading}</p>
-          <h2 className="font-serif text-lg text-peacock-900">Bhagavad Gita chapters</h2>
+          <h2 id={headingId} className="font-serif text-lg text-peacock-900">
+            Bhagavad Gita chapters
+          </h2>
         </div>
         {variant === "mobile" ? (
           <button
             type="button"
             onClick={onDismiss}
+            aria-label="Close chapter navigation"
             className="inline-flex rounded-full border border-pearl-300 px-3 py-1 text-xs font-semibold uppercase tracking-[0.25em] text-peacock-800 transition hover:border-peacock-200 hover:text-peacock-600"
           >
             Close
           </button>
         ) : null}
       </header>
-      <nav className="flex-1 overflow-y-auto px-3 py-4">
+      <nav className="flex-1 overflow-y-auto px-3 py-4" aria-labelledby={headingId}>
         <ul className="flex flex-col gap-2">
           {chapters.map((chapter) => {
             const targetHash = `#chapter-${chapter.number}`;
@@ -101,7 +106,7 @@ export function ChapterNavigation({ variant = "desktop", onNavigate, onDismiss }
                   onClick={() => {
                     onNavigate?.();
                   }}
-                  aria-current={isActive ? "true" : undefined}
+                  aria-current={isActive ? "location" : undefined}
                   className={cn(
                     "group flex flex-col gap-1 rounded-3xl border border-transparent bg-white/70 px-4 py-3 text-left transition hover:border-peacock-100 hover:bg-white/90",
                     isActive && "border-peacock-200 bg-lotus-100/70 shadow-soft",

@@ -8,16 +8,19 @@ const highlights = [
     title: "Verse-by-verse guidance",
     description:
       "Absorb the essence of each teaching with commentary grounded in classical wisdom and modern reflection prompts.",
+    icon: "🪷",
   },
   {
     title: "Meditation & practice cues",
     description:
       "Integrate insights into daily life through gentle practices that cultivate clarity, devotion, and courageous action.",
+    icon: "🧘",
   },
   {
     title: "Curated study journeys",
     description:
       "Follow themed learning paths curated for seekers at every stage, from first-time readers to seasoned practitioners.",
+    icon: "🕯️",
   },
 ];
 
@@ -35,29 +38,40 @@ export default function Home() {
           <p className="max-w-xl text-lg leading-relaxed text-ink-600">
             {siteConfig.description}
           </p>
-          <div className="flex flex-col gap-3 text-sm text-ink-600 sm:text-base">
+          <div className="grid gap-3 text-sm text-ink-600 sm:text-base md:grid-cols-2 xl:grid-cols-3">
             {highlights.map((item) => (
-              <div key={item.title} className="flex gap-3 rounded-2xl border border-pearl-200/80 bg-white/80 p-4 shadow-soft">
-                <span className="mt-1 h-2 w-2 shrink-0 rounded-full bg-saffron-500" aria-hidden />
-                <div>
+              <article
+                key={item.title}
+                className="group flex items-start gap-4 rounded-2xl border border-pearl-200/80 bg-white/80 p-4 shadow-soft transition hover:border-peacock-200 hover:bg-peacock-50/80"
+              >
+                <span
+                  aria-hidden
+                  className="flex h-12 w-12 items-center justify-center rounded-2xl bg-lotus-100 text-xl"
+                >
+                  {item.icon}
+                </span>
+                <div className="space-y-1.5">
                   <p className="font-semibold text-peacock-900">{item.title}</p>
-                  <p className="text-ink-600">{item.description}</p>
+                  <p className="text-ink-600 text-sm sm:text-[0.95rem]">{item.description}</p>
                 </div>
-              </div>
+              </article>
             ))}
           </div>
           <div className="flex flex-wrap items-center gap-4 pt-3">
             <Link
               href={siteConfig.cta.href}
-              className="inline-flex items-center justify-center rounded-full bg-peacock-600 px-6 py-3 text-sm font-semibold text-sand-25 shadow-soft transition hover:bg-peacock-500"
+              aria-label={`${siteConfig.cta.label} and explore curated chapters`}
+              className="inline-flex items-center justify-center gap-2 rounded-full bg-peacock-600 px-6 py-3 text-sm font-semibold text-sand-25 shadow-soft transition hover:bg-peacock-500"
             >
               {siteConfig.cta.label}
+              <span aria-hidden className="text-lg leading-none">→</span>
             </Link>
             <Link
               href="/about"
-              className="text-sm font-semibold text-peacock-900 underline-offset-8 hover:underline"
+              className="inline-flex items-center gap-2 text-sm font-semibold text-peacock-900 underline-offset-8 transition hover:text-peacock-600 hover:underline"
             >
               Learn more about our approach
+              <span aria-hidden className="text-base leading-none">﹥</span>
             </Link>
           </div>
         </div>
@@ -107,6 +121,7 @@ export default function Home() {
               <p className="text-ink-600">{chapter.summary}</p>
               <Link
                 href="/chapters"
+                aria-label={`Read overview for Chapter ${chapter.number}`}
                 className="mt-auto inline-flex items-center gap-2 text-sm font-semibold text-peacock-800 transition group-hover:text-peacock-600"
               >
                 Read chapter overview

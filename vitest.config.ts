@@ -13,8 +13,10 @@ export default defineConfig({
   },
   test: {
     globals: true,
-    environment: "node",
-    include: ["tests/**/*.test.ts"],
+    environment: "jsdom",
+    include: ["tests/**/*.test.{ts,tsx}"],
+    setupFiles: ["tests/setup-test-env.ts"],
+    environmentMatchGlobs: [["tests/chapters-*.test.ts", "node"]],
     timeout: 10000,
   },
 });

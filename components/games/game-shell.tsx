@@ -56,22 +56,33 @@ export function GameShell({
             data-state={status}
           >
             <span className="text-xs font-semibold uppercase tracking-[0.3em] text-ink-500">Score</span>
-            <span className="font-serif text-2xl text-peacock-900">
+            <span className="font-serif text-2xl text-peacock-900" aria-live="polite" aria-atomic="true">
               {score.toLocaleString()}
             </span>
           </div>
           <div className={cn(SCORE_CARD_BASE, "sm:min-w-[7.5rem]")}>
             <span className="text-xs font-semibold uppercase tracking-[0.3em] text-ink-500">Accuracy</span>
-            <span className="font-serif text-2xl text-peacock-800">{accuracyDisplay}%</span>
+            <span className="font-serif text-2xl text-peacock-800" aria-live="polite" aria-atomic="true">
+              {accuracyDisplay}%
+            </span>
           </div>
           <div className={cn(SCORE_CARD_BASE, "sm:min-w-[7rem]")}>
             <span className="text-xs font-semibold uppercase tracking-[0.3em] text-ink-500">Streak</span>
-            <span className="font-serif text-2xl text-saffron-700">{streak}</span>
+            <span className="font-serif text-2xl text-saffron-700" aria-live="polite" aria-atomic="true">
+              {streak}
+            </span>
           </div>
         </div>
       </div>
 
-      <div className="h-2 w-full overflow-hidden rounded-full bg-pearl-200/70">
+      <div
+        className="h-2 w-full overflow-hidden rounded-full bg-pearl-200/70"
+        role="progressbar"
+        aria-valuemin={0}
+        aria-valuemax={progress.total}
+        aria-valuenow={progress.current}
+        aria-valuetext={`${progress.current} of ${progress.total} prompts completed`}
+      >
         <div
           className="h-full rounded-full bg-gradient-to-r from-peacock-500 to-saffron-500 transition-all duration-500"
           style={{ width: `${progressPercent}%` }}
@@ -79,7 +90,11 @@ export function GameShell({
       </div>
 
       {feedback ? (
-        <div className="animate-pop rounded-3xl border border-pearl-200 bg-white/90 p-4 text-sm text-peacock-900 shadow-soft">
+        <div
+          className="animate-pop rounded-3xl border border-pearl-200 bg-white/90 p-4 text-sm text-peacock-900 shadow-soft"
+          role="status"
+          aria-live="polite"
+        >
           {feedback}
         </div>
       ) : null}
