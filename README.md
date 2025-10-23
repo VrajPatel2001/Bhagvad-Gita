@@ -48,11 +48,27 @@ Key routes scaffolded for future development:
 - `/chapters` — Summaries of initial chapters with room for extended study guides
 - `/resources` — Roadmap and placeholders for upcoming study materials
 
+## Screenshots
+
+![Landing page experience](./public/screenshots/overview.svg)
+
+## Experience highlights
+
+- Refined hero spacing and highlight cards introduce spiritual iconography and responsive layouts that scale gracefully from mobile through desktop.
+- Chapter previews and footer links now surface contextual cues with motion-safe hover states and accessible focus treatment.
+- Games catalog gains consistent spacing and colour accents that mirror the main site for a cohesive study journey.
+
 ## Design system notes
 
 Tailwind CSS is configured through `app/globals.css` using the new v4 `@theme` API. Custom colors and shadows evoke warm, peaceful tones such as `sand`, `lotus`, `peacock`, and `saffron`. Use these utilities when composing new interfaces to maintain consistency.
 
 Global typography is managed with Google Fonts (Manrope for body copy and Playfair Display for headings). Utility classes such as `shadow-soft`, `bg-sand-25`, and `text-peacock-900` are available across the app.
+
+## Accessibility & responsiveness
+
+- A persistent “skip to main content” control, labelled navigation drawers, and progress indicators with live regions improve keyboard and assistive technology support.
+- Mobile chapter navigation now traps focus with Escape-to-close support while the main content receives scroll offset guards for in-page anchors.
+- Motion preferences are respected through reduced-motion fallbacks so animated feedback never overwhelms sensitive users.
 
 ## Code quality & conventions
 
@@ -60,6 +76,14 @@ Global typography is managed with Google Fonts (Manrope for body copy and Playfa
 - ESLint and Prettier should be run through the provided npm scripts — avoid committing failing lint errors
 - Keep components stateless where possible and colocate route-specific logic under `app/`
 - Prefer the existing design tokens before introducing new ones; if additions are needed, place them inside the `@theme` block in `app/globals.css`
+
+## Testing
+
+Run the Vitest suite to exercise dataset helpers, the language provider, and game state transitions:
+
+```bash
+npm run test
+```
 
 ## Next steps
 

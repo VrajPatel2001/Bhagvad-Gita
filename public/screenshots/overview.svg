@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Bhagavad Gita learning platform hero illustration</title>
+  <desc id="desc">Stylised mock interface showing the refreshed landing page with warm gradients and cards.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fdf6ec" />
+      <stop offset="50%" stop-color="#f5ede0" />
+      <stop offset="100%" stop-color="#e7f3f3" />
+    </linearGradient>
+    <linearGradient id="card" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#f2f8f8" />
+    </linearGradient>
+    <linearGradient id="cta" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1f6f78" />
+      <stop offset="100%" stop-color="#26828b" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)" rx="42" />
+  <g opacity="0.9" transform="translate(140 120)">
+    <rect width="540" height="260" rx="28" fill="url(#card)" stroke="#e0d3c4" stroke-width="2" />
+    <rect x="24" y="24" width="120" height="24" rx="12" fill="#ffe9ef" />
+    <rect x="24" y="70" width="420" height="32" rx="16" fill="#123f47" opacity="0.9" />
+    <rect x="24" y="118" width="480" height="18" rx="9" fill="#6c6055" />
+    <g transform="translate(24 170)">
+      <rect width="160" height="72" rx="24" fill="#ffffff" stroke="#e0d3c4" />
+      <rect x="16" y="16" width="40" height="40" rx="20" fill="#ffe9ef" />
+      <rect x="68" y="22" width="70" height="12" rx="6" fill="#123f47" />
+      <rect x="68" y="40" width="88" height="10" rx="5" fill="#7d7165" />
+    </g>
+    <g transform="translate(212 170)">
+      <rect width="160" height="72" rx="24" fill="#ffffff" stroke="#e0d3c4" />
+      <rect x="16" y="16" width="40" height="40" rx="20" fill="#e4f4f3" />
+      <rect x="68" y="22" width="70" height="12" rx="6" fill="#123f47" />
+      <rect x="68" y="40" width="88" height="10" rx="5" fill="#7d7165" />
+    </g>
+    <g transform="translate(400 170)">
+      <rect width="160" height="72" rx="24" fill="#ffffff" stroke="#e0d3c4" />
+      <rect x="16" y="16" width="40" height="40" rx="20" fill="#f6d7a7" />
+      <rect x="68" y="22" width="70" height="12" rx="6" fill="#123f47" />
+      <rect x="68" y="40" width="88" height="10" rx="5" fill="#7d7165" />
+    </g>
+    <rect x="24" y="250" width="200" height="56" rx="28" fill="url(#cta)" />
+    <rect x="240" y="260" width="180" height="36" rx="18" fill="none" stroke="#123f47" stroke-width="2" opacity="0.45" />
+  </g>
+  <g transform="translate(760 120)">
+    <rect width="700" height="520" rx="36" fill="#123f47" opacity="0.12" />
+    <rect x="60" y="60" width="580" height="140" rx="28" fill="#ffffff" opacity="0.6" />
+    <rect x="60" y="220" width="580" height="200" rx="32" fill="#ffffff" opacity="0.85" />
+    <rect x="96" y="260" width="260" height="24" rx="12" fill="#1f6f78" opacity="0.7" />
+    <rect x="96" y="300" width="440" height="18" rx="9" fill="#7d7165" opacity="0.8" />
+    <rect x="96" y="330" width="480" height="12" rx="6" fill="#b4a79a" opacity="0.7" />
+    <rect x="96" y="400" width="520" height="24" rx="12" fill="#ffe9ef" opacity="0.75" />
+  </g>
+  <g transform="translate(140 560)">
+    <rect width="1320" height="220" rx="32" fill="#123f47" opacity="0.08" />
+    <rect x="40" y="40" width="280" height="140" rx="28" fill="#ffffff" opacity="0.9" />
+    <rect x="360" y="40" width="280" height="140" rx="28" fill="#ffffff" opacity="0.9" />
+    <rect x="680" y="40" width="280" height="140" rx="28" fill="#ffffff" opacity="0.9" />
+    <rect x="1000" y="40" width="280" height="140" rx="28" fill="#ffffff" opacity="0.9" />
+  </g>
+</svg>

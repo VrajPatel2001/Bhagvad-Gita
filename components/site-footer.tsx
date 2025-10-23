@@ -12,13 +12,14 @@ export function SiteFooter() {
             {siteConfig.description}
           </p>
         </div>
-        <nav className="flex flex-wrap items-center gap-4">
+        <nav className="flex flex-wrap items-center gap-4" aria-label="Footer navigation">
           {siteConfig.footer.links.map((item) => (
             <Link
               key={item.href}
               href={item.href}
-              className="text-ink-500 transition hover:text-peacock-700"
+              className="inline-flex items-center gap-1 text-ink-500 transition hover:text-peacock-700 focus:outline-none focus-visible:rounded-full focus-visible:ring-2 focus-visible:ring-peacock-200"
             >
+              <span aria-hidden className="text-sm">✦</span>
               {item.title}
             </Link>
           ))}
