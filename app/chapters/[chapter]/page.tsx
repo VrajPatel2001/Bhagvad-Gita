@@ -21,8 +21,8 @@ export function generateStaticParams() {
   return CHAPTER_PARAMS.map((chapter) => ({ chapter }));
 }
 
-export function generateMetadata({ params }: ChapterPageProps): Metadata {
-  const { chapter } = params;
+export async function generateMetadata({ params }: ChapterPageProps): Promise<Metadata> {
+  const { chapter } = await params;
 
   if (!CHAPTER_PARAM_SET.has(chapter)) {
     return {
@@ -49,8 +49,8 @@ export function generateMetadata({ params }: ChapterPageProps): Metadata {
   } satisfies Metadata;
 }
 
-export default function ChapterPage({ params }: ChapterPageProps) {
-  const { chapter } = params;
+export default async function ChapterPage({ params }: ChapterPageProps) {
+  const { chapter } = await params;
 
   if (!CHAPTER_PARAM_SET.has(chapter)) {
     notFound();
