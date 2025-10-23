@@ -1,0 +1,733 @@
+{
+  "number": 9,
+  "versesCount": 34,
+  "title": {
+    "sanskrit": "राजविद्याराजगुह्ययोग",
+    "english": "Raja Vidya Yoga",
+    "transliteration": "Rāja Vidyā Yog"
+  },
+  "meaning": {
+    "english": "Yoga through the King of Sciences",
+    "hindi": "परम गुह्य ज्ञान"
+  },
+  "summary": {
+    "english": "The ninth chapter of the Bhagavad Gita is Raja Vidya Yoga. In this chapter, Krishna explains that He is Supreme and how this material existence is created, maintained and destroyed by His Yogmaya and all beings come and go under his supervision. He reveals the Role and the Importance of Bhakti (transcendental devotional service) towards our Spiritual Awakening. In such devotion, one must live for the God, offer everything that he possesses to Him and do everything for Him only. One who follows such devotion becomes free from the bonds of this material world and unites with the Lord.",
+    "hindi": "भगवद गीता का नौवां अध्याय राजविद्याराजगुह्ययोग है। इस अध्याय में, कृष्ण समझाते हैं कि वह सर्वोच्च हैं और यह भौतिक संसार उनकी योगमाया द्वारा रचित और खंडित होता रहता है अथवा मनुष्य उनकी देखरेख में आते जाते रहते हैं। वे हमारी आध्यात्मिक जागरूकता के प्रति भक्ति की भूमिका और महत्व का वर्णन करते हैं। ऐसी भक्ति में मनुष्य को भगवन के लिए ही जीवित रहना चाहिए, अपना सर्वस्व भगवन को ही समर्पित करना चाहिए और सबकुछ भगवन के लिए ही करना चाहिए। जो इस प्रकार की भक्ति का अनुसरण करता है वह इस भौतिक संसार के बंधनों से मुक्त हो जाता है और भगवान के साथ एकजुट हो जाता है।"
+  },
+  "verses": [
+    {
+      "id": "BG9.1",
+      "chapter": 9,
+      "number": 1,
+      "transliteration": "śrībhagavānuvāca .\nidaṃ tu te guhyatamaṃ pravakṣyāmyanasūyave .\njñānaṃ vijñānasahitaṃ yajjñātvā mokṣyase.aśubhāt ||9-1||",
+      "text": {
+        "sanskrit": "श्रीभगवानुवाच |\nइदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे |\nज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ||९-१||",
+        "hindi": "।।9.1।। श्रीभगवान् ने कहा -- तुम अनसूयु (दोष दृष्टि रहित) के लिए मैं इस गुह्यतम ज्ञान को विज्ञान के सहित कहूँगा, जिसको जानकर तुम अशुभ (संसार बंधन) से मुक्त हो जाओगे।।",
+        "english": "The Supreme Personality of Godhead said: My dear Arjuna, because you are never envious of Me, I shall impart to you this most confidential knowledge and realization, knowing which you shall be relieved of the miseries of material existence."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.2",
+      "chapter": 9,
+      "number": 2,
+      "transliteration": "rājavidyā rājaguhyaṃ pavitramidamuttamam .\npratyakṣāvagamaṃ dharmyaṃ susukhaṃ kartumavyayam ||9-2||",
+      "text": {
+        "sanskrit": "राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् |\nप्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् ||९-२||",
+        "hindi": "।।9.2।। यह ज्ञान राजविद्या (विद्याओं का राजा) और राजगुह्य (सब गुह्यों अर्थात् रहस्यों का राजा) एवं पवित्र, उत्तम, प्रत्यक्ष ज्ञानवाला और धर्मयुक्त है, तथा करने में सरल और अव्यय है।।",
+        "english": "This knowledge is the king of education, the most secret of all secrets. It is the purest knowledge, and because it gives direct perception of the self by realization, it is the perfection of religion. It is everlasting, and it is joyfully performed."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.3",
+      "chapter": 9,
+      "number": 3,
+      "transliteration": "aśraddadhānāḥ puruṣā dharmasyāsya parantapa .\naprāpya māṃ nivartante mṛtyusaṃsāravartmani ||9-3||",
+      "text": {
+        "sanskrit": "अश्रद्दधानाः पुरुषा धर्मस्यास्य परन्तप |\nअप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि ||९-३||",
+        "hindi": "।।9.3।। हे परन्तप ! इस धर्म में श्रद्धारहित पुरुष मुझे प्राप्त न होकर मृत्युरूपी संसार में रहते हैं (भ्रमण करते हैं)।।",
+        "english": "Those who are not faithful in this devotional service cannot attain Me, O conqueror of enemies. Therefore they return to the path of birth and death in this material world."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.4",
+      "chapter": 9,
+      "number": 4,
+      "transliteration": "mayā tatamidaṃ sarvaṃ jagadavyaktamūrtinā .\nmatsthāni sarvabhūtāni na cāhaṃ teṣvavasthitaḥ ||9-4||",
+      "text": {
+        "sanskrit": "मया ततमिदं सर्वं जगदव्यक्तमूर्तिना |\nमत्स्थानि सर्वभूतानि न चाहं तेष्ववस्थितः ||९-४||",
+        "hindi": "।।9.4।। यह सम्पूर्ण जगत् मुझ (परमात्मा) के अव्यक्त स्वरूप से व्याप्त है; भूतमात्र मुझमें स्थित है, परन्तु मैं उनमें स्थित नहीं हूं।।",
+        "english": "By Me, in My unmanifested form, this entire universe is pervaded. All beings are in Me, but I am not in them."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.5",
+      "chapter": 9,
+      "number": 5,
+      "transliteration": "na ca matsthāni bhūtāni paśya me yogamaiśvaram .\nbhūtabhṛnna ca bhūtastho mamātmā bhūtabhāvanaḥ ||9-5||",
+      "text": {
+        "sanskrit": "न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् |\nभूतभृन्न च भूतस्थो ममात्मा भूतभावनः ||९-५||",
+        "hindi": "।।9.5।। और (वस्तुत:) भूतमात्र मुझ में स्थित नहीं है; मेरे ईश्वरीय योग को देखो कि भूतों को धारण करने वाली और भूतों को उत्पन्न करने वाली मेरी आत्मा उन भूतों में स्थित नहीं है।।",
+        "english": "And yet everything that is created does not rest in Me. Behold My mystic opulence! Although I am the maintainer of all living entities and although I am everywhere, I am not a part of this cosmic manifestation, for My Self is the very source of creation."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.6",
+      "chapter": 9,
+      "number": 6,
+      "transliteration": "yathākāśasthito nityaṃ vāyuḥ sarvatrago mahān .\ntathā sarvāṇi bhūtāni matsthānītyupadhāraya ||9-6||",
+      "text": {
+        "sanskrit": "यथाकाशस्थितो नित्यं वायुः सर्वत्रगो महान् |\nतथा सर्वाणि भूतानि मत्स्थानीत्युपधारय ||९-६||",
+        "hindi": "।।9.6।। जैसे सर्वत्र विचरण करने वाली महान् वायु सदा आकाश में स्थित रहती हैं, वैसे ही सम्पूर्ण भूत मुझमें स्थित हैं, ऐसा तुम जानो।।",
+        "english": "Understand that as the mighty wind, blowing everywhere, rests always in the sky, all created beings rest in Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.7",
+      "chapter": 9,
+      "number": 7,
+      "transliteration": "sarvabhūtāni kaunteya prakṛtiṃ yānti māmikām .\nkalpakṣaye punastāni kalpādau visṛjāmyaham ||9-7||",
+      "text": {
+        "sanskrit": "सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् |\nकल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् ||९-७||",
+        "hindi": "।।9.7।। हे कौन्तेय ! (एक) कल्प के अन्त में समस्त भूत मेरी प्रकृति को प्राप्त होते हैं; और (दूसरे) कल्प के प्रारम्भ में उनको मैं फिर रचता हूँ।।",
+        "english": "O son of Kuntī, at the end of the millennium all material manifestations enter into My nature, and at the beginning of another millennium, by My potency, I create them again."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.8",
+      "chapter": 9,
+      "number": 8,
+      "transliteration": "prakṛtiṃ svāmavaṣṭabhya visṛjāmi punaḥ punaḥ .\nbhūtagrāmamimaṃ kṛtsnamavaśaṃ prakṛtervaśāt ||9-8||",
+      "text": {
+        "sanskrit": "प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः |\nभूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात् ||९-८||",
+        "hindi": "।।9.8।। प्रकृति को अपने वश में करके (अर्थात् उसे चेतनता प्रदान कर) स्वभाव के वश से परतन्त्र (अवश) हुए इस सम्पूर्ण भूत समुदाय को मैं पुन:-पुन: रचता हूँ।।",
+        "english": "The whole cosmic order is under Me. Under My will it is automatically manifested again and again, and under My will it is annihilated at the end."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.9",
+      "chapter": 9,
+      "number": 9,
+      "transliteration": "na ca māṃ tāni karmāṇi nibadhnanti dhanañjaya .\nudāsīnavadāsīnamasaktaṃ teṣu karmasu ||9-9||",
+      "text": {
+        "sanskrit": "न च मां तानि कर्माणि निबध्नन्ति धनञ्जय |\nउदासीनवदासीनमसक्तं तेषु कर्मसु ||९-९||",
+        "hindi": "।।9.9।। हे धनंजय ! उन कर्मों में आसक्ति रहित और उदासीन के समान स्थित मुझ (परमात्मा) को वे कर्म नहीं बांधते हैं।।",
+        "english": "O Dhanañjaya, all this work cannot bind Me. I am ever detached from all these material activities, seated as though neutral."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.10",
+      "chapter": 9,
+      "number": 10,
+      "transliteration": "mayādhyakṣeṇa prakṛtiḥ sūyate sacarācaram .\nhetunānena kaunteya jagadviparivartate ||9-10||",
+      "text": {
+        "sanskrit": "मयाध्यक्षेण प्रकृतिः सूयते सचराचरम् |\nहेतुनानेन कौन्तेय जगद्विपरिवर्तते ||९-१०||",
+        "hindi": "।।9.10।। हे कौन्तेय ! मुझ अध्यक्ष के कारण ( अर्थात् मेरी अध्यक्षता में) प्रकृति चराचर जगत् को उत्पन्न करती है; इस कारण यह जगत् घूमता रहता है।।",
+        "english": "This material nature, which is one of My energies, is working under My direction, O son of Kuntī, producing all moving and nonmoving beings. Under its rule this manifestation is created and annihilated again and again."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.11",
+      "chapter": 9,
+      "number": 11,
+      "transliteration": "avajānanti māṃ mūḍhā mānuṣīṃ tanumāśritam .\nparaṃ bhāvamajānanto mama bhūtamaheśvaram ||9-11||",
+      "text": {
+        "sanskrit": "अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् |\nपरं भावमजानन्तो मम भूतमहेश्वरम् ||९-११||",
+        "hindi": "।।9.11।। समस्त भूतों के महान् ईश्वर रूप मेरे परम भाव को नहीं जानते हुए मूढ़ लोग मनुष्य शरीरधारी मुझ परमात्मा का अनादर करते हैं।।",
+        "english": "Fools deride Me when I descend in the human form. They do not know My transcendental nature as the Supreme Lord of all that be."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.12",
+      "chapter": 9,
+      "number": 12,
+      "transliteration": "moghāśā moghakarmāṇo moghajñānā vicetasaḥ .\nrākṣasīmāsurīṃ caiva prakṛtiṃ mohinīṃ śritāḥ ||9-12||",
+      "text": {
+        "sanskrit": "मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः |\nराक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः ||९-१२||",
+        "hindi": "।।9.12।। वृथा आशा, वृथा कर्म और वृथा ज्ञान वाले अविचारीजन राक्षसों के और असुरों के मोहित करने वाले स्वभाव को धारण किये रहते हैं।।",
+        "english": "Those who are thus bewildered are attracted by demonic and atheistic views. In that deluded condition, their hopes for liberation, their fruitive activities, and their culture of knowledge are all defeated."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.13",
+      "chapter": 9,
+      "number": 13,
+      "transliteration": "mahātmānastu māṃ pārtha daivīṃ prakṛtimāśritāḥ .\nbhajantyananyamanaso jñātvā bhūtādimavyayam ||9-13||",
+      "text": {
+        "sanskrit": "महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः |\nभजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् ||९-१३||",
+        "hindi": "।।9.13।। हे पार्थ ! परन्तु दैवी प्रकृति के आश्रित महात्मा पुरुष मुझे समस्त भूतों का आदिकारण और अव्ययस्वरूप जानकर अनन्यमन से युक्त होकर मुझे भजते हैं।।",
+        "english": "O son of Pṛthā, those who are not deluded, the great souls, are under the protection of the divine nature. They are fully engaged in devotional service because they know Me as the Supreme Personality of Godhead, original and inexhaustible."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.14",
+      "chapter": 9,
+      "number": 14,
+      "transliteration": "satataṃ kīrtayanto māṃ yatantaśca dṛḍhavratāḥ .\nnamasyantaśca māṃ bhaktyā nityayuktā upāsate ||9-14||",
+      "text": {
+        "sanskrit": "सततं कीर्तयन्तो मां यतन्तश्च दृढव्रताः |\nनमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते ||९-१४||",
+        "hindi": "।।9.14।। सतत मेरा कीर्तन करते हुए, प्रयत्नशील, दढ़व्रती पुरुष मुझे नमस्कार करते हुए, नित्ययुक्त होकर भक्तिपूर्वक मेरी उपासना करते हैं।।",
+        "english": "Always chanting My glories, endeavoring with great determination, bowing down before Me, these great souls perpetually worship Me with devotion."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.15",
+      "chapter": 9,
+      "number": 15,
+      "transliteration": "jñānayajñena cāpyanye yajanto māmupāsate .\nekatvena pṛthaktvena bahudhā viśvatomukham ||9-15||",
+      "text": {
+        "sanskrit": "ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते |\nएकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम् ||९-१५||",
+        "hindi": "।।9.15।। कोई मुझे ज्ञानयज्ञ के द्वारा पूजन करते हुए एकत्वभाव से उपासते हैं, कोई पृथक भाव से, कोई बहुत प्रकार से मुझ विराट स्वरूप (विश्वतो मुखम्) को उपासते हैं।।",
+        "english": "Others, who engage in sacrifice by the cultivation of knowledge, worship the Supreme Lord as the one without a second, as diverse in many, and in the universal form."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.16",
+      "chapter": 9,
+      "number": 16,
+      "transliteration": "ahaṃ kraturahaṃ yajñaḥ svadhāhamahamauṣadham .\nmantro.ahamahamevājyamahamagnirahaṃ hutam ||9-16||",
+      "text": {
+        "sanskrit": "अहं क्रतुरहं यज्ञः स्वधाहमहमौषधम् |\nमन्त्रोऽहमहमेवाज्यमहमग्निरहं हुतम् ||९-१६||",
+        "hindi": "।।9.16।। मैं ऋक्रतु हूँ; मैं यज्ञ हूँ; स्वधा और औषध मैं हूँ, मैं मन्त्र हूँ, घी हूँ, मैं अग्नि हूँ और हुतं अर्थात् हवन कर्म मैं हूँ।।",
+        "english": "But it is I who am the ritual, I the sacrifice, the offering to the ancestors, the healing herb, the transcendental chant. I am the butter and the fire and the offering."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.17",
+      "chapter": 9,
+      "number": 17,
+      "transliteration": "pitāhamasya jagato mātā dhātā pitāmahaḥ .\nvedyaṃ pavitramoṃkāra ṛksāma yajureva ca ||9-17||",
+      "text": {
+        "sanskrit": "पिताहमस्य जगतो माता धाता पितामहः |\nवेद्यं पवित्रमोंकार ऋक्साम यजुरेव च ||९-१७||",
+        "hindi": "।।9.17।। मैं ही इस जगत् का पिता, माता, धाता (धारण करने वाला) और पितामह हूँमैं वेद्य (जानने योग्य) वस्तु हूँ, पवित्र, ओंकार, ऋग्वेद, सामवेद और यजुर्वेद भी मैं ही हूँ।।",
+        "english": "I am the father of this universe, the mother, the support and the grandsire. I am the object of knowledge, the purifier and the syllable oṁ. I am also the Ṛg, the Sāma and the Yajur Vedas."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.18",
+      "chapter": 9,
+      "number": 18,
+      "transliteration": "gatirbhartā prabhuḥ sākṣī nivāsaḥ śaraṇaṃ suhṛt .\nprabhavaḥ pralayaḥ sthānaṃ nidhānaṃ bījamavyayam ||9-18||",
+      "text": {
+        "sanskrit": "गतिर्भर्ता प्रभुः साक्षी निवासः शरणं सुहृत् |\nप्रभवः प्रलयः स्थानं निधानं बीजमव्ययम् ||९-१८||",
+        "hindi": "।।9.18।। गति (लक्ष्य), भरण-पोषण करने वाला, प्रभु (स्वामी), साक्षी, निवास, शरणस्थान तथा मित्र और उत्पत्ति, प्रलयरूप तथा स्थान (आधार), निधान और अव्यय कारण भी मैं हूँ।।",
+        "english": "I am the goal, the sustainer, the master, the witness, the abode, the refuge and the most dear friend. I am the creation and the annihilation, the basis of everything, the resting place and the eternal seed."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.19",
+      "chapter": 9,
+      "number": 19,
+      "transliteration": "tapāmyahamahaṃ varṣaṃ nigṛhṇāmyutsṛjāmi ca .\namṛtaṃ caiva mṛtyuśca sadasaccāhamarjuna ||9-19||",
+      "text": {
+        "sanskrit": "तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च |\nअमृतं चैव मृत्युश्च सदसच्चाहमर्जुन ||९-१९||",
+        "hindi": "।।9.19।। हे अर्जुन ! मैं ही (सूर्य रूप में) तपता हूँ; मैं वर्षा का निग्रह और उत्सर्जन करता हूँ। मैं ही अमृत और मृत्यु एवं सत् और असत् हूँ।।",
+        "english": "O Arjuna, I give heat, and I withhold and send forth the rain. I am immortality, and I am also death personified. Both spirit and matter are in Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.20",
+      "chapter": 9,
+      "number": 20,
+      "transliteration": "traividyā māṃ somapāḥ pūtapāpā yajñairiṣṭvā svargatiṃ prārthayante .\nte puṇyamāsādya surendralokaṃ aśnanti divyāndivi devabhogān ||9-20||",
+      "text": {
+        "sanskrit": "त्रैविद्या मां सोमपाः पूतपापा\nयज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते |\nते पुण्यमासाद्य सुरेन्द्रलोक-\nमश्नन्ति दिव्यान्दिवि देवभोगान् ||९-२०||",
+        "hindi": "।।9.20।। तीनों वेदों के ज्ञाता (वेदोक्त सकाम कर्म करने वाले), सोमपान करने वाले एवं पापों से पवित्र हुए पुरुष मुझे यज्ञों के द्वारा पूजकर स्वर्ग प्राप्ति चाहते हैं; वे पुरुष अपने पुण्यों के फलरूप इन्द्रलोक को प्राप्त कर स्वर्ग में दिव्य देवताओं के भोग भोगते हैं।।",
+        "english": "Those who study the Vedas and drink the soma juice, seeking the heavenly planets, worship Me indirectly. Purified of sinful reactions, they take birth on the pious, heavenly planet of Indra, where they enjoy godly delights."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.21",
+      "chapter": 9,
+      "number": 21,
+      "transliteration": "te taṃ bhuktvā svargalokaṃ viśālaṃ kṣīṇe puṇye martyalokaṃ viśanti .\nevaṃ trayīdharmamanuprapannā gatāgataṃ kāmakāmā labhante ||9-21||",
+      "text": {
+        "sanskrit": "ते तं भुक्त्वा स्वर्गलोकं विशालं\nक्षीणे पुण्ये मर्त्यलोकं विशन्ति |\nएवं त्रयीधर्ममनुप्रपन्ना\nगतागतं कामकामा लभन्ते ||९-२१||",
+        "hindi": "।।9.21।। वे उस विशाल स्वर्गलोक को भोगकर, पुण्यक्षीण होने पर, मृत्युलोक को प्राप्त होते हैं। इस प्रकार तीनों वेदों में कहे गये कर्म के शरण हुए और भोगों की कामना वाले पुरुष आवागमन (गतागत) को प्राप्त होते हैं।।",
+        "english": "When they have thus enjoyed vast heavenly sense pleasure and the results of their pious activities are exhausted, they return to this mortal planet again. Thus those who seek sense enjoyment by adhering to the principles of the three Vedas achieve only repeated birth and death."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.22",
+      "chapter": 9,
+      "number": 22,
+      "transliteration": "ananyāścintayanto māṃ ye janāḥ paryupāsate .\nteṣāṃ nityābhiyuktānāṃ yogakṣemaṃ vahāmyaham ||9-22||",
+      "text": {
+        "sanskrit": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते |\nतेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ||९-२२||",
+        "hindi": "।।9.22।। अनन्य भाव से मेरा चिन्तन करते हुए जो भक्तजन मेरी ही उपासना करते हैं, उन नित्ययुक्त पुरुषों का योगक्षेम मैं वहन करता हूँ।।",
+        "english": "But those who always worship Me with exclusive devotion, meditating on My transcendental form – to them I carry what they lack, and I preserve what they have."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.23",
+      "chapter": 9,
+      "number": 23,
+      "transliteration": "ye.apyanyadevatābhaktā yajante śraddhayānvitāḥ .\nte.api māmeva kaunteya yajantyavidhipūrvakam ||9-23||",
+      "text": {
+        "sanskrit": "येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयान्विताः |\nतेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम् ||९-२३||",
+        "hindi": "।।9.23।। हे कौन्तेय ! श्रद्धा से युक्त जो भक्त अन्य देवताओं को पूजते हैं, वे भी मुझे ही अविधिपूर्वक पूजते हैं।।",
+        "english": "Those who are devotees of other gods and who worship them with faith actually worship only Me, O son of Kuntī, but they do so in a wrong way."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.24",
+      "chapter": 9,
+      "number": 24,
+      "transliteration": "ahaṃ hi sarvayajñānāṃ bhoktā ca prabhureva ca .\nna tu māmabhijānanti tattvenātaścyavanti te ||9-24||",
+      "text": {
+        "sanskrit": "अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च |\nन तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते ||९-२४||",
+        "hindi": "।।9.24।। क्योंकि सब यज्ञों का भोक्ता और स्वामी मैं ही हूँ, परन्तु वे मुझे तत्त्वत: नहीं जानते हैं, इसलिए वे गिरते हैं, अर्थात् संसार को प्राप्त होते हैं।।",
+        "english": "I am the only enjoyer and master of all sacrifices. Therefore, those who do not recognize My true transcendental nature fall down."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.25",
+      "chapter": 9,
+      "number": 25,
+      "transliteration": "yānti devavratā devānpitṝnyānti pitṛvratāḥ .\nbhūtāni yānti bhūtejyā yānti madyājino.api mām ||9-25||",
+      "text": {
+        "sanskrit": "यान्ति देवव्रता देवान्पितॄन्यान्ति पितृव्रताः |\nभूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम् ||९-२५||",
+        "hindi": "।।9.25।। देवताओं के पूजक देवताओं को प्राप्त होते हैं, पितरपूजक पितरों को जाते हैं, भूतों का यजन करने वाले भूतों को प्राप्त होते हैं और मुझे पूजने वाले भक्त मुझे ही प्राप्त होते हैं।।",
+        "english": "Those who worship the demigods will take birth among the demigods; those who worship the ancestors go to the ancestors; those who worship ghosts and spirits will take birth among such beings; and those who worship Me will live with Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.26",
+      "chapter": 9,
+      "number": 26,
+      "transliteration": "patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati .\ntadahaṃ bhaktyupahṛtamaśnāmi prayatātmanaḥ ||9-26||",
+      "text": {
+        "sanskrit": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति |\nतदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ||९-२६||",
+        "hindi": "।।9.26।। जो कोई भी भक्त मेरे लिए पत्र, पुष्प, फल, जल आदि भक्ति से अर्पण करता है, उस शुद्ध मन के भक्त का वह भक्तिपूर्वक अर्पण किया हुआ (पत्र पुष्पादि) मैं भोगता हूँ अर्थात् स्वीकार करता हूँ।।",
+        "english": "If one offers Me with love and devotion a leaf, a flower, a fruit or water, I will accept it."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.27",
+      "chapter": 9,
+      "number": 27,
+      "transliteration": "yatkaroṣi yadaśnāsi yajjuhoṣi dadāsi yat .\nyattapasyasi kaunteya tatkuruṣva madarpaṇam ||9-27||",
+      "text": {
+        "sanskrit": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् |\nयत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ||९-२७||",
+        "hindi": "।।9.27।। हे कौन्तेय ! तुम जो कुछ कर्म करते हो, जो कुछ खाते हो, जो कुछ हवन करते हो, जो कुछ दान देते हो और जो कुछ तप करते हो, वह सब तुम मुझे अर्पण करो।।",
+        "english": "Whatever you do, whatever you eat, whatever you offer or give away, and whatever austerities you perform – do that, O son of Kuntī, as an offering to Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.28",
+      "chapter": 9,
+      "number": 28,
+      "transliteration": "śubhāśubhaphalairevaṃ mokṣyase karmabandhanaiḥ .\nsaṃnyāsayogayuktātmā vimukto māmupaiṣyasi ||9-28||",
+      "text": {
+        "sanskrit": "शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनैः |\nसंन्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि ||९-२८||",
+        "hindi": "।।9.28।। इस प्रकार तुम शुभाशुभ फलस्वरूप कर्मबन्धनों से मुक्त हो जाओगे; और संन्यासयोग से युक्तचित्त हुए तुम विमुक्त होकर मुझे ही प्राप्त हो जाओगे।।",
+        "english": "In this way you will be freed from bondage to work and its auspicious and inauspicious results. With your mind fixed on Me in this principle of renunciation, you will be liberated and come to Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.29",
+      "chapter": 9,
+      "number": 29,
+      "transliteration": "samo.ahaṃ sarvabhūteṣu na me dveṣyo.asti na priyaḥ .\nye bhajanti tu māṃ bhaktyā mayi te teṣu cāpyaham ||9-29||",
+      "text": {
+        "sanskrit": "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः |\nये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ||९-२९||",
+        "hindi": "।।9.29।। मैं समस्त भूतों में सम हूँ; न कोई मुझे अप्रिय है और न प्रिय; परन्तु जो मुझे भक्तिपूर्वक भजते हैं, वे मुझमें और मैं भी उनमें हूँ।।",
+        "english": "I envy no one, nor am I partial to anyone. I am equal to all. But whoever renders service unto Me in devotion is a friend, is in Me, and I am also a friend to him."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.30",
+      "chapter": 9,
+      "number": 30,
+      "transliteration": "api cetsudurācāro bhajate māmananyabhāk .\nsādhureva sa mantavyaḥ samyagvyavasito hi saḥ ||9-30||",
+      "text": {
+        "sanskrit": "अपि चेत्सुदुराचारो भजते मामनन्यभाक् |\nसाधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः ||९-३०||",
+        "hindi": "।।9.30।। यदि कोई अतिशय दुराचारी भी अनन्यभाव से मेरा भक्त होकर मुझे भजता है, वह साधु ही मानने योग्य है, क्योंकि वह यथार्थ निश्चय वाला है।।",
+        "english": "Even if one commits the most abominable action, if he is engaged in devotional service he is to be considered saintly because he is properly situated in his determination."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.31",
+      "chapter": 9,
+      "number": 31,
+      "transliteration": "kṣipraṃ bhavati dharmātmā śaśvacchāntiṃ nigacchati .\nkaunteya pratijānīhi na me bhaktaḥ praṇaśyati ||9-31||",
+      "text": {
+        "sanskrit": "क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति |\nकौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति ||९-३१||",
+        "hindi": "।।9.31।। हे कौन्तेय, वह शीघ्र ही धर्मात्मा बन जाता है और शाश्वत शान्ति को प्राप्त होता है। तुम निश्चयपूर्वक सत्य जानो कि मेरा भक्त कभी नष्ट नहीं होता।।",
+        "english": "He quickly becomes righteous and attains lasting peace. O son of Kuntī, declare it boldly that My devotee never perishes."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.32",
+      "chapter": 9,
+      "number": 32,
+      "transliteration": "māṃ hi pārtha vyapāśritya ye.api syuḥ pāpayonayaḥ .\nstriyo vaiśyāstathā śūdrāste.api yānti parāṃ gatim ||9-32||",
+      "text": {
+        "sanskrit": "मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः |\nस्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम् ||९-३२||",
+        "hindi": "।।9.32।। हे पार्थ ! स्त्री, वैश्य और शूद्र ये जो कोई पापयोनि वाले हों, वे भी मुझ पर आश्रित (मेरे शरण) होकर परम गति को प्राप्त होते हैं।।",
+        "english": "O son of Pṛthā, those who take shelter in Me, though they be of lower birth – women, vaiśyas [merchants] and śūdras [workers] – can attain the supreme destination."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.33",
+      "chapter": 9,
+      "number": 33,
+      "transliteration": "kiṃ punarbrāhmaṇāḥ puṇyā bhaktā rājarṣayastathā .\nanityamasukhaṃ lokamimaṃ prāpya bhajasva mām ||9-33||",
+      "text": {
+        "sanskrit": "किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा |\nअनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् ||९-३३||",
+        "hindi": "।।9.33।। फिर क्या कहना है कि पुण्यशील ब्राह्मण और राजर्षि भक्तजन (परम गति को प्राप्त होते हैं); (इसलिए) इस अनित्य और सुखरहित लोक को प्राप्त होकर (अब) तुम भक्तिपूर्वक मेरी ही पूजा करो।।",
+        "english": "How much more this is so of the righteous brāhmaṇas, the devotees and the saintly kings. Therefore, having come to this temporary, miserable world, engage in loving service unto Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG9.34",
+      "chapter": 9,
+      "number": 34,
+      "transliteration": "manmanā bhava madbhakto madyājī māṃ namaskuru .\nmāmevaiṣyasi yuktvaivamātmānaṃ matparāyaṇaḥ ||9-34||",
+      "text": {
+        "sanskrit": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु |\nमामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः ||९-३४||",
+        "hindi": "।।9.34।। (तुम) मुझमें स्थिर मन वाले बनो; मेरे भक्त और मेरे पूजन करने वाले बनो; मुझे नमस्कार करो; इस प्रकार मत्परायण (अर्थात् मैं ही जिसका परम लक्ष्य हूँ ऐसे) होकर आत्मा को मुझसे युक्त करके तुम मुझे ही प्राप्त होओगे।।",
+        "english": "Engage your mind always in thinking of Me, become My devotee, offer obeisances to Me and worship Me. Being completely absorbed in Me, surely you will come to Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    }
+  ]
+}

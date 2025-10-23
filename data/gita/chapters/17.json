@@ -1,0 +1,607 @@
+{
+  "number": 17,
+  "versesCount": 28,
+  "title": {
+    "sanskrit": "श्रद्धात्रयविभागयोग",
+    "english": "Sraddhatraya Vibhaga Yoga",
+    "transliteration": "Śhraddhā Traya Vibhāg Yog"
+  },
+  "meaning": {
+    "english": "Yoga through Discerning the Three Divisions of Faith",
+    "hindi": "श्रद्धा के विभाग"
+  },
+  "summary": {
+    "english": "The seventeenth chapter of the Bhagavad Gita is Sraddhatraya Vibhaga Yoga. In this chapter, Krishna describes the three types of faith corresponding to the three modes of the material nature. Lord Krishna further reveals that it is the nature of faith that determines the quality of life and the character of living entities. Those who have faith in passion and ignorance perform actions that yield temporary, material results while those who have faith in goodness perform actions in accordance with scriptural instructions and hence their hearts get further purified.",
+    "hindi": "भगवद गीता का सत्रहवा अध्याय श्रद्धात्रयविभागयोग है। इस अध्याय में, कृष्ण भौतिक प्रकृति के तीन गुणों से संबंधित तीन प्रकार के विश्वासों का वर्णन करते हैं। भगवान कृष्ण आगे बताते हैं कि यह विश्वास की प्रकृति है जो जीवन की गुणवत्ता और जीवित संस्थाओं के चरित्र को निर्धारित करती है। जो लोग लालसा और अज्ञानता में विश्वास रखते हैं, वे ऐसे कार्य करते हैं जो कि अस्थायी और भौतिक फल देते हैं परन्तु जो लोग अच्छाई में विश्वास रखते हैं वे शास्त्रपूर्ण निर्देशों के अनुसार कार्य करते हैं और इसलिए उन्हें स्थायी और अधिक प्रवीण फल प्राप्त होते हैं जो मन को और भी शुद्ध करते हैं।"
+  },
+  "verses": [
+    {
+      "id": "BG17.1",
+      "chapter": 17,
+      "number": 1,
+      "transliteration": "arjuna uvāca .\nye śāstravidhimutsṛjya yajante śraddhayānvitāḥ .\nteṣāṃ niṣṭhā tu kā kṛṣṇa sattvamāho rajastamaḥ ||17-1||",
+      "text": {
+        "sanskrit": "अर्जुन उवाच |\nये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः |\nतेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः ||१७-१||",
+        "hindi": "।।17.1।। अर्जुन ने कहा -- हे कृष्ण ! जो लोग शास्त्रविधि को त्यागकर (केवल) श्रद्धा युक्त यज्ञ (पूजा) करते हैं, उनकी स्थिति (निष्ठा) कौन सी है ?क्या वह सात्त्विक है अथवा राजसिक या तामसिक ?",
+        "english": "Arjuna inquired: O Kṛṣṇa, what is the situation of those who do not follow the principles of scripture but worship according to their own imagination? Are they in goodness, in passion or in ignorance?"
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.2",
+      "chapter": 17,
+      "number": 2,
+      "transliteration": "śrībhagavānuvāca .\ntrividhā bhavati śraddhā dehināṃ sā svabhāvajā .\nsāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu ||17-2||",
+      "text": {
+        "sanskrit": "श्रीभगवानुवाच |\nत्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा |\nसात्त्विकी राजसी चैव तामसी चेति तां शृणु ||१७-२||",
+        "hindi": "।।17.2।। श्री भगवान् ने कहा -- देहधारियों (मनुष्यों) की वह स्वाभाविक (ज्ञानरहित) श्रद्धा तीन प्रकार की - सात्त्विक, राजसिक और तामसिक - होती हैं, उसे तुम मुझसे सुनो।।",
+        "english": "The Supreme Personality of Godhead said: According to the modes of nature acquired by the embodied soul, one’s faith can be of three kinds – in goodness, in passion or in ignorance. Now hear about this."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.3",
+      "chapter": 17,
+      "number": 3,
+      "transliteration": "sattvānurūpā sarvasya śraddhā bhavati bhārata .\nśraddhāmayo.ayaṃ puruṣo yo yacchraddhaḥ sa eva saḥ ||17-3||",
+      "text": {
+        "sanskrit": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत |\nश्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः ||१७-३||",
+        "hindi": "।।17.3।। हे भारत सभी मनुष्यों की श्रद्धा उनके सत्त्व (स्वभाव, संस्कार) के अनुरूप होती है। यह पुरुष श्रद्धामय है, इसलिए जो पुरुष जिस श्रद्धा वाला है वह स्वयं भी वही है अर्थात् जैसी जिसकी श्रद्धा वैसा ही उसका स्वरूप होता है।।",
+        "english": "O son of Bharata, according to one’s existence under the various modes of nature, one evolves a particular kind of faith. The living being is said to be of a particular faith according to the modes he has acquired."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.4",
+      "chapter": 17,
+      "number": 4,
+      "transliteration": "yajante sāttvikā devānyakṣarakṣāṃsi rājasāḥ .\npretānbhūtagaṇāṃścānye yajante tāmasā janāḥ ||17-4||",
+      "text": {
+        "sanskrit": "यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः |\nप्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः ||१७-४||",
+        "hindi": "।।17.4।। सात्त्विक पुरुष देवताओं को पूजते हैं और राजस लोग यक्ष और राक्षसों को, तथा अन्य तामसी जन प्रेत और भूतगणों को पूजते हैं।।",
+        "english": "Men in the mode of goodness worship the demigods; those in the mode of passion worship the demons; and those in the mode of ignorance worship ghosts and spirits."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.5",
+      "chapter": 17,
+      "number": 5,
+      "transliteration": "aśāstravihitaṃ ghoraṃ tapyante ye tapo janāḥ .\ndambhāhaṃkārasaṃyuktāḥ kāmarāgabalānvitāḥ ||17-5||",
+      "text": {
+        "sanskrit": "अशास्त्रविहितं घोरं तप्यन्ते ये तपो जनाः |\nदम्भाहंकारसंयुक्ताः कामरागबलान्विताः ||१७-५||",
+        "hindi": "।।17.5।। जो लोग शास्त्रविधि से रहित घोर तप करते हैं तथा दम्भ, अहंकार, काम और राग से भी युक्त होते हैं।।",
+        "english": "Those who undergo severe austerities and penances not recommended in the scriptures, performing them out of pride, egoism, lust, and attachment, are impelled by passion and are arrogant, and strive for other worldly things."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.6",
+      "chapter": 17,
+      "number": 6,
+      "transliteration": "karṣayantaḥ śarīrasthaṃ bhūtagrāmamacetasaḥ .\nmāṃ caivāntaḥśarīrasthaṃ tānviddhyāsuraniścayān ||17-6||",
+      "text": {
+        "sanskrit": "कर्षयन्तः शरीरस्थं भूतग्राममचेतसः |\nमां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान् ||१७-६||",
+        "hindi": "।।17.6।। और शरीरस्थ भूतसमुदाय को तथा मुझ अन्तर्यामी को भी कृश करने वाले अर्थात् कष्ट पहुँचाने वाले जो अविवेकी लोग हैं, उन्हें तुम आसुरी निश्चय वाले जानो।।",
+        "english": "Tormenting the elements in the body and Me residing there, and engaged in acts of folly, know them to be of demoniac resolve."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.7",
+      "chapter": 17,
+      "number": 7,
+      "transliteration": "āhārastvapi sarvasya trividho bhavati priyaḥ .\nyajñastapastathā dānaṃ teṣāṃ bhedamimaṃ śṛṇu ||17-7||",
+      "text": {
+        "sanskrit": "आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः |\nयज्ञस्तपस्तथा दानं तेषां भेदमिमं शृणु ||१७-७||",
+        "hindi": "।।17.7।। (अपनीअपनी प्रकृति के अनुसार) सब का प्रिय भोजन भी तीन प्रकार का होता है? उसी प्रकार यज्ञ? तप और दान भी तीन प्रकार के होते हैं? उनके भेद को तुम मुझसे सुनो।।",
+        "english": "Even the food each person prefers is of three kinds, according to the three modes of material nature. The same is true of sacrifices, austerities and charity. Now hear of the distinctions between them."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.8",
+      "chapter": 17,
+      "number": 8,
+      "transliteration": "āyuḥsattvabalārogyasukhaprītivivardhanāḥ .\nrasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvikapriyāḥ ||17-8||",
+      "text": {
+        "sanskrit": "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः |\nरस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः ||१७-८||",
+        "hindi": "।।17.8।। आयु, सत्त्व (शुद्धि), बल, आरोग्य, सुख और प्रीति को प्रवृद्ध करने वाले एवं रसयुक्त, स्निग्ध ( घी आदि की चिकनाई से युक्त) स्थिर तथा मन को प्रसन्न करने वाले आहार अर्थात् भोज्य पदार्थ सात्त्विक पुरुषों को प्रिय होते हैं।।",
+        "english": "Foods dear to those in the mode of goodness increase the duration of life, purify one’s existence and give strength, health, happiness and satisfaction. Such foods are juicy, fatty, wholesome, and pleasing to the heart."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.9",
+      "chapter": 17,
+      "number": 9,
+      "transliteration": "kaṭvamlalavaṇātyuṣṇatīkṣṇarūkṣavidāhinaḥ .\nāhārā rājasasyeṣṭā duḥkhaśokāmayapradāḥ ||17-9||",
+      "text": {
+        "sanskrit": "कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः |\nआहारा राजसस्येष्टा दुःखशोकामयप्रदाः ||१७-९||",
+        "hindi": "।।17.9।। कड़वे, खट्टे, लवणयुक्त, अति उष्ण, तीक्ष्ण (तीखे, मिर्च युक्त), रूखे. दाहकारक, दु:ख, शोक और रोग उत्पन्न कारक भोज्य पदार्थ राजस पुरुष को प्रिय होते हैं।।",
+        "english": "Foods that are too bitter, too sour, salty, hot, pungent, dry and burning are dear to those in the mode of passion. Such foods cause distress, misery and disease."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.10",
+      "chapter": 17,
+      "number": 10,
+      "transliteration": "yātayāmaṃ gatarasaṃ pūti paryuṣitaṃ ca yat .\nucchiṣṭamapi cāmedhyaṃ bhojanaṃ tāmasapriyam ||17-10||",
+      "text": {
+        "sanskrit": "यातयामं गतरसं पूति पर्युषितं च यत् |\nउच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम् ||१७-१०||",
+        "hindi": "।।17.10।। अर्धपक्व, रसरहित, दुर्गन्धयुक्त, बासी, उच्छिष्ट तथा अपवित्र (अमेध्य) अन्न तामस जनों को प्रिय होता है।।",
+        "english": "Food prepared more than three hours before being eaten, food that is tasteless, decomposed and putrid, and food consisting of remnants and untouchable things is dear to those in the mode of darkness."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.11",
+      "chapter": 17,
+      "number": 11,
+      "transliteration": "aphalāṅkṣibhiryajño vidhidṛṣṭo ya ijyate .\nyaṣṭavyameveti manaḥ samādhāya sa sāttvikaḥ ||17-11||",
+      "text": {
+        "sanskrit": "अफलाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते |\nयष्टव्यमेवेति मनः समाधाय स सात्त्विकः ||१७-११||",
+        "hindi": "।।17.11।। जो यज्ञ शास्त्रविधि से नियन्त्रित किया हुआ तथा जिसे \"यह मेरा कर्तव्य है\" ऐसा मन का समाधान (निश्चय) कर फल की आकांक्षा नहीं रखने वाले लोगों के द्वारा किया जाता है, वह यज्ञ सात्त्विक है।।",
+        "english": "Of sacrifices, the sacrifice performed according to the directions of scripture, as a matter of duty, by those who desire no reward, is of the nature of goodness."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.12",
+      "chapter": 17,
+      "number": 12,
+      "transliteration": "abhisandhāya tu phalaṃ dambhārthamapi caiva yat .\nijyate bharataśreṣṭha taṃ yajñaṃ viddhi rājasam ||17-12||",
+      "text": {
+        "sanskrit": "अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् |\nइज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् ||१७-१२||",
+        "hindi": "।।17.12।। हे भरतश्रेष्ठ अर्जुन ! जो यज्ञ दम्भ के लिए तथा फल की आकांक्षा रख कर किया जाता है, उस यज्ञ को तुम राजस समझो।।",
+        "english": "But the sacrifice performed for some material benefit, or for the sake of pride, O chief of the Bhāratas, you should know to be in the mode of passion."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.13",
+      "chapter": 17,
+      "number": 13,
+      "transliteration": "vidhihīnamasṛṣṭānnaṃ mantrahīnamadakṣiṇam .\nśraddhāvirahitaṃ yajñaṃ tāmasaṃ paricakṣate ||17-13||",
+      "text": {
+        "sanskrit": "विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् |\nश्रद्धाविरहितं यज्ञं तामसं परिचक्षते ||१७-१३||",
+        "hindi": "।।17.13।। शास्त्रविधि से रहित, अन्नदान से रहित, बिना मन्त्रों, बिना दक्षिणा और बिना श्रद्धा के किये हुए यज्ञ को तामस यज्ञ कहते हैं।।",
+        "english": "Any sacrifice performed without regard for the directions of scripture, without distribution of prasādam [spiritual food], without chanting of Vedic hymns and remunerations to the priests, and without faith is considered to be in the mode of ignorance."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.14",
+      "chapter": 17,
+      "number": 14,
+      "transliteration": "devadvijaguruprājñapūjanaṃ śaucamārjavam .\nbrahmacaryamahiṃsā ca śārīraṃ tapa ucyate ||17-14||",
+      "text": {
+        "sanskrit": "देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम् |\nब्रह्मचर्यमहिंसा च शारीरं तप उच्यते ||१७-१४||",
+        "hindi": "।।17.14।। देव, द्विज (ब्राह्मण), गुरु और ज्ञानी जनों का पूजन, शौच, आर्जव (सरलता), ब्रह्मचर्य और अहिंसा, यह शरीर संबंधी तप कहा जाता है।।",
+        "english": "Austerity of the body consists in worship of the Supreme Lord, the brāhmaṇas, the spiritual master, and superiors like the father and mother, and in cleanliness, simplicity, celibacy and nonviolence."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.15",
+      "chapter": 17,
+      "number": 15,
+      "transliteration": "anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat .\nsvādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate ||17-15||",
+      "text": {
+        "sanskrit": "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् |\nस्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ||१७-१५||",
+        "hindi": "।।17.15।। जो वाक्य (भाषण) उद्वेग उत्पन्न करने वाला नहीं है, जो प्रिय, हितकारक और सत्य है तथा वेदों का स्वाध्याय अभ्यास वाङ्मय (वाणी का) तप कहलाता है।।",
+        "english": "Austerity of speech consists in speaking words that are truthful, pleasing, beneficial, and not agitating to others, and also in regularly reciting Vedic literature."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.16",
+      "chapter": 17,
+      "number": 16,
+      "transliteration": "manaḥ prasādaḥ saumyatvaṃ maunamātmavinigrahaḥ .\nbhāvasaṃśuddhirityetattapo mānasamucyate ||17-16||",
+      "text": {
+        "sanskrit": "मनः प्रसादः सौम्यत्वं मौनमात्मविनिग्रहः |\nभावसंशुद्धिरित्येतत्तपो मानसमुच्यते ||१७-१६||",
+        "hindi": "।।17.16।। मन की प्रसन्नता, सौम्यभाव, मौन आत्मसंयम और अन्त:करण की शुद्धि यह सब मानस तप कहलाता है।।",
+        "english": "And satisfaction, simplicity, gravity, self-control and purification of one’s existence are the austerities of the mind."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.17",
+      "chapter": 17,
+      "number": 17,
+      "transliteration": "śraddhayā parayā taptaṃ tapastattrividhaṃ naraiḥ .\naphalākāṅkṣibhiryuktaiḥ sāttvikaṃ paricakṣate ||17-17||",
+      "text": {
+        "sanskrit": "श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरैः |\nअफलाकाङ्क्षिभिर्युक्तैः सात्त्विकं परिचक्षते ||१७-१७||",
+        "hindi": "।।17.17।। फल की आकांक्षा न रखने वाले युक्त पुरुषों के द्वारा परम श्रद्धा से किये गये उस पूर्वोक्त त्रिविध तप को सात्त्विक कहते हैं।।",
+        "english": "This threefold austerity, performed with transcendental faith by men not expecting material benefits but engaged only for the sake of the Supreme, is called austerity in goodness."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.18",
+      "chapter": 17,
+      "number": 18,
+      "transliteration": "satkāramānapūjārthaṃ tapo dambhena caiva yat .\nkriyate tadiha proktaṃ rājasaṃ calamadhruvam ||17-18||",
+      "text": {
+        "sanskrit": "सत्कारमानपूजार्थं तपो दम्भेन चैव यत् |\nक्रियते तदिह प्रोक्तं राजसं चलमध्रुवम् ||१७-१८||",
+        "hindi": "।।17.18।। जो तप सत्कार, मान और पूजा के लिए अथवा केवल दम्भ (पाखण्ड) से ही किया जाता है, वह अनिश्चित और क्षणिक तप यहाँ राजस कहा गया है।।",
+        "english": "Penance performed out of pride and for the sake of gaining respect, honor and worship is said to be in the mode of passion. It is neither stable nor permanent."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.19",
+      "chapter": 17,
+      "number": 19,
+      "transliteration": "mūḍhagrāheṇātmano yatpīḍayā kriyate tapaḥ .\nparasyotsādanārthaṃ vā tattāmasamudāhṛtam ||17-19||",
+      "text": {
+        "sanskrit": "मूढग्राहेणात्मनो यत्पीडया क्रियते तपः |\nपरस्योत्सादनार्थं वा तत्तामसमुदाहृतम् ||१७-१९||",
+        "hindi": "।।17.19।। जो तप मूढ़तापूर्वक स्वयं को पीड़ित करते हुए अथवा अन्य लोगों के नाश के लिए किया जाता है, वह तप तामस कहा गया है।।",
+        "english": "Penance performed out of foolishness, with self-torture or to destroy or injure others, is said to be in the mode of ignorance."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.20",
+      "chapter": 17,
+      "number": 20,
+      "transliteration": "dātavyamiti yaddānaṃ dīyate.anupakāriṇe .\ndeśe kāle ca pātre ca taddānaṃ sāttvikaṃ smṛtam ||17-20||",
+      "text": {
+        "sanskrit": "दातव्यमिति यद्दानं दीयतेऽनुपकारिणे |\nदेशे काले च पात्रे च तद्दानं सात्त्विकं स्मृतम् ||१७-२०||",
+        "hindi": "।।17.20।। \"दान देना ही कर्तव्य है\" - इस भाव से जो दान योग्य देश, काल को देखकर ऐसे (योग्य) पात्र (व्यक्ति) को दिया जाता है, जिससे प्रत्युपकार की अपेक्षा नहीं होती है, वह दान सात्त्विक माना गया है।।",
+        "english": "Charity given out of duty, without expectation of return, at the proper time and place, and to a worthy person is considered to be in the mode of goodness."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.21",
+      "chapter": 17,
+      "number": 21,
+      "transliteration": "yattu pratyupakārārthaṃ phalamuddiśya vā punaḥ .\ndīyate ca parikliṣṭaṃ taddānaṃ rājasaṃ smṛtam ||17-21||",
+      "text": {
+        "sanskrit": "यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः |\nदीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम् ||१७-२१||",
+        "hindi": "।।17.21।। और जो दान क्लेशपूर्वक तथा प्रत्युपकार के उद्देश्य से अथवा फल की कामना रखकर दिया जाता हैं, वह दान राजस माना गया है।।",
+        "english": "But charity performed with the expectation of some return, or with a desire for fruitive results, or in a grudging mood is said to be charity in the mode of passion."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.22",
+      "chapter": 17,
+      "number": 22,
+      "transliteration": "adeśakāle yaddānamapātrebhyaśca dīyate .\nasatkṛtamavajñātaṃ tattāmasamudāhṛtam ||17-22||",
+      "text": {
+        "sanskrit": "अदेशकाले यद्दानमपात्रेभ्यश्च दीयते |\nअसत्कृतमवज्ञातं तत्तामसमुदाहृतम् ||१७-२२||",
+        "hindi": "।।17.22।। जो दान बिना सत्कार किये, अथवा तिरस्कारपूर्वक, अयोग्य देशकाल में, कुपात्रों के लिए दिया जाता है, वह दान तामस माना गया है।।",
+        "english": "And charity performed at an impure place, at an improper time, to unworthy persons, or without proper attention and respect is said to be in the mode of ignorance."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.23",
+      "chapter": 17,
+      "number": 23,
+      "transliteration": "OMtatsaditi nirdeśo brahmaṇastrividhaḥ smṛtaḥ .\nbrāhmaṇāstena vedāśca yajñāśca vihitāḥ purā ||17-23||",
+      "text": {
+        "sanskrit": "ॐतत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः |\nब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा ||१७-२३||",
+        "hindi": "।।17.23।। 'ऊँ, तत् सत्' ऐसा यह ब्रह्म का त्रिविध निर्देश (नाम) कहा गया है; उसी से आदिकाल में (पुरा) ब्राहम्ण, वेद और यज्ञ निर्मित हुए हैं।।",
+        "english": "From the beginning of creation, the three words oṁ tat sat were used to indicate the Supreme Absolute Truth. These three symbolic representations were used by brāhmaṇas while chanting the hymns of the Vedas and during sacrifices for the satisfaction of the Supreme."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.24",
+      "chapter": 17,
+      "number": 24,
+      "transliteration": "tasmādomityudāhṛtya yajñadānatapaḥkriyāḥ .\npravartante vidhānoktāḥ satataṃ brahmavādinām ||17-24||",
+      "text": {
+        "sanskrit": "तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः |\nप्रवर्तन्ते विधानोक्ताः सततं ब्रह्मवादिनाम् ||१७-२४||",
+        "hindi": "।।17.24।। इसलिए, ब्रह्मवादियों की शास्त्र प्रतिपादित यज्ञ, दान और तप की क्रियायें सदैव ओंकार के उच्चारण के साथ प्रारम्भ होती हैं।।",
+        "english": "Therefore, transcendentalists undertaking performances of sacrifice, charity and penance in accordance with scriptural regulations begin always with oṁ, to attain the Supreme."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.25",
+      "chapter": 17,
+      "number": 25,
+      "transliteration": "tadityanabhisandhāya phalaṃ yajñatapaḥkriyāḥ .\ndānakriyāśca vividhāḥ kriyante mokṣakāṅkṣibhiḥ ||17-25||",
+      "text": {
+        "sanskrit": "तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः |\nदानक्रियाश्च विविधाः क्रियन्ते मोक्षकाङ्क्षिभिः ||१७-२५||",
+        "hindi": "।।17.25।। 'तत्' शब्द का उच्चारण कर, फल की इच्छा नहीं रखते हुए, मुमुक्षुजन यज्ञ, तप, दान आदि विविध कर्म करते हैं।।",
+        "english": "Without desiring fruitive results, one should perform various kinds of sacrifice, penance and charity with the word tat. The purpose of such transcendental activities is to get free from material entanglement."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.26",
+      "chapter": 17,
+      "number": 26,
+      "transliteration": "sadbhāve sādhubhāve ca sadityetatprayujyate .\npraśaste karmaṇi tathā sacchabdaḥ pārtha yujyate ||17-26||",
+      "text": {
+        "sanskrit": "सद्भावे साधुभावे च सदित्येतत्प्रयुज्यते |\nप्रशस्ते कर्मणि तथा सच्छब्दः पार्थ युज्यते ||१७-२६||",
+        "hindi": "।।17.26।। हे पार्थ ! सत्य भाव व साधुभाव में 'सत्' शब्द का प्रयोग किया जाता है, और प्रशस्त (श्रेष्ठ, शुभ) कर्म में 'सत्' शब्द प्रयुक्त होता है।।",
+        "english": "The austerity that is practiced with the highest faith by those who do not desire the fruits, who are self-controlled, and who have subdued their mind and senses, is declared to be in the mode of goodness."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.27",
+      "chapter": 17,
+      "number": 27,
+      "transliteration": "yajñe tapasi dāne ca sthitiḥ saditi cocyate .\nkarma caiva tadarthīyaṃ sadityevābhidhīyate ||17-27||",
+      "text": {
+        "sanskrit": "यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते |\nकर्म चैव तदर्थीयं सदित्येवाभिधीयते ||१७-२७||",
+        "hindi": "।।17.27।। यज्ञ, तप और दान में दृढ़ स्थिति भी सत् कही जाती है, और उस (परमात्मा) के लिए किया गया कर्म भी सत् ही कहलाता है।।",
+        "english": "The sacrifice that is performed with the aim of achieving its fruit, and which is prescribed in the scriptures, is called rajasic, and it is unstable and temporary."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG17.28",
+      "chapter": 17,
+      "number": 28,
+      "transliteration": "aśraddhayā hutaṃ dattaṃ tapastaptaṃ kṛtaṃ ca yat .\nasadityucyate pārtha na ca tatprepya no iha ||17-28||",
+      "text": {
+        "sanskrit": "अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् |\nअसदित्युच्यते पार्थ न च तत्प्रेत्य नो इह ||१७-२८||",
+        "hindi": "।।17.28।। हे पार्थ ! जो यज्ञ, दान, तप और कर्म अश्रद्धापूर्वक किया जाता है, वह 'असत्' कहा जाता है; वह न इस लोक में (इह) और न मरण के पश्चात् (उस लोक में) लाभदायक होता है।।",
+        "english": "Anything done as sacrifice, charity or penance without faith in the Supreme, O son of Pṛthā, is impermanent. It is called asat and is useless both in this life and the next."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    }
+  ]
+}

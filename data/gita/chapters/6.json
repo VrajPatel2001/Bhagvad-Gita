@@ -1,0 +1,1006 @@
+{
+  "number": 6,
+  "versesCount": 47,
+  "title": {
+    "sanskrit": "ध्यानयोग",
+    "english": "Dhyana Yoga",
+    "transliteration": "Dhyān Yog"
+  },
+  "meaning": {
+    "english": "Path of Meditation",
+    "hindi": "ध्यानयोग"
+  },
+  "summary": {
+    "english": "The sixth chapter of the Bhagavad Gita is Dhyana Yoga. In this chapter, Krishna reveals the Yoga of Meditation and how to practise this Yoga. He discusses the role of action in preparing for Meditation, how performing duties in devotion purifies one's mind and heightens one's spiritual consciousness. He explains in detail the obstacles that one faces when trying to control their mind and the exact methods by which one can conquer their mind. He reveals how one can focus their mind on Paramatma and unite with the God.",
+    "hindi": "भगवद गीता का छठा अध्याय ध्यान योग है। इस अध्याय में कृष्ण बताते हैं कि हम किस प्रकार ध्यान योग का अभ्यास कर सकते हैं। वे ध्यान की तैयारी में कर्म की भूमिका पर चर्चा करते हैं अथवा बताते हैं कि किस प्रकार भक्ति में किया गए कर्म मनुष्ये के मन को शुद्ध करते हैं और उसकी आध्यात्मिक चेतना की वृद्धि में सहायता करते हैं। वे उन बाधाओं का विस्तारपूर्वक वर्णन करते हैं जो कि मनुष्य को अपने दिमाग को नियंत्रित करते समय झेलनी पड़ती हैं अथवा उन सटीक तरीकों का वर्णन करते हैं जिनसे एक मनुष्य अपने दिमाग को जीत सकता है। उन्होंने प्रकट किया की हम किस प्रकार परमात्मा पर अपना ध्यान केंद्रित करके भगवान के साथ एक हो सकते हैं।"
+  },
+  "verses": [
+    {
+      "id": "BG6.1",
+      "chapter": 6,
+      "number": 1,
+      "transliteration": "śrībhagavānuvāca .\nanāśritaḥ karmaphalaṃ kāryaṃ karma karoti yaḥ .\nsa saṃnyāsī ca yogī ca na niragnirna cākriyaḥ ||6-1||",
+      "text": {
+        "sanskrit": "श्रीभगवानुवाच |\nअनाश्रितः कर्मफलं कार्यं कर्म करोति यः |\nस संन्यासी च योगी च न निरग्निर्न चाक्रियः ||६-१||",
+        "hindi": "।।6.1।। श्रीभगवान् ने कहा -- जो पुरुष कर्मफल पर आश्रित न होकर कर्तव्य कर्म करता है, वह संन्यासी और योगी है, न कि वह जिसने केवल अग्नि का और क्रियायों का त्याग किया है।।",
+        "english": "The Supreme Personality of Godhead said: One who is unattached to the fruits of his work and who works as he is obligated is in the renounced order of life, and he is the true mystic, not he who lights no fire and performs no duty."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.2",
+      "chapter": 6,
+      "number": 2,
+      "transliteration": "yaṃ saṃnyāsamiti prāhuryogaṃ taṃ viddhi pāṇḍava .\nna hyasaṃnyastasaṅkalpo yogī bhavati kaścana ||6-2||",
+      "text": {
+        "sanskrit": "यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव |\nन ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन ||६-२||",
+        "hindi": "।।6.2।। हे पाण्डव ! जिसको (शास्त्रवित्) संन्यास कहते हैं, उसी को तुम योग समझो; क्योंकि संकल्पों को न त्यागने वाला कोई भी पुरुष योगी नहीं होता।।",
+        "english": "What is called renunciation you should know to be the same as yoga, or linking oneself with the Supreme, O son of Pāṇḍu, for one can never become a yogī unless he renounces the desire for sense gratification."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.3",
+      "chapter": 6,
+      "number": 3,
+      "transliteration": "ārurukṣormuneryogaṃ karma kāraṇamucyate .\nyogārūḍhasya tasyaiva śamaḥ kāraṇamucyate ||6-3||",
+      "text": {
+        "sanskrit": "आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते |\nयोगारूढस्य तस्यैव शमः कारणमुच्यते ||६-३||",
+        "hindi": "।।6.3।। योग में आरूढ़ होने की इच्छा वाले मुनि के लिए कर्म करना ही हेतु (साधन) कहा है और योगारूढ़ हो जाने पर उसी पुरुष के लिए शम को (शांति, संकल्पसंन्यास) साधन कहा गया है।।",
+        "english": "For one who is a neophyte in the eightfold yoga system, work is said to be the means; and for one who is already elevated in yoga, cessation of all material activities is said to be the means."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.4",
+      "chapter": 6,
+      "number": 4,
+      "transliteration": "yadā hi nendriyārtheṣu na karmasvanuṣajjate .\nsarvasaṅkalpasaṃnyāsī yogārūḍhastadocyate ||6-4||",
+      "text": {
+        "sanskrit": "यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते |\nसर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते ||६-४||",
+        "hindi": "।।6.4।। जब (साधक) न इन्द्रियों के विषयों में और न कर्मों में आसक्त होता है तब सर्व संकल्पों के संन्यासी को योगारूढ़ कहा जाता है।।",
+        "english": "A person is said to be elevated in yoga when, having renounced all material desires, he neither acts for sense gratification nor engages in fruitive activities."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.5",
+      "chapter": 6,
+      "number": 5,
+      "transliteration": "uddharedātmanātmānaṃ nātmānamavasādayet .\nātmaiva hyātmano bandhurātmaiva ripurātmanaḥ ||6-5||",
+      "text": {
+        "sanskrit": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत् |\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ||६-५||",
+        "hindi": "।।6.5।। मनुष्य को अपने द्वारा अपना उद्धार करना चाहिये और अपना अध: पतन नहीं करना चाहिये; क्योंकि आत्मा ही आत्मा का मित्र है और आत्मा (मनुष्य स्वयं) ही आत्मा का (अपना) शत्रु है।।",
+        "english": "One must deliver himself with the help of his mind, and not degrade himself. The mind is the friend of the conditioned soul, and his enemy as well."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.6",
+      "chapter": 6,
+      "number": 6,
+      "transliteration": "bandhurātmātmanastasya yenātmaivātmanā jitaḥ .\nanātmanastu śatrutve vartetātmaiva śatruvat ||6-6||",
+      "text": {
+        "sanskrit": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः |\nअनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ||६-६||",
+        "hindi": "।।6.6।। जिसने आत्मा (इंद्रियों,आदि) को आत्मा के द्वारा जीत लिया है, उस पुरुष का आत्मा उसका मित्र होता है, परन्तु अजितेन्द्रिय के लिए आत्मा शत्रु के समान स्थित होता है।।",
+        "english": "For him who has conquered the mind, the mind is the best of friends; but for one who has failed to do so, his mind will remain the greatest enemy."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.7",
+      "chapter": 6,
+      "number": 7,
+      "transliteration": "jitātmanaḥ praśāntasya paramātmā samāhitaḥ .\nśītoṣṇasukhaduḥkheṣu tathā mānāpamānayoḥ ||6-7||",
+      "text": {
+        "sanskrit": "जितात्मनः प्रशान्तस्य परमात्मा समाहितः |\nशीतोष्णसुखदुःखेषु तथा मानापमानयोः ||६-७||",
+        "hindi": "।।6.7।। शीत-उष्ण, सुख-दु:ख तथा मान-अपमान में जो प्रशान्त रहता है, ऐसे जितात्मा पुरुष के लिये परमात्मा सम्यक् प्रकार से स्थित है, अर्थात्, आत्मरूप से विद्यमान है।।",
+        "english": "For one who has conquered the mind, the Supersoul is already reached, for he has attained tranquillity. To such a man happiness and distress, heat and cold, honor and dishonor are all the same."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.8",
+      "chapter": 6,
+      "number": 8,
+      "transliteration": "jñānavijñānatṛptātmā kūṭastho vijitendriyaḥ .\nyukta ityucyate yogī samaloṣṭāśmakāñcanaḥ ||6-8||",
+      "text": {
+        "sanskrit": "ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः |\nयुक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चनः ||६-८||",
+        "hindi": "।।6.8।। जो योगी ज्ञान और विज्ञान से तृप्त है, जो विकार रहित (कूटस्थ) और जितेन्द्रिय है, जिसको मिट्टी, पाषाण और कंचन समान है, वह (परमात्मा से) युक्त कहलाता है।।",
+        "english": "A person is said to be established in self-realization and is called a yogī [or mystic] when he is fully satisfied by virtue of acquired knowledge and realization. Such a person is situated in transcendence and is self-controlled. He sees everything – whether it be pebbles, stones or gold – as the same."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.9",
+      "chapter": 6,
+      "number": 9,
+      "transliteration": "suhṛnmitrāryudāsīnamadhyasthadveṣyabandhuṣu .\nsādhuṣvapi ca pāpeṣu samabuddhirviśiṣyate ||6-9||",
+      "text": {
+        "sanskrit": "सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु |\nसाधुष्वपि च पापेषु समबुद्धिर्विशिष्यते ||६-९||",
+        "hindi": "।।6.9।। जो पुरुष सुहृद्, मित्र, शत्रु, उदासीन, मध्यस्थ, द्वेषी और बान्धवों में तथा धर्मात्माओं में और पापियों में भी समान भाव वाला है, वह श्रेष्ठ है।।",
+        "english": "A person is considered still further advanced when he regards honest well-wishers, affectionate benefactors, the neutral, mediators, the envious, friends and enemies, the pious and the sinners all with an equal mind."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.10",
+      "chapter": 6,
+      "number": 10,
+      "transliteration": "yogī yuñjīta satatamātmānaṃ rahasi sthitaḥ .\nekākī yatacittātmā nirāśīraparigrahaḥ ||6-10||",
+      "text": {
+        "sanskrit": "योगी युञ्जीत सततमात्मानं रहसि स्थितः |\nएकाकी यतचित्तात्मा निराशीरपरिग्रहः ||६-१०||",
+        "hindi": "।।6.10।। शरीर और मन को संयमित किया हुआ योगी एकान्त स्थान पर अकेला रहता हुआ आशा और परिग्रह से मुक्त होकर निरन्तर मन को आत्मा में स्थिर करे।।",
+        "english": "A transcendentalist should always engage his body, mind and self in relationship with the Supreme; he should live alone in a secluded place and should always carefully control his mind. He should be free from desires and feelings of possessiveness."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.11",
+      "chapter": 6,
+      "number": 11,
+      "transliteration": "śucau deśe pratiṣṭhāpya sthiramāsanamātmanaḥ .\nnātyucchritaṃ nātinīcaṃ cailājinakuśottaram ||6-11||",
+      "text": {
+        "sanskrit": "शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः |\nनात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् ||६-११||",
+        "hindi": "।।6.11।। शुद्ध (स्वच्छ) भूमि में कुश, मृगशाला और उस पर वस्त्र रखा हो ऐसे अपने आसन को न अति ऊँचा और न अति नीचा स्थिर स्थापित करके....৷৷.।।",
+        "english": "To practice yoga, one should go to a secluded place and should lay kuśa grass on the ground and then cover it with a deerskin and a soft cloth. The seat should neither be too high nor too low and should be situated in a sacred place."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.12",
+      "chapter": 6,
+      "number": 12,
+      "transliteration": "tatraikāgraṃ manaḥ kṛtvā yatacittendriyakriyaḥ .\nupaviśyāsane yuñjyādyogamātmaviśuddhaye ||6-12||",
+      "text": {
+        "sanskrit": "तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः |\nउपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये ||६-१२||",
+        "hindi": "।।6.12।। वहाँ (आसन में बैठकर) मन को एकाग्र करके, चित्त और इन्द्रियों की क्रियाओं को वश में किये हुये आत्मशुद्धि के लिए योग का अभ्यास करे।।",
+        "english": "There, one should sit in a firm and comfortable position and practice yoga by controlling the mind and senses, purifying the heart, and fixing the mind on one point."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.13",
+      "chapter": 6,
+      "number": 13,
+      "transliteration": "samaṃ kāyaśirogrīvaṃ dhārayannacalaṃ sthiraḥ .\nsamprekṣya nāsikāgraṃ svaṃ diśaścānavalokayan ||6-13||",
+      "text": {
+        "sanskrit": "समं कायशिरोग्रीवं धारयन्नचलं स्थिरः |\nसम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ||६-१३||",
+        "hindi": "।।6.13।। काया, सिर और ग्रीवा को समान और अचल धारण किये हुए स्थिर होकर अपनी नासिका के अग्र भाग को देखकर अन्य दिशाओं को न देखता हुआ।।",
+        "english": "One should hold one's body, neck, and head erect in a straight line and stare steadily at the tip of the nose. Thus, with an unagitated, subdued mind, devoid of fear, completely free from sex life, one should meditate upon Me within the heart and make Me the ultimate goal of life."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.14",
+      "chapter": 6,
+      "number": 14,
+      "transliteration": "praśāntātmā vigatabhīrbrahmacārivrate sthitaḥ .\nmanaḥ saṃyamya maccitto yukta āsīta matparaḥ ||6-14||",
+      "text": {
+        "sanskrit": "प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः |\nमनः संयम्य मच्चित्तो युक्त आसीत मत्परः ||६-१४||",
+        "hindi": "।।6.14।। (साधक को) प्रशान्त अन्त:करण, निर्भय और ब्रह्मचर्य ब्रत में स्थित होकर, मन को संयमित करके चित्त को मुझमें लगाकर मुझे ही परम लक्ष्य समझकर बैठना चाहिए।।",
+        "english": "Thus, with a peaceful, unagitated mind, keeping the mind fixed upon Me, the transcendental person, the yogi should meditate upon Me and make Me the ultimate goal of life."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.15",
+      "chapter": 6,
+      "number": 15,
+      "transliteration": "yuñjannevaṃ sadātmānaṃ yogī niyatamānasaḥ .\nśāntiṃ nirvāṇaparamāṃ matsaṃsthāmadhigacchati ||6-15||",
+      "text": {
+        "sanskrit": "युञ्जन्नेवं सदात्मानं योगी नियतमानसः |\nशान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ||६-१५||",
+        "hindi": "।।6.15।। इस प्रकार सदा मन को स्थिर करने का प्रयास करता हुआ संयमित मन का योगी मुझमें स्थित परम निर्वाण (मोक्ष) स्वरूप शांति को प्राप्त होता है।।",
+        "english": "Thus practicing constant control of the body, mind and activities, the mystic transcendentalist, his mind regulated, attains to the kingdom of God [or the abode of Kṛṣṇa] by cessation of material existence."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.16",
+      "chapter": 6,
+      "number": 16,
+      "transliteration": "nātyaśnatastu yogo.asti na caikāntamanaśnataḥ .\nna cātisvapnaśīlasya jāgrato naiva cārjuna ||6-16||",
+      "text": {
+        "sanskrit": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः |\nन चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन ||६-१६||",
+        "hindi": "।।6.16।। परन्तु, हे अर्जुन ! यह योग उस पुरुष के लिए सम्भव नहीं होता, जो अधिक खाने वाला है या बिल्कुल न खाने वाला है तथा जो अधिक सोने वाला है या सदा जागने वाला है।।",
+        "english": "There is no possibility of one’s becoming a yogī, O Arjuna, if one eats too much or eats too little, sleeps too much or does not sleep enough."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.17",
+      "chapter": 6,
+      "number": 17,
+      "transliteration": "yuktāhāravihārasya yuktaceṣṭasya karmasu .\nyuktasvapnāvabodhasya yogo bhavati duḥkhahā ||6-17||",
+      "text": {
+        "sanskrit": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु |\nयुक्तस्वप्नावबोधस्य योगो भवति दुःखहा ||६-१७||",
+        "hindi": "।।6.17।। उस पुरुष के लिए योग दु:खनाशक होता है, जो युक्त आहार और विहार करने वाला है, यथायोग्य चेष्टा करने वाला है और परिमित शयन और जागरण करने वाला है।।",
+        "english": "He who is regulated in his habits of eating, sleeping, recreation and work can mitigate all material pains by practicing the yoga system."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.18",
+      "chapter": 6,
+      "number": 18,
+      "transliteration": "yadā viniyataṃ cittamātmanyevāvatiṣṭhate .\nniḥspṛhaḥ sarvakāmebhyo yukta ityucyate tadā ||6-18||",
+      "text": {
+        "sanskrit": "यदा विनियतं चित्तमात्मन्येवावतिष्ठते |\nनिःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा ||६-१८||",
+        "hindi": "।।6.18।। वश में किया हुआ चित्त जिस कालमें अपने स्वरुपमें ही स्थित हो जाता है और स्वयं सम्पूर्ण पदार्थों नि: स्पृह हो जाता है, उस कालमें वह योगी कहा जाता है।",
+        "english": "When the yogī, by practice of yoga, disciplines his mental activities and becomes situated in transcendence – devoid of all material desires – he is said to be well established in yoga."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.19",
+      "chapter": 6,
+      "number": 19,
+      "transliteration": "yathā dīpo nivātastho neṅgate sopamā smṛtā .\nyogino yatacittasya yuñjato yogamātmanaḥ ||6-19||",
+      "text": {
+        "sanskrit": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता |\nयोगिनो यतचित्तस्य युञ्जतो योगमात्मनः ||६-१९||",
+        "hindi": "।।6.19।। जैसे स्पन्दनरहित वायुके स्थानमें स्थित दीपककी लौ चेष्टारहित हो जाती है, योगका अभ्यास करते हुए यतचित्तवाले योगीके चित्तकी वैसी ही उपमा कही गयी है।।",
+        "english": "As a lamp in a windless place does not waver, so the transcendentalist, whose mind is controlled, remains always steady in his meditation on the transcendent Self."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.20",
+      "chapter": 6,
+      "number": 20,
+      "transliteration": "yatroparamate cittaṃ niruddhaṃ yogasevayā .\nyatra caivātmanātmānaṃ paśyannātmani tuṣyati ||6-20||",
+      "text": {
+        "sanskrit": "यत्रोपरमते चित्तं निरुद्धं योगसेवया |\nयत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति ||६-२०||",
+        "hindi": "।।6.20।। योगका सेवन करनेसे जिस अवस्थामें निरुध्द चित्त उपराम हो जाता है तथा जिस अवस्थामें स्वयं अपने-आपमें अपने-आपको देखता हुआ अपने-आपमें सन्तुष्ट हो जाता है।।",
+        "english": "In the stage of perfection called trance, or samādhi, one's mind is completely restrained from material mental activities by practice of yoga. This perfection is characterized by one's ability to see the self by the pure mind and to relish and rejoice in the self."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.21",
+      "chapter": 6,
+      "number": 21,
+      "transliteration": "sukhamātyantikaṃ yattad buddhigrāhyamatīndriyam .\nvetti yatra na caivāyaṃ sthitaścalati tattvataḥ ||6-21||",
+      "text": {
+        "sanskrit": "सुखमात्यन्तिकं यत्तद् बुद्धिग्राह्यमतीन्द्रियम् |\nवेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः ||६-२१||",
+        "hindi": "।।6.21।। जो सुख आत्यन्तिक, अतीन्द्रिय और बुध्दिग्राह्म है, उस सुखका जिस अवस्थामें अनुभव करता है और जिस सुखमें स्थित हुआ यह ध्यानयोगी फिर कभी तत्वसे विचलित नहीं होता है।।",
+        "english": "In that joyous state, one is situated in boundless transcendental happiness, realized through transcendental senses. Established thus, one never departs from the truth, and upon gaining this he thinks there is no greater gain."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.22",
+      "chapter": 6,
+      "number": 22,
+      "transliteration": "yaṃ labdhvā cāparaṃ lābhaṃ manyate nādhikaṃ tataḥ .\nyasminsthito na duḥkhena guruṇāpi vicālyate ||6-22||",
+      "text": {
+        "sanskrit": "यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः |\nयस्मिन्स्थितो न दुःखेन गुरुणापि विचाल्यते ||६-२२||",
+        "hindi": "।।6.22।। जिस लाभकी प्राप्ति होनेपर उससे अधिक कोई दूसरा लाभ उसके माननेमें भी नहीं आता और जिसमें स्थित होनेपर वह बड़े भारी दु:ख से भी विचलित नहीं होता है।।",
+        "english": "Upon gaining this, he thinks there is no greater gain. Being situated in such a position, one is never shaken, even in the midst of greatest difficulty."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.23",
+      "chapter": 6,
+      "number": 23,
+      "transliteration": "taṃ vidyād duḥkhasaṃyogaviyogaṃ yogasaṃjñitam .\nsa niścayena yoktavyo yogo.anirviṇṇacetasā ||6-23||",
+      "text": {
+        "sanskrit": "तं विद्याद् दुःखसंयोगवियोगं योगसंज्ञितम् |\nस निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा ||६-२३||",
+        "hindi": "।।6.23।। दु:ख के संयोग से वियोग है, उसीको 'योग' नामसे जानना चाहिये । (वह योग जिस ध्यानयोग लक्ष्य है,) उस ध्यानयोका अभ्यास न उकताये हुए चित्तसे   निश्चयपूर्वक करना चाहिये।।",
+        "english": "This indeed is actual freedom from all miseries arising from material contact. This yoga is to be practiced with determination and an undismayed heart."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.24",
+      "chapter": 6,
+      "number": 24,
+      "transliteration": "saṅkalpaprabhavānkāmāṃstyaktvā sarvānaśeṣataḥ .\nmanasaivendriyagrāmaṃ viniyamya samantataḥ ||6-24||",
+      "text": {
+        "sanskrit": "सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः |\nमनसैवेन्द्रियग्रामं विनियम्य समन्ततः ||६-२४||",
+        "hindi": "।।6.24।। संकल्प से उत्पन्न समस्त कामनाओं को नि:शेष रूप से परित्याग कर मन के द्वारा इन्द्रिय समुदाय को सब ओर से सम्यक् प्रकार वश में करके।।",
+        "english": "One should engage oneself in the practice of yoga with determination and faith and not be deviated from the path. One should abandon, without exception, all material desires born of mental speculation and thus control all the senses on all sides by the mind."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.25",
+      "chapter": 6,
+      "number": 25,
+      "transliteration": "śanaiḥ śanairuparamed buddhyā dhṛtigṛhītayā .\nātmasaṃsthaṃ manaḥ kṛtvā na kiñcidapi cintayet ||6-25||",
+      "text": {
+        "sanskrit": "शनैः शनैरुपरमेद् बुद्ध्या धृतिगृहीतया |\nआत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत् ||६-२५||",
+        "hindi": "।।6.25।। शनै: शनै: धैर्ययुक्त बुद्धि के द्वारा (योगी) उपरामता (शांति) को प्राप्त होवे;  मन को आत्मा में स्थित करके फिर अन्य कुछ भी चिन्तन न करे।।",
+        "english": "Gradually, step by step, one should become situated in trance by means of intelligence sustained by full conviction, and thus the mind should be fixed on the Self alone and should think of nothing else."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.26",
+      "chapter": 6,
+      "number": 26,
+      "transliteration": "yato yato niścarati manaścañcalamasthiram .\ntatastato niyamyaitadātmanyeva vaśaṃ nayet ||6-26||",
+      "text": {
+        "sanskrit": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् |\nततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ||६-२६||",
+        "hindi": "।।6.26।। यह चंचल और अस्थिर मन जिन कारणों से (विषयों में) विचरण करता है, उनसे संयमित करके उसे आत्मा के ही वश में लावे अर्थात् आत्मा में स्थिर करे।।",
+        "english": "From wherever the mind wanders due to its flickering and unsteady nature, one must certainly withdraw it and bring it back under the control of the Self."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.27",
+      "chapter": 6,
+      "number": 27,
+      "transliteration": "praśāntamanasaṃ hyenaṃ yoginaṃ sukhamuttamam .\nupaiti śāntarajasaṃ brahmabhūtamakalmaṣam ||6-27||",
+      "text": {
+        "sanskrit": "प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् |\nउपैति शान्तरजसं ब्रह्मभूतमकल्मषम् ||६-२७||",
+        "hindi": "।।6.27।। जिसका मन प्रशान्त है, जो पापरहित (अकल्मषम्) है और जिसका रजोगुण (विक्षेप) शांत हुआ है, ऐसे ब्रह्मरूप हुए इस योगी को उत्तम सुख प्राप्त होता है।।",
+        "english": "The yogī whose mind is fixed on Me verily attains the highest perfection of transcendental happiness. He is beyond the mode of passion, he realizes his qualitative identity with the Supreme, and thus he is freed from all reactions to past deeds."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.28",
+      "chapter": 6,
+      "number": 28,
+      "transliteration": "yuñjannevaṃ sadātmānaṃ yogī vigatakalmaṣaḥ .\nsukhena brahmasaṃsparśamatyantaṃ sukhamaśnute ||6-28||",
+      "text": {
+        "sanskrit": "युञ्जन्नेवं सदात्मानं योगी विगतकल्मषः |\nसुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते ||६-२८||",
+        "hindi": "।।6.28।। इस प्रकार मन को सदा आत्मा में स्थिर करने का योग करने वाला पापरहित योगी सुखपूर्वक ब्रह्मसंस्पर्श का परम सुख प्राप्त करता है।।",
+        "english": "Thus the self-controlled yogī, constantly engaged in yoga practice, becomes free from all material contamination and achieves the highest stage of perfect happiness in transcendental loving service to the Lord."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.29",
+      "chapter": 6,
+      "number": 29,
+      "transliteration": "sarvabhūtasthamātmānaṃ sarvabhūtāni cātmani .\nīkṣate yogayuktātmā sarvatra samadarśanaḥ ||6-29||",
+      "text": {
+        "sanskrit": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि |\nईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः ||६-२९||",
+        "hindi": "।।6.29।। योगयुक्त अन्त:करण वाला और सर्वत्र समदर्शी योगी आत्मा को सब भूतों में और भूतमात्र को आत्मा में देखता है।।",
+        "english": "A true yogī observes Me in all beings and also sees every being in Me. Indeed, the self-realized person sees Me, the same Supreme Lord, everywhere."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.30",
+      "chapter": 6,
+      "number": 30,
+      "transliteration": "yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati .\ntasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati ||6-30||",
+      "text": {
+        "sanskrit": "यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति |\nतस्याहं न प्रणश्यामि स च मे न प्रणश्यति ||६-३०||",
+        "hindi": "।।6.30।। जो पुरुष मुझे सर्वत्र देखता है और सबको मुझमें देखता है, उसके लिए मैं नष्ट नहीं होता (अर्थात् उसके लिए मैं दूर नहीं होता) और वह मुझसे वियुक्त नहीं होता।।",
+        "english": "For one who sees Me everywhere and sees everything in Me, I am never lost, nor is he ever lost to Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.31",
+      "chapter": 6,
+      "number": 31,
+      "transliteration": "sarvabhūtasthitaṃ yo māṃ bhajatyekatvamāsthitaḥ .\nsarvathā vartamāno.api sa yogī mayi vartate ||6-31||",
+      "text": {
+        "sanskrit": "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः |\nसर्वथा वर्तमानोऽपि स योगी मयि वर्तते ||६-३१||",
+        "hindi": "।।6.31।। जो पुरुष एकत्वभाव मंे स्थित हुआ सम्पूर्ण भूतों में स्थित मुझे भजता है, वह योगी सब प्रकार से वर्तता हुआ (रहता हुआ) मुझमें स्थित रहता है।।",
+        "english": "Such a yogī, who engages in the worshipful service of the Supersoul, knowing that I and the Supersoul are one, remains always in Me in all circumstances."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.32",
+      "chapter": 6,
+      "number": 32,
+      "transliteration": "ātmaupamyena sarvatra samaṃ paśyati yo.arjuna .\nsukhaṃ vā yadi vā duḥkhaṃ sa yogī paramo mataḥ ||6-32||",
+      "text": {
+        "sanskrit": "आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन |\nसुखं वा यदि वा दुःखं स योगी परमो मतः ||६-३२||",
+        "hindi": "।।6.32।। हे अर्जुन ! जो पुरुष अपने समान सर्वत्र सम देखता है, चाहे वह सुख हो या दु:ख, वह परम योगी माना गया है।।",
+        "english": "He is a perfect yogī who, by comparison to his own self, sees the true equality of all beings, in both their happiness and their distress, O Arjuna!"
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.33",
+      "chapter": 6,
+      "number": 33,
+      "transliteration": "arjuna uvāca .\nyo.ayaṃ yogastvayā proktaḥ sāmyena madhusūdana .\netasyāhaṃ na paśyāmi cañcalatvātsthitiṃ sthirām ||6-33||",
+      "text": {
+        "sanskrit": "अर्जुन उवाच |\nयोऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन |\nएतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् ||६-३३||",
+        "hindi": "।।6.33।। अर्जुन ने कहा --  हे मधुसूदन ! जो यह साम्य योग आपने कहा, मैं मन के चंचल होने से इसकी चिरस्थायी स्थिति को नहीं देखता हूं।।",
+        "english": "Arjuna said: O Madhusūdana, the system of yoga which You have summarized appears impractical and unendurable to me, for the mind is restless and unsteady."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.34",
+      "chapter": 6,
+      "number": 34,
+      "transliteration": "cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavad dṛḍham .\ntasyāhaṃ nigrahaṃ manye vāyoriva suduṣkaram ||6-34||",
+      "text": {
+        "sanskrit": "चञ्चलं हि मनः कृष्ण प्रमाथि बलवद् दृढम् |\nतस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम् ||६-३४||",
+        "hindi": "।।6.34।। क्योंकि हे कृष्ण ! यह मन चंचल और प्रमथन स्वभाव का तथा बलवान् और दृढ़ है; उसका निग्रह करना मैं वायु के समान अति दुष्कर मानता हूँ ।।",
+        "english": "The mind is restless, turbulent, obstinate and very strong, O Kṛṣṇa, and to subdue it, I think, is more difficult than controlling the wind."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.35",
+      "chapter": 6,
+      "number": 35,
+      "transliteration": "śrībhagavānuvāca .\nasaṃśayaṃ mahābāho mano durnigrahaṃ calam .\nabhyāsena tu kaunteya vairāgyeṇa ca gṛhyate ||6-35||",
+      "text": {
+        "sanskrit": "श्रीभगवानुवाच |\nअसंशयं महाबाहो मनो दुर्निग्रहं चलम् |\nअभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते ||६-३५||",
+        "hindi": "।।6.35।। श्रीभगवान् कहते हैं --  हे महबाहो ! नि:सन्देह मन चंचल और कठिनता से वश में होने वाला है; परन्तु, हे कुन्तीपुत्र ! उसे अभ्यास और वैराग्य के द्वारा वश में किया जा सकता है।।",
+        "english": "Lord Śrī Kṛṣṇa said: O mighty-armed son of Kuntī, it is undoubtedly very difficult to curb the restless mind, but it is possible by suitable practice and by detachment."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.36",
+      "chapter": 6,
+      "number": 36,
+      "transliteration": "asaṃyatātmanā yogo duṣprāpa iti me matiḥ .\nvaśyātmanā tu yatatā śakyo.avāptumupāyataḥ ||6-36||",
+      "text": {
+        "sanskrit": "असंयतात्मना योगो दुष्प्राप इति मे मतिः |\nवश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः ||६-३६||",
+        "hindi": "।।6.36।। असंयत मन के पुरुष द्वारा योग प्राप्त होना कठिन है, परन्तु स्वाधीन मन वाले प्रयत्नशील पुरुष द्वारा उपाय से योग प्राप्त होना संभव है, यह मेरा मत है।।",
+        "english": "For one whose mind is unbridled, self-realization is difficult work. But he whose mind is controlled and who strives by appropriate means is assured of success. That is My opinion."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.37",
+      "chapter": 6,
+      "number": 37,
+      "transliteration": "arjuna uvāca .\nayatiḥ śraddhayopeto yogāccalitamānasaḥ .\naprāpya yogasaṃsiddhiṃ kāṃ gatiṃ kṛṣṇa gacchati ||6-37||",
+      "text": {
+        "sanskrit": "अर्जुन उवाच |\nअयतिः श्रद्धयोपेतो योगाच्चलितमानसः |\nअप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति ||६-३७||",
+        "hindi": "।।6.37।। अर्जुन ने कहा -- हे कृष्ण ! जिसका मन योग से चलायमान हो गया है, ऐसा अपूर्ण प्रयत्न वाला (अयति) श्रद्धायुक्त पुरुष योग की सिद्धि को न प्राप्त होकर किस गति को प्राप्त होता है?",
+        "english": "Arjuna said: O Kṛṣṇa, what is the destination of the unsuccessful transcendentalist, who in the beginning takes to the process of self-realization with faith but who later desists due to worldly-mindedness and thus does not attain perfection in mysticism?"
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.38",
+      "chapter": 6,
+      "number": 38,
+      "transliteration": "kaccinnobhayavibhraṣṭaśchinnābhramiva naśyati .\napratiṣṭho mahābāho vimūḍho brahmaṇaḥ pathi ||6-38||",
+      "text": {
+        "sanskrit": "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति |\nअप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि ||६-३८||",
+        "hindi": "।।6.38।। हे महबाहो ! क्या वह ब्रह्म के मार्ग में मोहित तथा आश्रयरहित पुरुष छिन्न-भिन्न मेघ के समान दोनों ओर से भ्रष्ट हुआ नष्ट तो नहीं हो जाता है?",
+        "english": "O mighty-armed Kṛṣṇa, does not such a man, who is bewildered from the path of transcendence, fall away from both spiritual and material success and perish like a riven cloud, with no position in any sphere?"
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.39",
+      "chapter": 6,
+      "number": 39,
+      "transliteration": "etanme saṃśayaṃ kṛṣṇa chettumarhasyaśeṣataḥ .\ntvadanyaḥ saṃśayasyāsya chettā na hyupapadyate ||6-39||",
+      "text": {
+        "sanskrit": "एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः |\nत्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते ||६-३९||",
+        "hindi": "।।6.39।। हे कृष्ण ! मेरे इस संशय को नि:शेष रूप से छेदन (निराकरण) करने के लिए आप ही योग्य है; क्योंकि आपके अतिरिक्त अन्य कोई इस संशय का छेदन करन वाला (छेत्ता) मिलना संभव नहीं है।।",
+        "english": "This is my doubt, O Kṛṣṇa, and I ask You to dispel it completely. But for You, no one is to be found who can destroy this doubt."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.40",
+      "chapter": 6,
+      "number": 40,
+      "transliteration": "śrībhagavānuvāca .\npārtha naiveha nāmutra vināśastasya vidyate .\nna hi kalyāṇakṛtkaścid durgatiṃ tāta gacchati ||6-40||",
+      "text": {
+        "sanskrit": "श्रीभगवानुवाच |\nपार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते |\nन हि कल्याणकृत्कश्चिद् दुर्गतिं तात गच्छति ||६-४०||",
+        "hindi": "।।6.40।। श्रीभगवान् ने कहा -- हे पार्थ ! उस पुरुष का, न तो इस लोक में और न ही परलोक में ही नाश होता है; हे तात ! कोई भी शुभ कर्म करने वाला दुर्गति को नहीं प्राप्त होता है।।",
+        "english": "The Supreme Personality of Godhead said: Son of Pṛthā, a transcendentalist engaged in auspicious activities does not meet with destruction either in this world or in the spiritual world; one who does good, My friend, is never overcome by evil."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.41",
+      "chapter": 6,
+      "number": 41,
+      "transliteration": "prāpya puṇyakṛtāṃ lokānuṣitvā śāśvatīḥ samāḥ .\nśucīnāṃ śrīmatāṃ gehe yogabhraṣṭo.abhijāyate ||6-41||",
+      "text": {
+        "sanskrit": "प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः |\nशुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते ||६-४१||",
+        "hindi": "।।6.41।। योगभ्रष्ट पुरुष पुण्यवानों के लोकों को प्राप्त होकर वहाँ दीर्घकाल तक वास करके शुद्ध आचरण वाले श्रीमन्त (धनवान) पुरुषों के घर में जन्म लेता है।।",
+        "english": "The unsuccessful yogī, after many, many years of enjoyment on the planets of the pious living entities, is born into a family of righteous people, or into a family of rich aristocracy."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.42",
+      "chapter": 6,
+      "number": 42,
+      "transliteration": "athavā yogināmeva kule bhavati dhīmatām .\netaddhi durlabhataraṃ loke janma yadīdṛśam ||6-42||",
+      "text": {
+        "sanskrit": "अथवा योगिनामेव कुले भवति धीमताम् |\nएतद्धि दुर्लभतरं लोके जन्म यदीदृशम् ||६-४२||",
+        "hindi": "।।6.42।। अथवा, (साधक) ज्ञानवान् योगियों के ही कुल में जन्म लेता है, परन्तु इस प्रकार का जन्म इस लोक में नि:संदेह अति दुर्लभ है।।",
+        "english": "Or [if unsuccessful after long practice of yoga] he takes his birth in a family of transcendentalists who are surely great in wisdom. Certainly, such a birth is rare in this world."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.43",
+      "chapter": 6,
+      "number": 43,
+      "transliteration": "tatra taṃ buddhisaṃyogaṃ labhate paurvadehikam .\nyatate ca tato bhūyaḥ saṃsiddhau kurunandana ||6-43||",
+      "text": {
+        "sanskrit": "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् |\nयतते च ततो भूयः संसिद्धौ कुरुनन्दन ||६-४३||",
+        "hindi": "।।6.43।। हे कुरुनन्दन ! वह पुरुष वहाँ पूर्व देह में प्राप्त किये गये ज्ञान से सम्पन्न होकर योगसंसिद्धि के लिए उससे भी अधिक प्रयत्न करता है।।",
+        "english": "On taking such a birth, he revives the divine consciousness of his previous life, and he again tries to make further progress in order to achieve complete success, O son of Kuru."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.44",
+      "chapter": 6,
+      "number": 44,
+      "transliteration": "pūrvābhyāsena tenaiva hriyate hyavaśo.api saḥ .\njijñāsurapi yogasya śabdabrahmātivartate ||6-44||",
+      "text": {
+        "sanskrit": "पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः |\nजिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते ||६-४४||",
+        "hindi": "।।6.44।। उसी पूर्वाभ्यास के कारण वह अवश हुआ योग की ओर आकर्षित होता है। योग का जो केवल जिज्ञासु है वह शब्दब्रह्म का अतिक्रमण करता है।।",
+        "english": "By virtue of the divine consciousness of his previous life, he automatically becomes attracted to the yogic principles – even without seeking them. Such an inquisitive transcendentalist stands always above the ritualistic principles of the scriptures."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.45",
+      "chapter": 6,
+      "number": 45,
+      "transliteration": "prayatnādyatamānastu yogī saṃśuddhakilbiṣaḥ .\nanekajanmasaṃsiddhastato yāti parāṃ gatim ||6-45||",
+      "text": {
+        "sanskrit": "प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः |\nअनेकजन्मसंसिद्धस्ततो याति परां गतिम् ||६-४५||",
+        "hindi": "।।6.45।। परन्तु प्रयत्नपूर्वक अभ्यास करने वाला योगी सम्पूर्ण पापों से शुद्ध होकर अनेक जन्मों से (शनै: शनै:) सिद्ध होता हुआ, तब परम गति को प्राप्त होता है।।",
+        "english": "And when the yogī engages himself with sincere endeavor in making further progress, being washed of all contaminations, then ultimately, achieving perfection after many, many births of practice, he attains the supreme goal."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.46",
+      "chapter": 6,
+      "number": 46,
+      "transliteration": "tapasvibhyo.adhiko yogī jñānibhyo.api mato.adhikaḥ .\nkarmibhyaścādhiko yogī tasmādyogī bhavārjuna ||6-46||",
+      "text": {
+        "sanskrit": "तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः |\nकर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन ||६-४६||",
+        "hindi": "।।6.46।। क्योंकि योगी तपस्वियों से श्रेष्ठ है और (केवल शास्त्र के) ज्ञान वालों से भी श्रेष्ठ माना गया है तथा कर्म करने वालों से भी योगी श्रेष्ठ है, इसलिए हे अर्जुन तुम योगी बनो।।",
+        "english": "A yogī is greater than the ascetic, greater than the empiricist and greater than the fruitive worker. Therefore, O Arjuna, in all circumstances, be a yogī."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG6.47",
+      "chapter": 6,
+      "number": 47,
+      "transliteration": "yogināmapi sarveṣāṃ madgatenāntarātmanā .\nśraddhāvānbhajate yo māṃ sa me yuktatamo mataḥ ||6-47||",
+      "text": {
+        "sanskrit": "योगिनामपि सर्वेषां मद्गतेनान्तरात्मना |\nश्रद्धावान्भजते यो मां स मे युक्ततमो मतः ||६-४७||",
+        "hindi": "।।6.47।। समस्त योगियों में जो भी श्रद्धावान् योगी मुझ में युक्त हुये अन्तरात्मा से (अर्थात् एकत्व भाव से मुझे भजता है, वह मुझे युक्ततम (सर्वश्रेष्ठ) मान्य है।।",
+        "english": "And of all yogīs, the one with great faith who always abides in Me, thinks of Me within himself and renders transcendental loving service to Me – he is the most intimately united with Me in yoga and is the highest of all. That is My opinion."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "number": 12,
+  "versesCount": 20,
+  "title": {
+    "sanskrit": "भक्तियोग",
+    "english": "Bhakti Yoga",
+    "transliteration": "Bhakti Yog"
+  },
+  "meaning": {
+    "english": "The Yoga of Devotion",
+    "hindi": "भक्तियोग"
+  },
+  "summary": {
+    "english": "The twelfth chapter of the Bhagavad Gita is Bhakti Yoga. In this chapter, Krishna emphasizes the superiority of Bhakti Yoga (the path of devotion) over all other types of spiritual disciplines and reveals various aspects of devotion. He further explains that the devotees who perform pure devotional service to Him, with their consciousness, merged in Him and all their actions dedicated to Him, are quickly liberated from the cycle of life and death. He also describes the various qualities of the devotees who are very dear to Him.",
+    "hindi": "भगवद गीता का बारहवां अध्याय भक्तियोग है। इस अध्याय में, कृष्ण भक्ति योग की श्रेष्ठता पर बल देते हैं और भक्ति के विभिन्न पहलुओं का वर्णन करते हैं। वे आगे बताते हैं कि वे भक्त जो अपने सभी कर्म उनको समर्पित करके, अपनी चेतना उनमें विलीन करके, सच्चे मन से उनकी भक्ति करते हैं वे बहुत जल्दी जीवन और मृत्यु के चक्र से मुक्ति पा लेते हैं। वे अपने सबसे प्रिय भक्तों के विभिन्न गुड़ों का भी वर्णन करते हैं।"
+  },
+  "verses": [
+    {
+      "id": "BG12.1",
+      "chapter": 12,
+      "number": 1,
+      "transliteration": "arjuna uvāca .\nevaṃ satatayuktā ye bhaktāstvāṃ paryupāsate .\nye cāpyakṣaramavyaktaṃ teṣāṃ ke yogavittamāḥ ||12-1||",
+      "text": {
+        "sanskrit": "अर्जुन उवाच |\nएवं सततयुक्ता ये भक्तास्त्वां पर्युपासते |\nये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः ||१२-१||",
+        "hindi": "।।12.1।। अर्जुन ने कहा -- जो भक्त, सतत युक्त होकर इस (पूर्वोक्त) प्रकार से आपकी उपासना करते हैं और जो भक्त अक्षर, और अव्यक्त की उपासना करते हैं, उन दोनों में कौन उत्तम योगवित् है।।",
+        "english": "Arjuna inquired: Which are considered to be more perfect, those who are always properly engaged in Your devotional service or those who worship the impersonal Brahman, the unmanifested?"
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.2",
+      "chapter": 12,
+      "number": 2,
+      "transliteration": "śrībhagavānuvāca .\nmayyāveśya mano ye māṃ nityayuktā upāsate .\nśraddhayā parayopetāḥ te me yuktatamā matāḥ ||12-2||",
+      "text": {
+        "sanskrit": "श्रीभगवानुवाच |\nमय्यावेश्य मनो ये मां नित्ययुक्ता उपासते |\nश्रद्धया परयोपेताः ते मे युक्ततमा मताः ||१२-२||",
+        "hindi": "।।12.2।। श्रीभगवान् ने कहा -- मुझमें मन को एकाग्र करके नित्ययुक्त हुए जो भक्तजन परम श्रद्धा से युक्त होकर मेरी उपासना करते हैं, वे, मेरे मत से, युक्ततम हैं अर्थात् श्रेष्ठ हैं।।",
+        "english": "The Supreme Personality of Godhead said: Those who fix their minds on My personal form and are always engaged in worshiping Me with great and transcendental faith are considered by Me to be most perfect."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.3",
+      "chapter": 12,
+      "number": 3,
+      "transliteration": "ye tvakṣaramanirdeśyamavyaktaṃ paryupāsate .\nsarvatragamacintyañca kūṭasthamacalandhruvam ||12-3||",
+      "text": {
+        "sanskrit": "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते |\nसर्वत्रगमचिन्त्यञ्च कूटस्थमचलन्ध्रुवम् ||१२-३||",
+        "hindi": "Swami Tejomayananda did not comment on this sloka",
+        "english": "Those who are attached to the unmanifested and impersonal feature of the Supreme, and who do not engage in devotional service, experience a greater difficulty in attaining Me, O Arjuna."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.4",
+      "chapter": 12,
+      "number": 4,
+      "transliteration": "sanniyamyendriyagrāmaṃ sarvatra samabuddhayaḥ .\nte prāpnuvanti māmeva sarvabhūtahite ratāḥ ||12-4||",
+      "text": {
+        "sanskrit": "सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः |\nते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः ||१२-४||",
+        "hindi": "।।12.4।। इन्द्रिय समुदाय को सम्यक् प्रकार से नियमित करके, सर्वत्र समभाव वाले, भूतमात्र के हित में रत वे भक्त मुझे ही प्राप्त होते हैं।।",
+        "english": "But those who worship Me with devotion, meditating on My transcendental form—to them, whose minds are always absorbed in Me, I provide what they lack and preserve what they have."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.5",
+      "chapter": 12,
+      "number": 5,
+      "transliteration": "kleśo.adhikatarasteṣāmavyaktāsaktacetasām ||\navyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate ||12-5||",
+      "text": {
+        "sanskrit": "क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् |\nअव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ||१२-५||",
+        "hindi": "।।12.5।। परन्तु उन अव्यक्त में आसक्त हुए चित्त वाले पुरुषों को क्लेश अधिक होता है, क्योंकि देहधारियों से अव्यक्त की गति कठिनाईपूर्वक प्राप्त की जाती है।।",
+        "english": "For those whose minds are attached to the unmanifested, impersonal feature of the Supreme, advancement is very troublesome. To make progress in that discipline is always difficult for those who are embodied."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.6",
+      "chapter": 12,
+      "number": 6,
+      "transliteration": "ye tu sarvāṇi karmāṇi mayi saṃnyasya matparaḥ .\nananyenaiva yogena māṃ dhyāyanta upāsate ||12-6||",
+      "text": {
+        "sanskrit": "ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्परः |\nअनन्येनैव योगेन मां ध्यायन्त उपासते ||१२-६||",
+        "hindi": "।।12.6।। परन्तु जो भक्तजन मुझे ही परम लक्ष्य समझते हुए सब कर्मों को मुझे अर्पण करके अनन्ययोग के द्वारा मेरा (सगुण का) ही ध्यान करते हैं।।",
+        "english": "But those who worship Me, giving up all their activities unto Me and being devoted to Me without deviation, engaged in devotional service and always meditating upon Me, having fixed their minds upon Me, O son of Pṛthā—for them I am the swift deliverer from the ocean of birth and death."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.7",
+      "chapter": 12,
+      "number": 7,
+      "transliteration": "teṣāmahaṃ samuddhartā mṛtyusaṃsārasāgarāt .\nbhavāmi nacirātpārtha mayyāveśitacetasām ||12-7||",
+      "text": {
+        "sanskrit": "तेषामहं समुद्धर्ता मृत्युसंसारसागरात् |\nभवामि नचिरात्पार्थ मय्यावेशितचेतसाम् ||१२-७||",
+        "hindi": "।।12.7।। हे पार्थ ! जिनका चित्त मुझमें ही स्थिर हुआ है ऐसे भक्तों का मैं शीघ्र ही मृत्युरूप संसार सागर से उद्धार करने वाला होता हूँ।।",
+        "english": "Of those who are devoted to Me and whose minds are fixed on Me, O son of Pṛthā, assuredly I am the swift deliverer from the ocean of birth and death."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.8",
+      "chapter": 12,
+      "number": 8,
+      "transliteration": "mayyeva mana ādhatsva mayi buddhiṃ niveśaya .\nnivasiṣyasi mayyeva ata ūrdhvaṃ na saṃśayaḥ ||12-8||",
+      "text": {
+        "sanskrit": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय |\nनिवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः ||१२-८||",
+        "hindi": "।।12.8।। तुम अपने मन और बुद्धि को मुझमें ही स्थिर करो, तदुपरान्त तुम मुझमें ही निवास करोगे, इसमें कोई संशय नहीं है।।",
+        "english": "Just fix your mind upon Me, the Supreme Personality of Godhead, and engage all your intelligence in Me. Thus you will live in Me always, without a doubt."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.9",
+      "chapter": 12,
+      "number": 9,
+      "transliteration": "atha cittaṃ samādhātuṃ na śaknoṣi mayi sthiram .\nabhyāsayogena tato māmicchāptuṃ dhanañjaya ||12-9||",
+      "text": {
+        "sanskrit": "अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् |\nअभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय ||१२-९||",
+        "hindi": "।।12.9।। हे धनंजय ! यदि तुम अपने मन को मुझमें स्थिर करने में समर्थ नहीं हो, तो अभ्यासयोग के द्वारा तुम मुझे प्राप्त करने की इच्छा (अर्थात् प्रयत्न) करो।।",
+        "english": "My dear Arjuna, O winner of wealth, if you cannot fix your mind upon Me without deviation, then follow the regulative principles of bhakti-yoga. In this way develop a desire to attain Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.10",
+      "chapter": 12,
+      "number": 10,
+      "transliteration": "abhyāse.apyasamartho.asi matkarmaparamo bhava .\nmadarthamapi karmāṇi kurvansiddhimavāpsyasi ||12-10||",
+      "text": {
+        "sanskrit": "अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव |\nमदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि ||१२-१०||",
+        "hindi": "।।12.10।। यदि तुम अभ्यास में भी असमर्थ हो तो मत्कर्म परायण बनो; इस प्रकार मेरे लिए कर्मों को करते हुए भी तुम सिद्धि को प्राप्त करोगे।।",
+        "english": "If you cannot practice the regulations of bhakti-yoga, then just try to work for Me, because by working for Me you will come to the perfect stage."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.11",
+      "chapter": 12,
+      "number": 11,
+      "transliteration": "athaitadapyaśakto.asi kartuṃ madyogamāśritaḥ .\nsarvakarmaphalatyāgaṃ tataḥ kuru yatātmavān ||12-11||",
+      "text": {
+        "sanskrit": "अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः |\nसर्वकर्मफलत्यागं ततः कुरु यतात्मवान् ||१२-११||",
+        "hindi": "।।12.11।। और यदि इसको भी करने के लिए तुम असमर्थ हो, तो आत्मसंयम से युक्त होकर मेरी प्राप्ति रूप योग का आश्रय लेकर, तुम समस्त कर्मों के फल का त्याग करो।।",
+        "english": "If, however, you are unable to work in this consciousness of Me, then try to act giving up all results of your work and try to be self-situated."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.12",
+      "chapter": 12,
+      "number": 12,
+      "transliteration": "śreyo hi jñānamabhyāsājjñānāddhyānaṃ viśiṣyate .\ndhyānātkarmaphalatyāgastyāgācchāntiranantaram ||12-12||",
+      "text": {
+        "sanskrit": "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते |\nध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् ||१२-१२||",
+        "hindi": "।।12.12।। अभ्यास से ज्ञान श्रेष्ठ है; ज्ञान से श्रेष्ठ ध्यान है और ध्यान से भी श्रेष्ठ कर्मफल त्याग है त्याग; से तत्काल ही शान्ति मिलती है।।",
+        "english": "If you cannot take to this practice, then engage yourself in the cultivation of knowledge. Better than knowledge, however, is meditation, and better than meditation is renunciation of the fruits of action, for by such renunciation one can attain peace of mind."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.13",
+      "chapter": 12,
+      "number": 13,
+      "transliteration": "adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca .\nnirmamo nirahaṅkāraḥ samaduḥkhasukhaḥ kṣamī ||12-13||",
+      "text": {
+        "sanskrit": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च |\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी ||१२-१३||",
+        "hindi": "।।12.13।। भूतमात्र के प्रति जो द्वेषरहित है तथा सबका मित्र तथा करुणावान् है; जो ममता और अहंकार से रहित, सुख और दु:ख में सम और क्षमावान् है।।",
+        "english": "But those who completely dedicate all their activities to Me, regarding Me as the supreme goal, and meditate on Me with single-minded devotion, worshiping Me through the path of unalloyed devotion."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.14",
+      "chapter": 12,
+      "number": 14,
+      "transliteration": "santuṣṭaḥ satataṃ yogī yatātmā dṛḍhaniścayaḥ .\nmayyarpitamanobuddhiryo madbhaktaḥ sa me priyaḥ ||12-14||",
+      "text": {
+        "sanskrit": "सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः |\nमय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः ||१२-१४||",
+        "hindi": "।।12.14।। जो संयतात्मा, दृढ़निश्चयी योगी सदा सन्तुष्ट है, जो अपने मन और बुद्धि को मुझमें अर्पण किये हुए है, जो ऐसा मेरा भक्त है, वह मुझे प्रिय है।।",
+        "english": "I swiftly deliver them from the ocean of birth and death, for their consciousness is merged in Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.15",
+      "chapter": 12,
+      "number": 15,
+      "transliteration": "yasmānnodvijate loko lokānnodvijate ca yaḥ .\nharṣāmarṣabhayodvegairmukto yaḥ sa ca me priyaḥ ||12-15||",
+      "text": {
+        "sanskrit": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः |\nहर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ||१२-१५||",
+        "hindi": "।।12.15।। जिससे कोई लोक (अर्थात् जीव, व्यक्ति) उद्वेग को प्राप्त नहीं होता और जो स्वयं भी किसी व्यक्ति से उद्वेग अनुभव नहीं करता तथा जो हर्ष, अमर्ष (असहिष्णुता) भय और उद्वेगों से मुक्त है,वह भक्त मुझे प्रिय है।।",
+        "english": "He by whom no one is put into difficulty and who is not disturbed by anyone, who is equipoised in happiness and distress, fear and anxiety, is very dear to Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.16",
+      "chapter": 12,
+      "number": 16,
+      "transliteration": "anapekṣaḥ śucirdakṣa udāsīno gatavyathaḥ .\nsarvārambhaparityāgī yo madbhaktaḥ sa me priyaḥ ||12-16||",
+      "text": {
+        "sanskrit": "अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः |\nसर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः ||१२-१६||",
+        "hindi": "।।12.16।। जो अपेक्षारहित, शुद्ध, दक्ष, उदासीन, व्यथारहित और सर्वकर्मों का संन्यास करने वाला मेरा भक्त है, वह मुझे प्रिय है।।",
+        "english": "My devotee who is not dependent on the ordinary course of activities, who is pure, expert, without cares, free from all pains, and not striving for some result, is very dear to Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.17",
+      "chapter": 12,
+      "number": 17,
+      "transliteration": "yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati .\nśubhāśubhaparityāgī bhaktimānyaḥ sa me priyaḥ ||12-17||",
+      "text": {
+        "sanskrit": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति |\nशुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः ||१२-१७||",
+        "hindi": "।।12.17।। जो न हर्षित होता है और न द्वेष करता है; न शोक करता है और न आकांक्षा; तथा जो शुभ और अशुभ को त्याग देता है, वह भक्तिमान् पुरुष मुझे प्रिय है।।",
+        "english": "One who neither rejoices nor grieves, who neither laments nor desires, and who renounces both auspicious and inauspicious things – such a devotee is very dear to Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.18",
+      "chapter": 12,
+      "number": 18,
+      "transliteration": "samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ .\nśītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ ||12-18||",
+      "text": {
+        "sanskrit": "समः शत्रौ च मित्रे च तथा मानापमानयोः |\nशीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः ||१२-१८||",
+        "hindi": "Swami Tejomayananda did not comment on this sloka",
+        "english": "One who is equal to friends and enemies, who is equipoised in honor and dishonor, heat and cold, happiness and distress, who is free from attachment and remains steady in situations of gain or loss."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.19",
+      "chapter": 12,
+      "number": 19,
+      "transliteration": "tulyanindāstutirmaunī santuṣṭo yena kenacit .\naniketaḥ sthiramatirbhaktimānme priyo naraḥ ||12-19||",
+      "text": {
+        "sanskrit": "तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् |\nअनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ||१२-१९||",
+        "hindi": "।।12.19।। जिसको निन्दा और स्तुति दोनों ही तुल्य है, जो मौनी है, जो किसी अल्प वस्तु से भी सन्तुष्ट है, जो अनिकेत है, वह स्थिर बुद्धि का भक्तिमान् पुरुष मुझे प्रिय है।।",
+        "english": "Who is satisfied with anything, who is indifferent to everything, who is free from possessiveness, and whose mind is fixed in devotion—that person is very dear to Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG12.20",
+      "chapter": 12,
+      "number": 20,
+      "transliteration": "ye tu dharmyāmṛtamidaṃ yathoktaṃ paryupāsate .\nśraddadhānā matparamā bhaktāste.atīva me priyāḥ ||12-20||",
+      "text": {
+        "sanskrit": "ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते |\nश्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः ||१२-२०||",
+        "hindi": "।।12.20।। जो भक्त श्रद्धावान् तथा मुझे ही परम लक्ष्य समझने वाले हैं और इस यथोक्त धर्ममय अमृत का अर्थात् धर्ममय जीवन का पालन करते हैं, वे मुझे अतिशय प्रिय हैं।।",
+        "english": "Those who follow this imperishable path of devotional service and who completely engage themselves with faith, making Me the supreme goal, are very, very dear to Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    }
+  ]
+}
