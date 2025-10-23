@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { Manrope, Playfair_Display } from "next/font/google";
 
-import { SiteFooter } from "@/components/site-footer";
-import { SiteHeader } from "@/components/site-header";
+import { AppShell } from "@/components/app-shell";
+import { LanguageProvider } from "@/components/language-provider";
 
 import "./globals.css";
 
@@ -35,15 +35,9 @@ export default function RootLayout({
       <body
         className={`${manrope.variable} ${playfair.variable} bg-sand-25 text-ink-700 antialiased`}
       >
-        <div className="flex min-h-screen flex-col bg-[radial-gradient(circle_at_top,_rgba(255,239,214,0.7)_0%,_rgba(254,249,240,0.95)_45%,_#fbf8f3_100%)]">
-          <SiteHeader />
-          <main className="flex-1">
-            <div className="mx-auto w-full max-w-6xl px-4 py-12 lg:px-6 lg:py-16">
-              {children}
-            </div>
-          </main>
-          <SiteFooter />
-        </div>
+        <LanguageProvider>
+          <AppShell>{children}</AppShell>
+        </LanguageProvider>
       </body>
     </html>
   );

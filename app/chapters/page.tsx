@@ -26,6 +26,7 @@ export default function ChaptersPage() {
         {chapters.map((chapter) => (
           <article
             key={chapter.number}
+            id={`chapter-${chapter.number}`}
             className="rounded-3xl border border-pearl-200 bg-white/85 p-6 shadow-soft"
           >
             <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
