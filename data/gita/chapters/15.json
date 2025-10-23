@@ -1,0 +1,439 @@
+{
+  "number": 15,
+  "versesCount": 20,
+  "title": {
+    "sanskrit": "पुरुषोत्तमयोग",
+    "english": "Purushottama Yoga",
+    "transliteration": "Puruṣhottam Yog"
+  },
+  "meaning": {
+    "english": "The Yoga of the Supreme Divine Personality",
+    "hindi": "पुरुषोत्तम योग"
+  },
+  "summary": {
+    "english": "The fifteenth chapter of the Bhagavad Gita is Purushottama Yoga. In Sanskrit, Purusha means the All-pervading God, and Purushottam means the timeless & transcendental aspect of God.        Krishna reveals that the purpose of this Transcendental knowledge of the God is to detach ourselves from the bondage of the material world and to understand Krishna as the Supreme Divine Personality, who is the eternal controller and sustainer of the world. One who understands this Ultimate Truth surrenders to Him and engages in His devotional service.",
+    "hindi": "भगवद गीता का पंद्रहवा अध्याय पुरुषोत्तमयोग है। संस्कृत में, पुरूष का मतलब सर्वव्यापी भगवान है, और पुरुषोत्तम का मतलब है ईश्वर का कालातीत और पारस्परिक पहलू। कृष्णा बताते हैं कि ईश्वर के इस महान ज्ञान का उद्देश्य भौतिक संसार के बंधन से खुद को अलग करना है और कृष्ण को सर्वोच्च दिव्य व्यक्तित्व के रूप में समझना है, जो विश्व के शाश्वत नियंत्रक और निर्वाहक हैं। जो इस परम सत्य को समझता है वह प्रभु को समर्पण करता है और उनकी भक्ति सेवा में संलग्न हो जाता है।"
+  },
+  "verses": [
+    {
+      "id": "BG15.1",
+      "chapter": 15,
+      "number": 1,
+      "transliteration": "śrībhagavānuvāca .\nūrdhvamūlamadhaḥśākhamaśvatthaṃ prāhuravyayam .\nchandāṃsi yasya parṇāni yastaṃ veda sa vedavit ||15-1||",
+      "text": {
+        "sanskrit": "श्रीभगवानुवाच |\nऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् |\nछन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ||१५-१||",
+        "hindi": "।।15.1।। श्री भगवान् ने कहा -- (ज्ञानी पुरुष इस संसार वृक्ष को) ऊर्ध्वमूल और अध:शाखा वाला अश्वत्थ और अव्यय कहते हैं; जिसके पर्ण छन्द अर्थात् वेद हैं, ऐसे (संसार वृक्ष) को जो जानता है, वह वेदवित् है।।",
+        "english": "The Supreme Personality of Godhead said: It is said that there is an imperishable banyan tree that has its roots upward and its branches down and whose leaves are the Vedic hymns. One who knows this tree is the knower of the Vedas."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.2",
+      "chapter": 15,
+      "number": 2,
+      "transliteration": "adhaścordhvaṃ prasṛtāstasya śākhā guṇapravṛddhā viṣayapravālāḥ .\nadhaśca mūlānyanusantatāni karmānubandhīni manuṣyaloke ||15-2||",
+      "text": {
+        "sanskrit": "अधश्चोर्ध्वं प्रसृतास्तस्य शाखा\nगुणप्रवृद्धा विषयप्रवालाः |\nअधश्च मूलान्यनुसन्ततानि\nकर्मानुबन्धीनि मनुष्यलोके ||१५-२||",
+        "hindi": "।।15.2।। उस वृक्ष की शाखाएं गुणों से प्रवृद्ध हुईं नीचे और ऊपर फैली हुईं हैं; (पंच) विषय इसके अंकुर हैं; मनुष्य लोक में कर्मों का अनुसरण करने वाली इसकी अन्य जड़ें नीचे फैली हुईं हैं।।",
+        "english": "The branches of this tree extend downward and upward, nourished by the three modes of material nature. The twigs are the objects of the senses. This tree also has roots going down, and these are bound to the fruitive actions of human society."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.3",
+      "chapter": 15,
+      "number": 3,
+      "transliteration": "na rūpamasyeha tathopalabhyate nānto na cādirna ca sampratiṣṭhā .\naśvatthamenaṃ suvirūḍhamūlaṃ asaṅgaśastreṇa dṛḍhena chittvā ||15-3||",
+      "text": {
+        "sanskrit": "न रूपमस्येह तथोपलभ्यते\nनान्तो न चादिर्न च सम्प्रतिष्ठा |\nअश्वत्थमेनं सुविरूढमूलं\nअसङ्गशस्त्रेण दृढेन छित्त्वा ||१५-३||",
+        "hindi": "।।15.3।। इस (संसार वृक्ष) का स्वरूप जैसा कहा गया है वैसा यहाँ उपलब्ध नहीं होता है, क्योंकि इसका न आदि है और न अंत और न प्रतिष्ठा ही है। इस अति दृढ़ मूल वाले अश्वत्थ वृक्ष को दृढ़ असङ्ग शस्त्र से काटकर ...৷৷৷৷।।",
+        "english": "The real form of this tree cannot be perceived in this world. No one can understand where it ends, where it begins, or where its foundation is. But with determination one must cut down this strongly rooted tree with the weapon of detachment."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.4",
+      "chapter": 15,
+      "number": 4,
+      "transliteration": "tataḥ padaṃ tatparimārgitavyaṃ yasmingatā na nivartanti bhūyaḥ .\ntameva cādyaṃ puruṣaṃ prapadye .\nyataḥ pravṛttiḥ prasṛtā purāṇī ||15-4||",
+      "text": {
+        "sanskrit": "ततः पदं तत्परिमार्गितव्यं\nयस्मिन्गता न निवर्तन्ति भूयः |\nतमेव चाद्यं पुरुषं प्रपद्ये |\nयतः प्रवृत्तिः प्रसृता पुराणी ||१५-४||",
+        "hindi": "।।15.4।। (तदुपरान्त) उस पद का अन्वेषण करना चाहिए जिसको प्राप्त हुए पुरुष पुन: संसार में नहीं लौटते हैं। \"मैं उस आदि पुरुष की शरण हूँ, जिससे यह पुरातन प्रवृत्ति प्रसृत हुई है\"।।",
+        "english": "Thereafter, one must seek that place from which, having gone, one never returns, and there surrender to that Supreme Personality of Godhead from whom everything has begun and in whom everything is abiding since time immemorial."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.5",
+      "chapter": 15,
+      "number": 5,
+      "transliteration": "nirmānamohā jitasaṅgadoṣā adhyātmanityā vinivṛttakāmāḥ .\ndvandvairvimuktāḥ sukhaduḥkhasaṃjñaira- gacchantyamūḍhāḥ padamavyayaṃ tat ||15-5||",
+      "text": {
+        "sanskrit": "निर्मानमोहा जितसङ्गदोषा\nअध्यात्मनित्या विनिवृत्तकामाः |\nद्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञैर्-\nगच्छन्त्यमूढाः पदमव्ययं तत् ||१५-५||",
+        "hindi": "।।15.5।। जिनका मान और मोह निवृत्त हो गया है, जिन्होंने संगदोष को जीत लिया है, जो अध्यात्म में स्थित हैं जिनकी कामनाएं निवृत्त हो चुकी हैं और जो सुख-दु:ख नामक द्वन्द्वों से विमुक्त हो गये हैं, ऐसे सम्मोह रहित ज्ञानीजन उस अव्यय पद को प्राप्त होते हैं।।",
+        "english": "Those who are free from false prestige, illusion and false association, who understand the eternal, who are done with material lust, who are freed from the dualities of happiness and distress, and who, unbewildered, know how to surrender unto the Supreme Person attain to that eternal kingdom."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.6",
+      "chapter": 15,
+      "number": 6,
+      "transliteration": "na tadbhāsayate sūryo na śaśāṅko na pāvakaḥ .\nyadgatvā na nivartante taddhāma paramaṃ mama ||15-6||",
+      "text": {
+        "sanskrit": "न तद्भासयते सूर्यो न शशाङ्को न पावकः |\nयद्गत्वा न निवर्तन्ते तद्धाम परमं मम ||१५-६||",
+        "hindi": "।।15.6।। उसे न सूर्य प्रकाशित कर सकता है और न चन्द्रमा और न अग्नि। जिसे प्राप्त कर मनुष्य पुन: (संसार को) नहीं लौटते हैं, वह मेरा परम धाम है।।",
+        "english": "That supreme abode of Mine is not illumined by the sun or moon, nor by fire or electricity. Those who reach it never return to this material world."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.7",
+      "chapter": 15,
+      "number": 7,
+      "transliteration": "mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ .\nmanaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati ||15-7||",
+      "text": {
+        "sanskrit": "ममैवांशो जीवलोके जीवभूतः सनातनः |\nमनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ||१५-७||",
+        "hindi": "।।15.7।। इस जीव लोक में मेरा ही एक सनातन अंश जीव बना है। वह प्रकृति में स्थित हुआ (देहत्याग के समय) पाँचो इन्द्रियों तथा मन को अपनी ओर खींच लेता है अर्थात् उन्हें एकत्रित कर लेता है।।",
+        "english": "The living entities in this conditioned world are My eternal fragmental parts. Due to conditioned life, they are struggling very hard with the six senses, which include the mind."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.8",
+      "chapter": 15,
+      "number": 8,
+      "transliteration": "śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ .\ngṛhitvaitāni saṃyāti vāyurgandhānivāśayāt ||15-8||",
+      "text": {
+        "sanskrit": "शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः |\nगृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ||१५-८||",
+        "hindi": "।।15.8।। जब (देहादि का) ईश्वर (जीव) (एक शरीर से) उत्क्रमण करता है, तब इन (इन्द्रियों और मन) को ग्रहण कर अन्य शरीर में इस प्रकार ले जाता है, जैसे गन्ध के आश्रय (फूलादि) से गन्ध को वायु ले जाता है।।",
+        "english": "The living entity in the material world carries his different conceptions of life from one body to another, as the air carries aromas. Thus he takes one kind of body and again quits it to take another."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.9",
+      "chapter": 15,
+      "number": 9,
+      "transliteration": "śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇameva ca .\nadhiṣṭhāya manaścāyaṃ viṣayānupasevate ||15-9||",
+      "text": {
+        "sanskrit": "श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च |\nअधिष्ठाय मनश्चायं विषयानुपसेवते ||१५-९||",
+        "hindi": "।।15.9।। (यह जीव) श्रोत्र, चक्षु, स्पर्शेन्द्रिय, रसना और घ्राण (नाक) इन इन्द्रियों तथा मन को आश्रय करके अर्थात् इनके द्वारा विषयों का सेवन करता है।।",
+        "english": "The living entity, thus taking another gross body, obtains a certain type of ear, eye, tongue, nose and sense of touch, which are grouped about the mind. He thus enjoys a particular set of sense objects."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.10",
+      "chapter": 15,
+      "number": 10,
+      "transliteration": "utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam .\nvimūḍhā nānupaśyanti paśyanti jñānacakṣuṣaḥ ||15-10||",
+      "text": {
+        "sanskrit": "उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् |\nविमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः ||१५-१०||",
+        "hindi": "।।15.10।। शरीर को त्यागते हुये, उसमें स्थित हुये अथवा (विषयों को) भोगते हुये, गुणों से समन्वित आत्मा को विमूढ़ लोग नहीं देखते हैं; (परन्तु) ज्ञानचक्षु वाले पुरुष उसे देखते हैं।।",
+        "english": "The foolish cannot understand how a living entity can quit his body, nor can they understand what sort of body he enjoys under the spell of the modes of nature. But one whose eyes are trained in knowledge can see all this."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.11",
+      "chapter": 15,
+      "number": 11,
+      "transliteration": "yatanto yoginaścainaṃ paśyantyātmanyavasthitam .\nyatanto.apyakṛtātmāno nainaṃ paśyantyacetasaḥ ||15-11||",
+      "text": {
+        "sanskrit": "यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् |\nयतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ||१५-११||",
+        "hindi": "।।15.11।। योगीजन प्रयत्न करते हुये ही अपने हृदय में स्थित आत्मा को देखते हैं, जब कि अशुद्ध अन्त:करण वाले (अकृतात्मान:) और अविवेकी (अचेतस:) लोग यत्न करते हुये भी इसे नहीं देखते हैं।।",
+        "english": "The endeavoring transcendentalists who are situated in self-realization can see all this clearly. But those whose minds are not developed and who are not situated in self-realization cannot see what is taking place, though they may try."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.12",
+      "chapter": 15,
+      "number": 12,
+      "transliteration": "yadādityagataṃ tejo jagadbhāsayate.akhilam .\nyaccandramasi yaccāgnau tattejo viddhi māmakam ||15-12||",
+      "text": {
+        "sanskrit": "यदादित्यगतं तेजो जगद्भासयतेऽखिलम् |\nयच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् ||१५-१२||",
+        "hindi": "।।15.12।। जो तेज सूर्य में स्थित होकर सम्पूर्ण जगत् को प्रकाशित करता है तथा जो तेज चन्द्रमा में है और अग्नि में है, उस तेज को तुम मेरा ही जानो।।",
+        "english": "The splendor of the sun, which dissipates the darkness of this whole world, comes from Me. And the splendor of the moon and the splendor of fire are also from Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.13",
+      "chapter": 15,
+      "number": 13,
+      "transliteration": "gāmāviśya ca bhūtāni dhārayāmyahamojasā .\npuṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ ||15-13||",
+      "text": {
+        "sanskrit": "गामाविश्य च भूतानि धारयाम्यहमोजसा |\nपुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः ||१५-१३||",
+        "hindi": "।।15.13।। मैं ही पृथ्वी में प्रवेश करके अपने ओज से भूतमात्र को धारण करता हूँ और रसस्वरूप चन्द्रमा बनकर समस्त औषधियों का अर्थात् वनस्पतियों का पोषण करता हूँ।।",
+        "english": "I enter into each planet, and by My energy they stay in orbit. I become the moon and thereby supply the juice of life to all vegetables."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.14",
+      "chapter": 15,
+      "number": 14,
+      "transliteration": "ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ .\nprāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidham ||15-14||",
+      "text": {
+        "sanskrit": "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः |\nप्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ||१५-१४||",
+        "hindi": "।।15.14।। मैं ही समस्त प्राणियों के देह में स्थित वैश्वानर अग्निरूप होकर प्राण और अपान से युक्त चार प्रकार के अन्न को पचाता हूँ।।",
+        "english": "I am the fire of digestion in the bodies of all living entities, and I join with the air of life, outgoing and incoming, to digest the four kinds of foodstuff."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.15",
+      "chapter": 15,
+      "number": 15,
+      "transliteration": "sarvasya cāhaṃ hṛdi sanniviṣṭo mattaḥ smṛtirjñānamapohanañca .\nvedaiśca sarvairahameva vedyo vedāntakṛdvedavideva cāham ||15-15||",
+      "text": {
+        "sanskrit": "सर्वस्य चाहं हृदि सन्निविष्टो\nमत्तः स्मृतिर्ज्ञानमपोहनञ्च |\nवेदैश्च सर्वैरहमेव वेद्यो\nवेदान्तकृद्वेदविदेव चाहम् ||१५-१५||",
+        "hindi": "।।15.15।। मैं ही समस्त प्राणियों के हृदय में स्थित हूँ। मुझसे ही स्मृति, ज्ञान और अपोहन (उनका अभाव) होता है। समस्त वेदों के द्वारा मैं ही वेद्य (जानने योग्य) वस्तु हूँ तथा वेदान्त का और वेदों का ज्ञाता भी मैं ही हूँ।।",
+        "english": "I am seated in everyone’s heart, and from Me come remembrance, knowledge and forgetfulness. By all the Vedas, I am to be known. Indeed, I am the compiler of Vedānta, and I am the knower of the Vedas."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.16",
+      "chapter": 15,
+      "number": 16,
+      "transliteration": "dvāvimau puruṣau loke kṣaraścākṣara eva ca .\nkṣaraḥ sarvāṇi bhūtāni kūṭastho.akṣara ucyate ||15-16||",
+      "text": {
+        "sanskrit": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च |\nक्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ||१५-१६||",
+        "hindi": "।।15.16।। इस लोक में क्षर (नश्वर) और अक्षर (अनश्वर) ये दो पुरुष हैं, समस्त भूत क्षर हैं और 'कूटस्थ' अक्षर कहलाता है।।",
+        "english": "There are two classes of beings, the fallible and the infallible. In the material world every living entity is fallible, and in the spiritual world every living entity is called infallible."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.17",
+      "chapter": 15,
+      "number": 17,
+      "transliteration": "uttamaḥ puruṣastvanyaḥ paramātmetyudhāhṛtaḥ .\nyo lokatrayamāviśya bibhartyavyaya īśvaraḥ ||15-17||",
+      "text": {
+        "sanskrit": "उत्तमः पुरुषस्त्वन्यः परमात्मेत्युधाहृतः |\nयो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः ||१५-१७||",
+        "hindi": "।।15.17।। परन्तु उत्तम पुरुष अन्य ही है, जो परमात्मा कहलाता है और जो तीनों लोकों में प्रवेश करके सबका धारण करने वाला अव्यय ईश्वर है।।",
+        "english": "Besides these two, there is the greatest living personality, the Supreme Soul, the imperishable Lord Himself, who has entered the three worlds and is maintaining them."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.18",
+      "chapter": 15,
+      "number": 18,
+      "transliteration": "yasmātkṣaramatīto.ahamakṣarādapi cottamaḥ .\nato.asmi loke vedeca prathitaḥ puruṣottamaḥ ||15-18||",
+      "text": {
+        "sanskrit": "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः |\nअतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः ||१५-१८||",
+        "hindi": "।।15.18।। क्योंकि मैं क्षर से अतीत हूँ और अक्षर से भी उत्तम हूँ, इसलिये लोक में और वेद में भी पुरुषोत्तम के नाम से प्रसिद्ध हूँ।।",
+        "english": "Because I am transcendental, beyond both the fallible and the infallible, and because I am the greatest, I am celebrated both in the world and in the Vedas as that Supreme Person."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.19",
+      "chapter": 15,
+      "number": 19,
+      "transliteration": "yo māmevamasammūḍho jānāti puruṣottamam .\nsa sarvavidbhajati māṃ sarvabhāvena bhārata ||15-19||",
+      "text": {
+        "sanskrit": "यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् |\nस सर्वविद्भजति मां सर्वभावेन भारत ||१५-१९||",
+        "hindi": "।।15.19।। हे भारत ! इस प्रकार, जो, संमोहरहित, पुरुष मुझ पुरुषोत्तम को जानता है, वह सर्वज्ञ होकर सम्पूर्ण भाव से अर्थात् पूर्ण हृदय से मेरी भक्ति करता है।।",
+        "english": "Whoever knows Me as the Supreme Personality of Godhead, without doubting, is the knower of everything. He therefore engages himself in full devotional service to Me, O son of Bharata."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG15.20",
+      "chapter": 15,
+      "number": 20,
+      "transliteration": "iti guhyatamaṃ śāstramidamuktaṃ mayānagha .\netadbuddhvā buddhimānsyātkṛtakṛtyaśca bhārata ||15-20||",
+      "text": {
+        "sanskrit": "इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ |\nएतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत ||१५-२०||",
+        "hindi": "।।15.20।। हे निष्पाप भारत ! इस प्रकार यह गुह्यतम शास्त्र मेरे द्वारा कहा गया, इसको जानकर मनुष्य बुद्धिमान और कृतकृत्य हो जाता है।।",
+        "english": "This is the most confidential part of the Vedic scriptures, O sinless one, and it is disclosed now by Me. Whoever understands this will become wise, and his endeavors will know perfection."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    }
+  ]
+}

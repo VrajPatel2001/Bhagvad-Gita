@@ -1,0 +1,523 @@
+{
+  "number": 16,
+  "versesCount": 24,
+  "title": {
+    "sanskrit": "दैवासुरसम्पद्विभागयोग",
+    "english": "Daivasura Sampad Vibhaga Yoga",
+    "transliteration": "Daivāsura Sampad Vibhāg Yog"
+  },
+  "meaning": {
+    "english": "Yoga through Discerning the Divine and Demoniac Natures",
+    "hindi": "दैवी तथा आसुरी स्वभाव"
+  },
+  "summary": {
+    "english": "The sixteenth chapter of the Bhagavad Gita is Daivasura Sampad Vibhaga Yoga. In this chapter, Krishna describes explicitly the two kinds of natures among human beings - divine and demoniac. Those who possess demonaic qualities associate themselves with the modes of passion and ignorance do not follow the regulations of the scriptures and embrace materialistic views. These people attain lower births and further material bondage. But people who possess divine qualities, follow the instructions of the scriptures, associate themselves with the mode of goodness and purify the mind through spiritual practices. This leads to the enhancement of divine qualities and they eventually attain spiritual realization.",
+    "hindi": "भगवद गीता का सोलहवा अध्याय दैवासुरसम्पद्विभागयोग है। इस अध्याय में, कृष्ण स्पष्ट रूप से मानवों की दो प्रकार की प्रकृतियों का वर्णन करते हैं- दैवीय और दानवीय। दानवीय स्वभाव वाले लोग स्वयं को लालसा और अज्ञान के तरीकों से जोड़ते हैं, शास्त्रों के नियमों का पालन नहीं करते हैं और भौतिक विचारों को ग्रहण करते हैं। ये लोग निचली जातियों में जन्म लेते हैं और भौतिक बंधनों में और भी बंध जाते हैं। परन्तु जो लोग दैवीय स्वभाव वाले होते हैं, वे शास्त्रों के निर्देशों का पालन करते हैं, अच्छे काम करते हैं और आध्यात्मिक प्रथाओं के माध्यम से मन को शुद्ध करते हैं। इससे दैवीय गुणों में वृद्धि होती है और वे अंततः आध्यात्मिक प्राप्ति प्राप्त करते हैं।"
+  },
+  "verses": [
+    {
+      "id": "BG16.1",
+      "chapter": 16,
+      "number": 1,
+      "transliteration": "śrībhagavānuvāca .\nabhayaṃ sattvasaṃśuddhirjñānayogavyavasthitiḥ .\ndānaṃ damaśca yajñaśca svādhyāyastapa ārjavam ||16-1||",
+      "text": {
+        "sanskrit": "श्रीभगवानुवाच |\nअभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः |\nदानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ||१६-१||",
+        "hindi": "।।16.1।। श्री भगवान् ने कहा -- अभय, अन्त:करण की शुद्धि, ज्ञानयोग में दृढ़ स्थिति, दान, दम, यज्ञ, स्वाध्याय, तप और आर्जव।।",
+        "english": "The Supreme Personality of Godhead said: Fearlessness; purification of one's existence; cultivation of spiritual knowledge; charity; self-control; performance of sacrifice; study of the Vedas; austerity; simplicity; nonviolence; truthfulness; freedom from anger; renunciation; tranquility; aversion to faultfinding; compassion for all living entities; freedom from covetousness; gentleness; modesty; steady determination; vigor; forgiveness; fortitude; cleanliness; and freedom from envy and from the passion for honor—these transcendental qualities, O son of Bharata, belong to godly men endowed with divine nature."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.2",
+      "chapter": 16,
+      "number": 2,
+      "transliteration": "ahiṃsā satyamakrodhastyāgaḥ śāntirapaiśunam .\ndayā bhūteṣvaloluptvaṃ mārdavaṃ hrīracāpalam ||16-2||",
+      "text": {
+        "sanskrit": "अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् |\nदया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ||१६-२||",
+        "hindi": "।।16.2।। अहिंसा, सत्य, क्रोध का अभाव, त्याग, शान्ति, अपैशुनम् (किसी की निन्दा न करना), भूतमात्र के प्रति दया, अलोलुपता , मार्दव (कोमलता), लज्जा, अचंचलता।।",
+        "english": "Nonviolence; truthfulness; freedom from anger; renunciation; tranquility; apathy toward sense objects; compassion for all living entities; freedom from covetousness; gentleness; modesty; steady determination; vigor; forgiveness; fortitude; cleanliness; and freedom from envy and from the passion for honor—these transcendental qualities, O son of Bharata, belong to godly men endowed with divine nature."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.3",
+      "chapter": 16,
+      "number": 3,
+      "transliteration": "tejaḥ kṣamā dhṛtiḥ śaucamadroho nātimānitā .\nbhavanti sampadaṃ daivīmabhijātasya bhārata ||16-3||",
+      "text": {
+        "sanskrit": "तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता |\nभवन्ति सम्पदं दैवीमभिजातस्य भारत ||१६-३||",
+        "hindi": "।।16.3।। हे भारत ! तेज, क्षमा, धैर्य, शौच (शुद्धि), अद्रोह और अतिमान (गर्व) का अभाव ये सब दैवी संपदा को प्राप्त पुरुष के लक्षण हैं।।",
+        "english": "Austerity; cleanliness; nonviolence; truthfulness; absence of anger; renunciation; tranquility; aversion to faultfinding; compassion for all living entities; freedom from covetousness; gentleness; modesty; steady determination; vigor; forgiveness; fortitude; cleanliness; freedom from envy and the passion for honor—these transcendental qualities, O son of Bharata, belong to godly men endowed with divine nature."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.4",
+      "chapter": 16,
+      "number": 4,
+      "transliteration": "dambho darpo.abhimānaśca krodhaḥ pāruṣyameva ca .\najñānaṃ cābhijātasya pārtha sampadamāsurīm ||16-4||",
+      "text": {
+        "sanskrit": "दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च |\nअज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् ||१६-४||",
+        "hindi": "।।16.4।। हे पार्थ ! दम्भ, दर्प, अभिमान, क्रोध, कठोर वाणी (पारुष्य) और अज्ञान यह सब आसुरी सम्पदा है।।",
+        "english": "Pride, arrogance, conceit, anger, harshness and ignorance – these qualities belong to those of demoniac nature, O son of Pṛthā."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.5",
+      "chapter": 16,
+      "number": 5,
+      "transliteration": "daivī sampadvimokṣāya nibandhāyāsurī matā .\nmā śucaḥ sampadaṃ daivīmabhijāto.asi pāṇḍava ||16-5||",
+      "text": {
+        "sanskrit": "दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता |\nमा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ||१६-५||",
+        "hindi": "।।16.5।। हे पाण्डव ! दैवी सम्पदा मोक्ष के लिए और आसुरी सम्पदा बन्धन के लिए मानी गयी है, तुम शोक मत करो, क्योंकि तुम दैवी सम्पदा को प्राप्त हुए हो।।",
+        "english": "The transcendental qualities are conducive to liberation, whereas the demoniac qualities make for bondage. Do not worry, O son of Pāṇḍu, for you are born with the divine qualities."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.6",
+      "chapter": 16,
+      "number": 6,
+      "transliteration": "dvau bhūtasargau loke.asmindaiva āsura eva ca .\ndaivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu ||16-6||",
+      "text": {
+        "sanskrit": "द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च |\nदैवो विस्तरशः प्रोक्त आसुरं पार्थ मे शृणु ||१६-६||",
+        "hindi": "।।16.6।। हे पार्थ ! इस लोक में दो प्रकार की भूतिसृष्टि है, दैवी और आसुरी। उनमें देवों का स्वभाव (दैवी सम्पदा) विस्तारपूर्वक कहा गया है; अब असुरों के स्वभाव को विस्तरश: मुझसे सुनो।।",
+        "english": "O son of Pṛthā, in this world there are two kinds of created beings. One is called divine and the other demoniac. I have already explained to you at length the divine qualities. Now hear from Me of the demoniac."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.7",
+      "chapter": 16,
+      "number": 7,
+      "transliteration": "pravṛttiṃ ca nivṛttiṃ ca janā na vidurāsurāḥ .\nna śaucaṃ nāpi cācāro na satyaṃ teṣu vidyate ||16-7||",
+      "text": {
+        "sanskrit": "प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः |\nन शौचं नापि चाचारो न सत्यं तेषु विद्यते ||१६-७||",
+        "hindi": "।।16.7।। आसुरी स्वभाव के लोग न प्रवृत्ति को; जानते हैं और न निवृत्ति को उनमें न शुद्धि होती है, न सदाचार और न सत्य ही होता है।।",
+        "english": "Those who are demoniac do not know what is to be done and what is not to be done. Neither cleanliness nor proper behavior nor truth is found in them."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.8",
+      "chapter": 16,
+      "number": 8,
+      "transliteration": "asatyamapratiṣṭhaṃ te jagadāhuranīśvaram .\naparasparasambhūtaṃ kimanyatkāmahaitukam ||16-8||",
+      "text": {
+        "sanskrit": "असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् |\nअपरस्परसम्भूतं किमन्यत्कामहैतुकम् ||१६-८||",
+        "hindi": "।।16.8।। वे कहते हैं कि यह जगत् आश्रयरहित, असत्य और ईश्वर रहित है, यह (स्त्रीपुरुष के) परस्पर कामुक संबंध से ही उत्पन्न हुआ है, और (इसका कारण) क्या हो सकता है?",
+        "english": "They say that this world is unreal, with no foundation, no God in control. They say it is produced of sex desire and has no cause other than lust."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.9",
+      "chapter": 16,
+      "number": 9,
+      "transliteration": "etāṃ dṛṣṭimavaṣṭabhya naṣṭātmāno.alpabuddhayaḥ .\nprabhavantyugrakarmāṇaḥ kṣayāya jagato.ahitāḥ ||16-9||",
+      "text": {
+        "sanskrit": "एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः |\nप्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः ||१६-९||",
+        "hindi": "।।16.9।। इस दृष्टि का अवलम्बन करके नष्टस्वभाव के अल्प बुद्धि वाले, घोर कर्म करने वाले लोग जगत् के शत्रु (अहित चाहने वाले) के रूप में उसका नाश करने के लिए उत्पन्न होते हैं।।",
+        "english": "Following such conclusions, the demoniac, who are lost to themselves and who have no intelligence, engage in unbeneficial, horrible works meant to destroy the world."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.10",
+      "chapter": 16,
+      "number": 10,
+      "transliteration": "kāmamāśritya duṣpūraṃ dambhamānamadānvitāḥ .\nmohādgṛhītvāsadgrāhānpravartante.aśucivratāḥ ||16-10||",
+      "text": {
+        "sanskrit": "काममाश्रित्य दुष्पूरं दम्भमानमदान्विताः |\nमोहाद्गृहीत्वासद्ग्राहान्प्रवर्तन्तेऽशुचिव्रताः ||१६-१०||",
+        "hindi": "।।16.10।। दम्भ, मान और मद से युक्त कभी न पूर्ण होने वाली कामनाओं का आश्रय लिये, मोहवश मिथ्या धारणाओं को ग्रहण करके ये अशुद्ध संकल्पों के लोग जगत् में कार्य करते हैं।।",
+        "english": "Taking shelter of insatiable lust and absorbed in the conceit of pride and false prestige, the demoniac, thus illusioned, are always sworn to unclean work, attracted by the impermanent."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.11",
+      "chapter": 16,
+      "number": 11,
+      "transliteration": "cintāmaparimeyāṃ ca pralayāntāmupāśritāḥ .\nkāmopabhogaparamā etāvaditi niścitāḥ ||16-11||",
+      "text": {
+        "sanskrit": "चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः |\nकामोपभोगपरमा एतावदिति निश्चिताः ||१६-११||",
+        "hindi": "।।16.11।। मरणपर्यन्त रहने वाली अपरिमित चिन्ताओं से ग्रस्त और विषयोपभोग को ही परम लक्ष्य मानने वाले ये आसुरी लोग इस निश्चित मत के होते हैं कि \"इतना ही (सत्य, आनन्द) है\"।।",
+        "english": "Taking shelter of insatiable lust and absorbed in the conceit of pride and false prestige, the demoniac, thus illusioned, are always sworn to unclean work, attracted by impermanent things."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.12",
+      "chapter": 16,
+      "number": 12,
+      "transliteration": "āśāpāśaśatairbaddhāḥ kāmakrodhaparāyaṇāḥ .\nīhante kāmabhogārthamanyāyenārthasañcayān ||16-12||",
+      "text": {
+        "sanskrit": "आशापाशशतैर्बद्धाः कामक्रोधपरायणाः |\nईहन्ते कामभोगार्थमन्यायेनार्थसञ्चयान् ||१६-१२||",
+        "hindi": "।।16.12।। सैकड़ों आशापाशों से बन्धे हुये, काम और क्रोध के वश में ये लोग विषयभोगों की पूर्ति के लिये अन्यायपूर्वक धन का संग्रह करने के लिये चेष्टा करते हैं।।",
+        "english": "Bound by hundreds of desires, entangled in the net of delusion, addicted to sense enjoyment and attached to the gratification of their own lust, they descend into a hellish existence."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.13",
+      "chapter": 16,
+      "number": 13,
+      "transliteration": "idamadya mayā labdhamimaṃ prāpsye manoratham .\nidamastīdamapi me bhaviṣyati punardhanam ||16-13||",
+      "text": {
+        "sanskrit": "इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् |\nइदमस्तीदमपि मे भविष्यति पुनर्धनम् ||१६-१३||",
+        "hindi": "।।16.13।। मैंने आज यह पाया है और इस मनोरथ को भी प्राप्त करूंगा, मेरे पास यह इतना धन है और इससे भी अधिक धन भविष्य में होगा।।",
+        "english": "Today I have obtained all these opulences by My own effort. They were not gifted to Me by anyone else. I am the enjoyer and the lord of everything. Therefore, I will utilize this power to maintain and protect the living entities according to My will."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.14",
+      "chapter": 16,
+      "number": 14,
+      "transliteration": "asau mayā hataḥ śatrurhaniṣye cāparānapi .\nīśvaro.ahamahaṃ bhogī siddho.ahaṃ balavānsukhī ||16-14||",
+      "text": {
+        "sanskrit": "असौ मया हतः शत्रुर्हनिष्ये चापरानपि |\nईश्वरोऽहमहं भोगी सिद्धोऽहं बलवान्सुखी ||१६-१४||",
+        "hindi": "।।16.14।। \"यह शत्रु मेरे द्वारा मारा गया है और दूसरे शत्रुओं को भी मैं मारूंगा\", \"मैं ईश्वर हूँ और भोगी हूँ\", \"मैं सिद्ध पुरुष हूँ\", \"मैं बलवान और सुखी हूँ\",।।",
+        "english": "One who discourses on this confidential knowledge, to My devotees, shall be performing the highest form of loving service to Me, and with the understanding that this is My wish, shall attain fulfillment."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.15",
+      "chapter": 16,
+      "number": 15,
+      "transliteration": "āḍhyo.abhijanavānasmi ko.anyo.asti sadṛśo mayā .\nyakṣye dāsyāmi modiṣya ityajñānavimohitāḥ ||16-15||",
+      "text": {
+        "sanskrit": "आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया |\nयक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः ||१६-१५||",
+        "hindi": "।।16.15।। \"मैं धनवान् और श्रेष्ठकुल में जन्मा हूँ। मेरे समान दूसरा कौन है?\",'मैं यज्ञ करूंगा', 'मैं दान दूँगा', 'मैं मौज करूँगा' - इस प्रकार के अज्ञान से वे मोहित होते हैं।।",
+        "english": "Whatever I perform by way of sacrifices, austerities, or charitable activities, I do to this end and only this and am united to the manner in which they act."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.16",
+      "chapter": 16,
+      "number": 16,
+      "transliteration": "anekacittavibhrāntā mohajālasamāvṛtāḥ .\nprasaktāḥ kāmabhogeṣu patanti narake.aśucau ||16-16||",
+      "text": {
+        "sanskrit": "अनेकचित्तविभ्रान्ता मोहजालसमावृताः |\nप्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ ||१६-१६||",
+        "hindi": "।।16.16।। अनेक प्रकार से भ्रमित चित्त वाले, मोह जाल में फँसे तथा विषयभोगों में आसक्त ये लोग घोर, अपवित्र नरक में गिरते हैं।।",
+        "english": "Thus perplexed by various anxieties and bound by a network of illusions, they become too strongly attached to sense enjoyment and fall down into hell."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.17",
+      "chapter": 16,
+      "number": 17,
+      "transliteration": "ātmasambhāvitāḥ stabdhā dhanamānamadānvitāḥ .\nyajante nāmayajñaiste dambhenāvidhipūrvakam ||16-17||",
+      "text": {
+        "sanskrit": "आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः |\nयजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम् ||१६-१७||",
+        "hindi": "।।16.17।। अपने आप को ही श्रेष्ठ मानने वाले, स्तब्ध (गर्वयुक्त), धन और मान के मद से युक्त लोग शास्त्रविधि से रहित केवल नाममात्र के यज्ञों द्वारा दम्भपूर्वक यजन करते हैं।।",
+        "english": "Self-complacent and always impudent, deluded by wealth and false prestige, they sometimes proudly perform sacrifices in name only, without following any rules or regulations."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.18",
+      "chapter": 16,
+      "number": 18,
+      "transliteration": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ .\nmāmātmaparadeheṣu pradviṣanto.abhyasūyakāḥ ||16-18||",
+      "text": {
+        "sanskrit": "अहंकारं बलं दर्पं कामं क्रोधं च संश्रिताः |\nमामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः ||१६-१८||",
+        "hindi": "।।16.18।। अहंकार, बल, दर्प, काम और क्रोध के वशीभूत हुए परनिन्दा करने वाले ये लोग अपने और दूसरों के शरीर में स्थित मुझ (परमात्मा) से द्वेष करने वाले होते हैं।।",
+        "english": "Bewildered by false ego, strength, pride, lust and anger, the demons become envious of the Supreme Personality of Godhead, who is situated in their own bodies and in the bodies of others, and blaspheme against the real religion."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.19",
+      "chapter": 16,
+      "number": 19,
+      "transliteration": "tānahaṃ dviṣataḥ krurānsaṃsāreṣu narādhamān .\nkṣipāmyajasramaśubhānāsurīṣveva yoniṣu ||16-19||",
+      "text": {
+        "sanskrit": "तानहं द्विषतः क्रुरान्संसारेषु नराधमान् |\nक्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु ||१६-१९||",
+        "hindi": "।।16.19।। ऐसे उन द्वेष करने वाले,  क्रूरकर्मी और नराधमों को मैं संसार में बारम्बार (अजस्रम्) आसुरी योनियों में ही गिराता हूँ अर्थात् उत्पन्न करता हूँ।।",
+        "english": "Those who are envious and mischievous, who are the lowest among men, I perpetually cast into the ocean of material existence, into various demoniac species of life."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.20",
+      "chapter": 16,
+      "number": 20,
+      "transliteration": "āsurīṃ yonimāpannā mūḍhā janmani janmani .\nmāmaprāpyaiva kaunteya tato yāntyadhamāṃ gatim ||16-20||",
+      "text": {
+        "sanskrit": "आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि |\nमामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् ||१६-२०||",
+        "hindi": "।।16.20।। हे कौन्तेय ! वे मूढ़ पुरुष जन्मजन्मान्तर में आसुरी योनि को प्राप्त होते हैं और ( इस प्रकार) मुझे प्राप्त न होकर अधम गति को प्राप्त होते है।।",
+        "english": "Attaining repeated birth amongst the species of demoniac life, O son of Kuntī, such persons can never approach Me. Gradually they sink down to the most abominable type of existence."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.21",
+      "chapter": 16,
+      "number": 21,
+      "transliteration": "trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ .\nkāmaḥ krodhastathā lobhastasmādetattrayaṃ tyajet ||16-21||",
+      "text": {
+        "sanskrit": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः |\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ||१६-२१||",
+        "hindi": "।।16.21।। काम, क्रोध और लोभ ये आत्मनाश के त्रिविध द्वार हैं, इसलिए इन तीनों को त्याग देना चाहिए।।",
+        "english": "There are three gates leading to this hell – lust, anger and greed. Every sane man should give these up, for they lead to the degradation of the soul."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.22",
+      "chapter": 16,
+      "number": 22,
+      "transliteration": "etairvimuktaḥ kaunteya tamodvāraistribhirnaraḥ .\nācaratyātmanaḥ śreyastato yāti parāṃ gatim ||16-22||",
+      "text": {
+        "sanskrit": "एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः |\nआचरत्यात्मनः श्रेयस्ततो याति परां गतिम् ||१६-२२||",
+        "hindi": "।।16.22।। हे कौन्तेय ! नरक के इन तीनों द्वारों से विमुक्त पुरुष अपने कल्याण के साधन का आचरण करता है और इस प्रकार परा गति को प्राप्त होता है।।",
+        "english": "The man who has escaped these three gates of hell, O son of Kuntī, performs acts conducive to self-realization and thus gradually attains the supreme destination."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.23",
+      "chapter": 16,
+      "number": 23,
+      "transliteration": "yaḥ śāstravidhimutsṛjya vartate kāmakārataḥ .\nna sa siddhimavāpnoti na sukhaṃ na parāṃ gatim ||16-23||",
+      "text": {
+        "sanskrit": "यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः |\nन स सिद्धिमवाप्नोति न सुखं न परां गतिम् ||१६-२३||",
+        "hindi": "।।16.23।। जो पुरुष शास्त्रविधि को त्यागकर अपनी कामना से प्रेरित होकर ही कार्य करता है, वह न पूर्णत्व की सिद्धि प्राप्त करता है, न सुख और न परा गति।।",
+        "english": "He who discards scriptural injunctions and acts according to his own whims attains neither perfection, nor happiness, nor the supreme destination."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG16.24",
+      "chapter": 16,
+      "number": 24,
+      "transliteration": "tasmācchāstraṃ pramāṇaṃ te kāryākāryavyavasthitau .\njñātvā śāstravidhānoktaṃ karma kartumihārhasi ||16-24||",
+      "text": {
+        "sanskrit": "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ |\nज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ||१६-२४||",
+        "hindi": "।।16.24।। इसलिए तुम्हारे लिए कर्तव्य और अकर्तव्य की व्यवस्था (निर्णय) में शास्त्र ही प्रमाण है शास्त्रोक्त विधान को जानकर तुम्हें अपने कर्म करने चाहिए।।",
+        "english": "One should therefore understand what is duty and what is not duty by the regulations of the scriptures. Knowing such rules and regulations, one should act so that he may gradually be elevated."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    }
+  ]
+}

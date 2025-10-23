@@ -1,0 +1,1174 @@
+{
+  "number": 11,
+  "versesCount": 55,
+  "title": {
+    "sanskrit": "विश्वरूपदर्शनयोग",
+    "english": "Vishwaroopa Darshana Yoga",
+    "transliteration": "Viśhwarūp Darśhan Yog"
+  },
+  "meaning": {
+    "english": "Yoga through Beholding the Cosmic Form of God",
+    "hindi": "विराट रूप"
+  },
+  "summary": {
+    "english": "The eleventh chapter of the Bhagavad Gita is Vishwaroopa Darshana Yoga. In this chapter, Arjuna requests Krishna to reveal His Universal Cosmic Form that encompasses all the universes, the entire existence. Arjuna is granted divine vision to be able to see the entirety of creation in the body of the Supreme Lord Krishna.",
+    "hindi": "भगवद गीता का ग्यारहवा अध्याय विश्वरूपदर्शनयोग है। इस अध्याय में, अर्जुन कृष्ण को अपने विश्व रूप को प्रकट करने का अनुरोध करते हैं जो की सारे विश्वों अथवा संपूर्ण अस्तित्व का स्त्रोत है। भगवान कृष्ण के शरीर में पूरी सृष्टि को देखने में सक्षम होने के लिए अर्जुन को दिव्य दृष्टि दी जाती है।"
+  },
+  "verses": [
+    {
+      "id": "BG11.1",
+      "chapter": 11,
+      "number": 1,
+      "transliteration": "arjuna uvāca .\nmadanugrahāya paramaṃ guhyamadhyātmasaṃjñitam .\nyattvayoktaṃ vacastena moho.ayaṃ vigato mama ||11-1||",
+      "text": {
+        "sanskrit": "अर्जुन उवाच |\nमदनुग्रहाय परमं गुह्यमध्यात्मसंज्ञितम् |\nयत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम ||११-१||",
+        "hindi": "।।11.1।। अर्जुन ने कहा -- मुझ पर अनुग्रह करने के लिए जो परम गोपनीय, अध्यात्मविषयक वचन (उपदेश) आपके द्वारा कहा गया, उससे मेरा मोह दूर हो गया है।।",
+        "english": "Arjuna said: By my hearing the instructions You have kindly given me about these most confidential spiritual subjects, my illusion has now been dispelled."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.2",
+      "chapter": 11,
+      "number": 2,
+      "transliteration": "bhavāpyayau hi bhūtānāṃ śrutau vistaraśo mayā .\ntvattaḥ kamalapatrākṣa māhātmyamapi cāvyayam ||11-2||",
+      "text": {
+        "sanskrit": "भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया |\nत्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम् ||११-२||",
+        "hindi": "।।11.2।। हे कमलनयन ! मैंने भूतों की उत्पत्ति और प्रलय आपसे विस्तारपूर्वक सुने हैं तथा आपका अव्यय माहात्म्य (प्रभाव) भी सुना है।।",
+        "english": "O lotus-eyed one, I have heard from You in detail about the appearance and disappearance of every living entity and have realized Your inexhaustible glories."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.3",
+      "chapter": 11,
+      "number": 3,
+      "transliteration": "evametadyathāttha tvamātmānaṃ parameśvara .\ndraṣṭumicchāmi te rūpamaiśvaraṃ puruṣottama ||11-3||",
+      "text": {
+        "sanskrit": "एवमेतद्यथात्थ त्वमात्मानं परमेश्वर |\nद्रष्टुमिच्छामि ते रूपमैश्वरं पुरुषोत्तम ||११-३||",
+        "hindi": "।।11.3।। हे परमेश्वर ! आप अपने को जैसा कहते हो, यह ठीक ऐसा ही है। (परन्तु) हे पुरुषोत्तम ! मैं आपके ईश्वरीय रूप को प्रत्यक्ष देखना चाहता हूँ।।",
+        "english": "O greatest of all personalities, O supreme form, though I see You here before me in Your actual position, as You have described Yourself, I wish to see how You have entered into this cosmic manifestation. I want to see that form of Yours."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.4",
+      "chapter": 11,
+      "number": 4,
+      "transliteration": "manyase yadi tacchakyaṃ mayā draṣṭumiti prabho .\nyogeśvara tato me tvaṃ darśayātmānamavyayam ||11-4||",
+      "text": {
+        "sanskrit": "मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो |\nयोगेश्वर ततो मे त्वं दर्शयात्मानमव्ययम् ||११-४||",
+        "hindi": "।।11.4।। हे प्रभो ! यदि आप मानते हैं कि मेरे द्वारा वह आपका रूप देखा जाना संभव है, तो हे योगेश्वर ! आप अपने अव्यय रूप का दर्शन कराइये।।",
+        "english": "If You think that I am able to behold Your cosmic form, O my Lord, O master of all mystic power, then kindly show me that unlimited universal Self."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.5",
+      "chapter": 11,
+      "number": 5,
+      "transliteration": "śrībhagavānuvāca .\npaśya me pārtha rūpāṇi śataśo.atha sahasraśaḥ .\nnānāvidhāni divyāni nānāvarṇākṛtīni ca ||11-5||",
+      "text": {
+        "sanskrit": "श्रीभगवानुवाच |\nपश्य मे पार्थ रूपाणि शतशोऽथ सहस्रशः |\nनानाविधानि दिव्यानि नानावर्णाकृतीनि च ||११-५||",
+        "hindi": "।।11.5।। श्रीभगवान् ने कहा -- हे पार्थ ! मेरे सैकड़ों तथा सहस्रों नाना प्रकार के और नाना वर्ण तथा आकृति वाले दिव्य रूपों को देखो।।",
+        "english": "The Supreme Personality of Godhead said: My dear Arjuna, O son of Pṛthā, see now My opulences, hundreds of thousands of varied divine and multicolored forms."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.6",
+      "chapter": 11,
+      "number": 6,
+      "transliteration": "paśyādityānvasūnrudrānaśvinau marutastathā .\nbahūnyadṛṣṭapūrvāṇi paśyāścaryāṇi bhārata ||11-6||",
+      "text": {
+        "sanskrit": "पश्यादित्यान्वसून्रुद्रानश्विनौ मरुतस्तथा |\nबहून्यदृष्टपूर्वाणि पश्याश्चर्याणि भारत ||११-६||",
+        "hindi": "।।11.6।। हे भारत ! (मुझमें) आदित्यों, वसुओं, रुद्रों तथा अश्विनीकुमारों और मरुद्गणों को देखो, तथा और भी अनेक इसके पूर्व कभी न देखे हुए आश्चर्यों को देखो।।",
+        "english": "O best of the Bhāratas, see here the different manifestations of Ādityas, Vasus, Rudras, Aśvinī-kumāras and all the other demigods. Behold the many wonderful things which no one has ever seen or heard of before."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.7",
+      "chapter": 11,
+      "number": 7,
+      "transliteration": "ihaikasthaṃ jagatkṛtsnaṃ paśyādya sacarācaram .\nmama dehe guḍākeśa yaccānyad draṣṭumicchasi ||11-7||",
+      "text": {
+        "sanskrit": "इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम् |\nमम देहे गुडाकेश यच्चान्यद् द्रष्टुमिच्छसि ||११-७||",
+        "hindi": "।।11.7।। हे गुडाकेश ! आज (अब) इस मेरे शरीर में एक स्थान पर स्थित हुए चराचर सहित सम्पूर्ण जगत् को देखो तथा और भी जो कुछ तुम देखना चाहते हो, उसे भी देखो।।",
+        "english": "O Arjuna, whatever you wish to see, behold at once in this body of Mine! This universal form can show you whatever you now desire to see and whatever you may want to see in the future. Everything – moving and nonmoving – is here completely, in one place."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.8",
+      "chapter": 11,
+      "number": 8,
+      "transliteration": "na tu māṃ śakyase draṣṭumanenaiva svacakṣuṣā .\ndivyaṃ dadāmi te cakṣuḥ paśya me yogamaiśvaram ||11-8||",
+      "text": {
+        "sanskrit": "न तु मां शक्यसे द्रष्टुमनेनैव स्वचक्षुषा |\nदिव्यं ददामि ते चक्षुः पश्य मे योगमैश्वरम् ||११-८||",
+        "hindi": "।।11.8।। परन्तु तुम अपने इन्हीं (प्राकृत) नेत्रों के द्वारा मुझे देखने में समर्थ नहीं हो; (इसलिए) मैं तुम्हें दिव्यचक्षु देता हूँ, जिससे तुम मेरे ईश्वरीय 'योग' को देखो।।",
+        "english": "But you cannot see Me with your present eyes. Therefore I give you divine eyes. Behold My mystic opulence!"
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.9",
+      "chapter": 11,
+      "number": 9,
+      "transliteration": "sañjaya uvāca .\nevamuktvā tato rājanmahāyogeśvaro hariḥ .\ndarśayāmāsa pārthāya paramaṃ rūpamaiśvaram ||11-9||",
+      "text": {
+        "sanskrit": "सञ्जय उवाच |\nएवमुक्त्वा ततो राजन्महायोगेश्वरो हरिः |\nदर्शयामास पार्थाय परमं रूपमैश्वरम् ||११-९||",
+        "hindi": "।।11.9।। संजय ने कहा -- हे राजन् ! महायोगेश्वर हरि ने इस प्रकार कहकर फिर अर्जुन के लिए परम ऐश्वर्ययुक्त रूप को दर्शाया।।",
+        "english": "Sañjaya said: O King, having spoken thus, the Supreme Lord of all mystic power, the Personality of Godhead, displayed His universal form to Arjuna."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.10",
+      "chapter": 11,
+      "number": 10,
+      "transliteration": "anekavaktranayanamanekādbhutadarśanam .\nanekadivyābharaṇaṃ divyānekodyatāyudham ||11-10||",
+      "text": {
+        "sanskrit": "अनेकवक्त्रनयनमनेकाद्भुतदर्शनम् |\nअनेकदिव्याभरणं दिव्यानेकोद्यतायुधम् ||११-१०||",
+        "hindi": "।।11.10।। उस अनेक मुख और नेत्रों से युक्त तथा अनेक अद्भुत दर्शनों वाले एवं बहुत से दिव्य भूषणों से युक्त और बहुत से दिव्य शस्त्रों को हाथों में उठाये हुये।।",
+        "english": "Arjuna saw in that universal form unlimited faces, eyes, and wonderful visions. The form was decorated with many celestial ornaments and held many uplifted divine weapons."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.11",
+      "chapter": 11,
+      "number": 11,
+      "transliteration": "divyamālyāmbaradharaṃ divyagandhānulepanam .\nsarvāścaryamayaṃ devamanantaṃ viśvatomukham ||11-11||",
+      "text": {
+        "sanskrit": "दिव्यमाल्याम्बरधरं दिव्यगन्धानुलेपनम् |\nसर्वाश्चर्यमयं देवमनन्तं विश्वतोमुखम् ||११-११||",
+        "hindi": "।।11.11।। दिव्य माला और वस्त्रों को धारण किये हुये और दिव्य गन्ध का लेपन किये हुये एवं समस्त प्रकार के आश्चर्यों से युक्त अनन्त, विश्वतोमुख (विराट् स्वरूप) परम देव (को अर्जुन ने देखा)।।",
+        "english": "He wore celestial garlands and garments, and many divine scents were smeared over His body. All was wondrous, brilliant, unlimited, and all-expanding."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.12",
+      "chapter": 11,
+      "number": 12,
+      "transliteration": "divi sūryasahasrasya bhavedyugapadutthitā .\nyadi bhāḥ sadṛśī sā syādbhāsastasya mahātmanaḥ ||11-12||",
+      "text": {
+        "sanskrit": "दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता |\nयदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः ||११-१२||",
+        "hindi": "।।11.12।। आकाश में सहस्र सूर्यों के एक साथ उदय होने से उत्पन्न जो प्रकाश होगा, वह उस (विश्वरूप) परमात्मा के प्रकाश के सदृश होगा।।",
+        "english": "If hundreds of thousands of suns were to rise at once into the sky, their radiance might resemble the effulgence of the Supreme Person in that universal form."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.13",
+      "chapter": 11,
+      "number": 13,
+      "transliteration": "tatraikasthaṃ jagatkṛtsnaṃ pravibhaktamanekadhā .\napaśyaddevadevasya śarīre pāṇḍavastadā ||11-13||",
+      "text": {
+        "sanskrit": "तत्रैकस्थं जगत्कृत्स्नं प्रविभक्तमनेकधा |\nअपश्यद्देवदेवस्य शरीरे पाण्डवस्तदा ||११-१३||",
+        "hindi": "।।11.13।। पाण्डुपुत्र अर्जुन ने उस समय अनेक प्रकार से विभक्त हुए सम्पूर्ण जगत् को देवों के देव श्रीकृष्ण के शरीर में एक स्थान पर स्थित देखा।।",
+        "english": "At that time Arjuna could see in the universal form of the Lord the unlimited expansions of the universe situated in one place although divided into many, many thousands."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.14",
+      "chapter": 11,
+      "number": 14,
+      "transliteration": "tataḥ sa vismayāviṣṭo hṛṣṭaromā dhanañjayaḥ .\npraṇamya śirasā devaṃ kṛtāñjalirabhāṣata ||11-14||",
+      "text": {
+        "sanskrit": "ततः स विस्मयाविष्टो हृष्टरोमा धनञ्जयः |\nप्रणम्य शिरसा देवं कृताञ्जलिरभाषत ||११-१४||",
+        "hindi": "।।11.14।। उसके उपरान्त वह आश्चर्यचकित हुआ हर्षित रोमों वाला (जिसे रोमांच का अनुभव हो रहा हो) धनंजय अर्जुन विश्वरूप देव को (श्रद्धा भक्ति सहित) शिर से प्रणाम करके हाथ जोड़कर बोला।।",
+        "english": "Then, bewildered and astonished, his hair standing on end, Arjuna bowed his head to offer obeisances and with folded hands began to pray to the Supreme Lord."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.15",
+      "chapter": 11,
+      "number": 15,
+      "transliteration": "arjuna uvāca .\npaśyāmi devāṃstava deva dehe sarvāṃstathā bhūtaviśeṣasaṅghān .\nbrahmāṇamīśaṃ kamalāsanasthaṃ ṛṣīṃśca sarvānuragāṃśca divyān ||11-15||",
+      "text": {
+        "sanskrit": "अर्जुन उवाच |\nपश्यामि देवांस्तव देव देहे\nसर्वांस्तथा भूतविशेषसङ्घान् |\nब्रह्माणमीशं कमलासनस्थ-\nमृषींश्च सर्वानुरगांश्च दिव्यान् ||११-१५||",
+        "hindi": "।।11.15।। अर्जुन ने कहा -- हे देव! मैं आपके शरीर में समस्त देवों को तथा अनेक भूतविशेषों के समुदायों को और कमलासन पर स्थित सृष्टि के स्वामी ब्रह्माजी को, ऋषियों को और दिव्य सर्पों को देख रहा हूँ।।",
+        "english": "Arjuna said: My dear Lord Kṛṣṇa, I see assembled in Your body all the demigods and various other living entities. I see Brahmā sitting on the lotus flower, as well as Lord Śiva and all the sages and divine serpents."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.16",
+      "chapter": 11,
+      "number": 16,
+      "transliteration": "anekabāhūdaravaktranetraṃ paśyāmi tvāṃ sarvato.anantarūpam .\nnāntaṃ na madhyaṃ na punastavādiṃ paśyāmi viśveśvara viśvarūpa ||11-16||",
+      "text": {
+        "sanskrit": "अनेकबाहूदरवक्त्रनेत्रं\nपश्यामि त्वां सर्वतोऽनन्तरूपम् |\nनान्तं न मध्यं न पुनस्तवादिं\nपश्यामि विश्वेश्वर विश्वरूप ||११-१६||",
+        "hindi": "।।11.16।। हे विश्वेश्वर! मैं आपकी अनेक बाहु, उदर, मुख और नेत्रों से युक्त तथा सब ओर से अनन्त रूपों वाला देखता हूँ। हे विश्वरूप! मैं आपके न अन्त को देखता हूँ और न मध्य को और न आदि को।।",
+        "english": "O Lord of the universe, O universal form, I see in Your body many, many arms, bellies, mouths and eyes, expanded everywhere, without limit. I see in You no end, no middle and no beginning."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.17",
+      "chapter": 11,
+      "number": 17,
+      "transliteration": "kirīṭinaṃ gadinaṃ cakriṇaṃ ca tejorāśiṃ sarvato dīptimantam .\npaśyāmi tvāṃ durnirīkṣyaṃ samantād dīptānalārkadyutimaprameyam ||11-17||",
+      "text": {
+        "sanskrit": "किरीटिनं गदिनं चक्रिणं च\nतेजोराशिं सर्वतो दीप्तिमन्तम् |\nपश्यामि त्वां दुर्निरीक्ष्यं समन्ताद्\nदीप्तानलार्कद्युतिमप्रमेयम् ||११-१७||",
+        "hindi": "।।11.17।। मैं आपका मुकुटयुक्त, गदायुक्त और चक्रधारण किये हुये तथा सब ओर से प्रकाशमान् तेज का पुंज, दीप्त अग्नि और सूर्य के समान ज्योतिर्मय, देखने में अति कठिन और अप्रमेयस्वरूप सब ओर से देखता हूँ।।",
+        "english": "Your form is difficult to see because of its glaring effulgence, spreading on all sides, like blazing fire or the immeasurable radiance of the sun. Yet I see this glowing form everywhere, adorned with various crowns, clubs and discs."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.18",
+      "chapter": 11,
+      "number": 18,
+      "transliteration": "tvamakṣaraṃ paramaṃ veditavyaṃ tvamasya viśvasya paraṃ nidhānam .\ntvamavyayaḥ śāśvatadharmagoptā sanātanastvaṃ puruṣo mato me ||11-18||",
+      "text": {
+        "sanskrit": "त्वमक्षरं परमं वेदितव्यं\nत्वमस्य विश्वस्य परं निधानम् |\nत्वमव्ययः शाश्वतधर्मगोप्ता\nसनातनस्त्वं पुरुषो मतो मे ||११-१८||",
+        "hindi": "।।11.18।। आप ही जानने योग्य (वेदितव्यम्) परम अक्षर हैं; आप ही इस विश्व के परम आश्रय (निधान) हैं ! आप ही शाश्वत धर्म के रक्षक हैं और आप ही सनातन पुरुष हैं,ऐसा मेरा मत है।।",
+        "english": "You are the supreme primal objective. You are the ultimate resting place of all this universe. You are inexhaustible, and You are the oldest. You are the maintainer of the eternal religion, the Personality of Godhead. This is my opinion."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.19",
+      "chapter": 11,
+      "number": 19,
+      "transliteration": "anādimadhyāntamanantavīryam anantabāhuṃ śaśisūryanetram .\npaśyāmi tvāṃ dīptahutāśavaktraṃ svatejasā viśvamidaṃ tapantam ||11-19||",
+      "text": {
+        "sanskrit": "अनादिमध्यान्तमनन्तवीर्य-\nमनन्तबाहुं शशिसूर्यनेत्रम् |\nपश्यामि त्वां दीप्तहुताशवक्त्रं\nस्वतेजसा विश्वमिदं तपन्तम् ||११-१९||",
+        "hindi": "।।11.19।। मैं आपको आदि, अन्त और मध्य से रहित तथा अनंत सार्मथ्य से युक्त और अनंत बाहुओं वाला तथा चन्द्रसूर्यरूपी नेत्रों वाला और दीप्त अग्निरूपी मुख वाला तथा अपने तेज से इस विश्व को तपाते हुए देखता हूँ।।",
+        "english": "You are without origin, middle or end. Your glory is unlimited. You have numberless arms, and the sun and moon are Your eyes. I see You with blazing fire coming forth from Your mouth, burning this entire universe by Your own radiance."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.20",
+      "chapter": 11,
+      "number": 20,
+      "transliteration": "dyāvāpṛthivyoridamantaraṃ hi vyāptaṃ tvayaikena diśaśca sarvāḥ .\ndṛṣṭvādbhutaṃ rūpamugraṃ tavedaṃ lokatrayaṃ pravyathitaṃ mahātman ||11-20||",
+      "text": {
+        "sanskrit": "द्यावापृथिव्योरिदमन्तरं हि\nव्याप्तं त्वयैकेन दिशश्च सर्वाः |\nदृष्ट्वाद्भुतं रूपमुग्रं तवेदं\nलोकत्रयं प्रव्यथितं महात्मन् ||११-२०||",
+        "hindi": "।।11.20।। हे महात्मन् ! स्वर्ग और पृथ्वी के मध्य का यह आकाश तथा समस्त दिशाएं अकेले आप से ही व्याप्त हैं; आपके इस अद्भुत और उग्र रूप को देखकर तीनों लोक अतिव्यथा (भय) को प्राप्त हो रहे हैं।।",
+        "english": "Although You are one, You spread throughout the sky and the planets and all space between. O great one, seeing this wondrous and terrible form, all the planetary systems are perturbed."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.21",
+      "chapter": 11,
+      "number": 21,
+      "transliteration": "amī hi tvāṃ surasaṅghā viśanti kecidbhītāḥ prāñjalayo gṛṇanti .\nsvastītyuktvā maharṣisiddhasaṅghāḥ stuvanti tvāṃ stutibhiḥ puṣkalābhiḥ ||11-21||",
+      "text": {
+        "sanskrit": "अमी हि त्वां सुरसङ्घा विशन्ति\nकेचिद्भीताः प्राञ्जलयो गृणन्ति |\nस्वस्तीत्युक्त्वा महर्षिसिद्धसङ्घाः\nस्तुवन्ति त्वां स्तुतिभिः पुष्कलाभिः ||११-२१||",
+        "hindi": "।।11.21।। ये समस्त देवताओं के समूह आप में ही प्रवेश कर रहे हैं और कई एक भयभीत होकर हाथ जोड़े हुए आप की स्तुति करते हैं; महर्षि और सिद्धों के समुदाय 'कल्याण होवे' (स्वस्तिवाचन करते हुए) ऐसा कहकर, उत्तम (या सम्पूर्ण) स्रोतों द्वारा आपकी स्तुति करते हैं।।",
+        "english": "All the hosts of demigods are surrendering before You and entering into You. Some of them, very much afraid, are offering prayers with folded hands. Hosts of great sages and perfected beings, crying “All peace!” are praying to You by singing the Vedic hymns."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.22",
+      "chapter": 11,
+      "number": 22,
+      "transliteration": "rudrādityā vasavo ye ca sādhyā viśve.aśvinau marutaścoṣmapāśca .\ngandharvayakṣāsurasiddhasaṅghā vīkṣante tvāṃ vismitāścaiva sarve ||11-22||",
+      "text": {
+        "sanskrit": "रुद्रादित्या वसवो ये च साध्या\nविश्वेऽश्विनौ मरुतश्चोष्मपाश्च |\nगन्धर्वयक्षासुरसिद्धसङ्घा\nवीक्षन्ते त्वां विस्मिताश्चैव सर्वे ||११-२२||",
+        "hindi": "।।11.22।। रुद्रगण, आदित्य, वसु और साध्यगण, विश्वेदेव तथा दो अश्विनीकुमार, मरुद्गण और उष्मपा, गन्धर्व, यक्ष, असुर और सिद्धगणों के समुदाय- ये सब ही विस्मित होते हुए आपको देखते हैं।।",
+        "english": "All the various manifestations of Lord Śiva, the Ādityas, the Vasus, the Sādhyas, the Viśvedevas, the two Aśvīs, the Maruts, the forefathers, the Gandharvas, the Yakṣas, the Asuras and the perfected demigods are beholding You in wonder."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.23",
+      "chapter": 11,
+      "number": 23,
+      "transliteration": "rūpaṃ mahatte bahuvaktranetraṃ mahābāho bahubāhūrupādam .\nbahūdaraṃ bahudaṃṣṭrākarālaṃ dṛṣṭvā lokāḥ pravyathitāstathāham ||11-23||",
+      "text": {
+        "sanskrit": "रूपं महत्ते बहुवक्त्रनेत्रं\nमहाबाहो बहुबाहूरुपादम् |\nबहूदरं बहुदंष्ट्राकरालं\nदृष्ट्वा लोकाः प्रव्यथितास्तथाहम् ||११-२३||",
+        "hindi": "।।11.23।। हे महाबाहो! आपके बहुत मुख तथा नेत्र वाले, बहुत बाहु, उरु (जंघा) तथा पैरों वाले, बहुत-ंंसी उदरों वाले तथा बहुतसी विकराल दाढ़ों वाले महान् रूप को देखकर सब लोग व्यथित हो रहे हैं और उसी प्रकार मैं भी (व्याकुल हो रहा हूँ)।।",
+        "english": "O mighty-armed one, all the planets with their demigods are disturbed at seeing Your great form, with its many faces, eyes, arms, thighs, legs and bellies and Your many terrible teeth; and as they are disturbed, so am I."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.24",
+      "chapter": 11,
+      "number": 24,
+      "transliteration": "nabhaḥspṛśaṃ dīptamanekavarṇaṃ vyāttānanaṃ dīptaviśālanetram .\ndṛṣṭvā hi tvāṃ pravyathitāntarātmā dhṛtiṃ na vindāmi śamaṃ ca viṣṇo ||11-24||",
+      "text": {
+        "sanskrit": "नभःस्पृशं दीप्तमनेकवर्णं\nव्यात्ताननं दीप्तविशालनेत्रम् |\nदृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा\nधृतिं न विन्दामि शमं च विष्णो ||११-२४||",
+        "hindi": "।।11.24।। हे विष्णो! आकाश के साथ स्पर्श किये हुए देदीप्यमान अनेक रूपों से युक्त तथा विस्तरित मुख और प्रकाशमान विशाल नेत्रों से युक्त आपको देखकर भयभीत हुआ मैं धैर्य और शान्ति को नहीं प्राप्त हो रहा हूँ।।",
+        "english": "O all-pervading Viṣṇu, seeing You with Your many radiant colors touching the sky, Your gaping mouths, and Your great glowing eyes, my mind is perturbed by fear. I can no longer maintain my steadiness or equilibrium of mind."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.25",
+      "chapter": 11,
+      "number": 25,
+      "transliteration": "daṃṣṭrākarālāni ca te mukhāni dṛṣṭvaiva kālānalasannibhāni .\ndiśo na jāne na labhe ca śarma prasīda deveśa jagannivāsa ||11-25||",
+      "text": {
+        "sanskrit": "दंष्ट्राकरालानि च ते मुखानि\nदृष्ट्वैव कालानलसन्निभानि |\nदिशो न जाने न लभे च शर्म\nप्रसीद देवेश जगन्निवास ||११-२५||",
+        "hindi": "।।11.25।। आपके विकराल दाढ़ों वाले और प्रलयाग्नि के समान प्रज्वलित मुखों को देखकर, मैं न दिशाओं को जान पा रहा हूँ और न शान्ति को प्राप्त हो रहा हूँ; इसलिए हे देवेश!  हे जगन्निवास! आप प्रसन्न हो जाइए।।",
+        "english": "O Lord of lords, O refuge of the worlds, please be gracious to me. I cannot keep my balance seeing thus Your blazing deathlike faces and awful teeth. In all directions I am bewildered."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.26",
+      "chapter": 11,
+      "number": 26,
+      "transliteration": "amī ca tvāṃ dhṛtarāṣṭrasya putrāḥ sarve sahaivāvanipālasaṅghaiḥ .\nbhīṣmo droṇaḥ sūtaputrastathāsau sahāsmadīyairapi yodhamukhyaiḥ ||11-26||",
+      "text": {
+        "sanskrit": "अमी च त्वां धृतराष्ट्रस्य पुत्राः\nसर्वे सहैवावनिपालसङ्घैः |\nभीष्मो द्रोणः सूतपुत्रस्तथासौ\nसहास्मदीयैरपि योधमुख्यैः ||११-२६||",
+        "hindi": "।।11.26।। और ये समस्त धृतराष्ट्र के पुत्र राजाओं के समुदाय सहित आप में प्रवेश करते हैं। भीष्म, द्रोण तथा कर्ण और हमारे पक्ष के भी प्रधान योद्धाओं के सहित.।।",
+        "english": "All the sons of Dhritarashtra, along with their allied kings, and Bhishma, Drona, Karna, and our chief soldiers also, are rushing into Your fearful mouths. And some I see trapped with heads smashed between Your teeth."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.27",
+      "chapter": 11,
+      "number": 27,
+      "transliteration": "vaktrāṇi te tvaramāṇā viśanti daṃṣṭrākarālāni bhayānakāni .\nkecidvilagnā daśanāntareṣu sandṛśyante cūrṇitairuttamāṅgaiḥ ||11-27||",
+      "text": {
+        "sanskrit": "वक्त्राणि ते त्वरमाणा विशन्ति\nदंष्ट्राकरालानि भयानकानि |\nकेचिद्विलग्ना दशनान्तरेषु\nसन्दृश्यन्ते चूर्णितैरुत्तमाङ्गैः ||११-२७||",
+        "hindi": "।।11.27।। तीव्र वेग से आपके विकराल दाढ़ों वाले भयानक मुखों में प्रवेश करते हैं और कई एक चूर्णित शिरों सहित आपके दांतों के बीच में फँसे हुए दिख रहे हैं।।",
+        "english": "I see all people rushing full speed into Your mouths, as moths dash to destruction in a blazing fire."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.28",
+      "chapter": 11,
+      "number": 28,
+      "transliteration": "yathā nadīnāṃ bahavo.ambuvegāḥ samudramevābhimukhā dravanti .\ntathā tavāmī naralokavīrā viśanti vaktrāṇyabhivijvalanti ||11-28||",
+      "text": {
+        "sanskrit": "यथा नदीनां बहवोऽम्बुवेगाः\nसमुद्रमेवाभिमुखा द्रवन्ति |\nतथा तवामी नरलोकवीरा\nविशन्ति वक्त्राण्यभिविज्वलन्ति ||११-२८||",
+        "hindi": "।।11.28।। जैसे नदियों के बहुत से जलप्रवाह समुद्र की ओर वेग से बहते हैं, वैसे ही मनुष्यलोक के ये वीर योद्धागण आपके प्रज्वलित मुखों में प्रवेश करते हैं।।",
+        "english": "As the many waves of the rivers flow into the ocean, so do all these great warriors enter blazing into Your mouths."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.29",
+      "chapter": 11,
+      "number": 29,
+      "transliteration": "yathā pradīptaṃ jvalanaṃ pataṅgā viśanti nāśāya samṛddhavegāḥ .\ntathaiva nāśāya viśanti lokāsa- tavāpi vaktrāṇi samṛddhavegāḥ ||11-29||",
+      "text": {
+        "sanskrit": "यथा प्रदीप्तं ज्वलनं पतङ्गा\nविशन्ति नाशाय समृद्धवेगाः |\nतथैव नाशाय विशन्ति लोकास्-\nतवापि वक्त्राणि समृद्धवेगाः ||११-२९||",
+        "hindi": "।।11.29।। जैसे पतंगे अपने नाश के लिए प्रज्वलित अग्नि में अतिवेग से प्रवेश करते हैं, वैसे ही ये लोग भी अपने नाश के लिए आपके मुखों में अतिवेग से प्रवेश करते हैं।।",
+        "english": "I see all people rushing full speed into Your mouths, as moths dash to destruction in a blazing fire."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.30",
+      "chapter": 11,
+      "number": 30,
+      "transliteration": "lelihyase grasamānaḥ samantāl- lokānsamagrānvadanairjvaladbhiḥ .\ntejobhirāpūrya jagatsamagraṃ bhāsastavogrāḥ pratapanti viṣṇo ||11-30||",
+      "text": {
+        "sanskrit": "लेलिह्यसे ग्रसमानः समन्ताल्-\nलोकान्समग्रान्वदनैर्ज्वलद्भिः |\nतेजोभिरापूर्य जगत्समग्रं\nभासस्तवोग्राः प्रतपन्ति विष्णो ||११-३०||",
+        "hindi": "।।11.30।। हे विष्णो! आप प्रज्वलित मुखों के द्वारा इन समस्त लोकों का ग्रसन करते हुए आस्वाद ले रहे हैं, आपका उग्र प्रकाश सम्पूर्ण जगत् को तेज के द्वारा परिपूर्ण करके तपा रहा है।।",
+        "english": "O Viṣṇu, I see You devouring all people from all sides with Your flaming mouths. Covering all the universe with Your effulgence, You are manifest with terrible, scorching rays."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.31",
+      "chapter": 11,
+      "number": 31,
+      "transliteration": "ākhyāhi me ko bhavānugrarūpo namo.astu te devavara prasīda .\nvijñātumicchāmi bhavantamādyaṃ na hi prajānāmi tava pravṛttim ||11-31||",
+      "text": {
+        "sanskrit": "आख्याहि मे को भवानुग्ररूपो\nनमोऽस्तु ते देववर प्रसीद |\nविज्ञातुमिच्छामि भवन्तमाद्यं\nन हि प्रजानामि तव प्रवृत्तिम् ||११-३१||",
+        "hindi": "।।11.31।। (कृपया) मेरे प्रति कहिये, कि उग्ररूप वाले आप कौन हैं? हे देवों में श्रेष्ठ! आपको नमस्कार है, आप प्रसन्न होइये। आदि स्वरूप आपको मैं (तत्त्व से) जानना चाहता हूँ, क्योंकि आपकी प्रवृत्ति (अर्थात् प्रयोजन को) को मैं नहीं समझ पा रहा हूँ।।",
+        "english": "O Lord of lords, so fierce of form, please tell me who You are. I offer my obeisances unto You; please be gracious to me. You are the primal Lord. I want to know about You, for I do not know what Your mission is."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.32",
+      "chapter": 11,
+      "number": 32,
+      "transliteration": "śrībhagavānuvāca .\nkālo.asmi lokakṣayakṛtpravṛddho lokānsamāhartumiha pravṛttaḥ .\nṛte.api tvāṃ na bhaviṣyanti sarve ye.avasthitāḥ pratyanīkeṣu yodhāḥ ||11-32||",
+      "text": {
+        "sanskrit": "श्रीभगवानुवाच |\nकालोऽस्मि लोकक्षयकृत्प्रवृद्धो\nलोकान्समाहर्तुमिह प्रवृत्तः |\nऋतेऽपि त्वां न भविष्यन्ति सर्वे\nयेऽवस्थिताः प्रत्यनीकेषु योधाः ||११-३२||",
+        "hindi": "।।11.32।। श्रीभगवान् ने कहा -- मैं लोकों का नाश करने वाला प्रवृद्ध काल हूँ। इस समय, मैं इन लोकों का संहार करने में प्रवृत्त हूँ। जो प्रतिपक्षियों की सेना में स्थित योद्धा हैं, वे सब तुम्हारे बिना भी नहीं रहेंगे।।",
+        "english": "The Supreme Personality of Godhead said: Time I am, the great destroyer of the worlds, and I have come here to destroy all people. With the exception of you [the Pāṇḍavas], all the soldiers here on both sides will be slain."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.33",
+      "chapter": 11,
+      "number": 33,
+      "transliteration": "tasmāttvamuttiṣṭha yaśo labhasva jitvā śatrūn bhuṅkṣva rājyaṃ samṛddham .\nmayaivaite nihatāḥ pūrvameva nimittamātraṃ bhava savyasācin ||11-33||",
+      "text": {
+        "sanskrit": "तस्मात्त्वमुत्तिष्ठ यशो लभस्व\nजित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम् |\nमयैवैते निहताः पूर्वमेव\nनिमित्तमात्रं भव सव्यसाचिन् ||११-३३||",
+        "hindi": "।।11.33।। इसलिए तुम उठ खड़े हो जाओ और यश को प्राप्त करो; शत्रुओं को जीतकर समृद्ध राज्य को भोगो। ये सब पहले से ही मेरे द्वारा मारे जा चुके हैं। हे सव्यसाचिन्! तुम केवल निमित्त ही बनो।।",
+        "english": "Therefore get up. Prepare to fight and win glory. Conquer your enemies and enjoy a flourishing kingdom. They are already put to death by My arrangement, and you, O Savyasācī, can be but an instrument in the fight."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.34",
+      "chapter": 11,
+      "number": 34,
+      "transliteration": "droṇaṃ ca bhīṣmaṃ ca jayadrathaṃ ca karṇaṃ tathānyānapi yodhavīrān .\nmayā hatāṃstvaṃ jahi mavyathiṣṭhā yudhyasva jetāsi raṇe sapatnān ||11-34||",
+      "text": {
+        "sanskrit": "द्रोणं च भीष्मं च जयद्रथं च\nकर्णं तथान्यानपि योधवीरान् |\nमया हतांस्त्वं जहि मा व्यथिष्ठा\nयुध्यस्व जेतासि रणे सपत्नान् ||११-३४||",
+        "hindi": "।।11.34।। द्रोण, भीष्म, जयद्रथ, कर्ण तथा और भी बहुत से मेरे द्वारा मारे गये वीर योद्धाओं को तुम मारो; भय मत करो; युद्ध करो; तुम युद्ध में शत्रुओं को जीतोगे।।",
+        "english": "Droṇa, Bhīṣma, Jayadratha, Karṇa and the other great warriors have already been destroyed by Me. Therefore, kill them and do not be disturbed. Simply fight, and you will vanquish your enemies in battle."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.35",
+      "chapter": 11,
+      "number": 35,
+      "transliteration": "sañjaya uvāca .\netacchrutvā vacanaṃ keśavasya kṛtāñjalirvepamānaḥ kirīṭī .\nnamaskṛtvā bhūya evāha kṛṣṇaṃ sagadgadaṃ bhītabhītaḥ praṇamya ||11-35||",
+      "text": {
+        "sanskrit": "सञ्जय उवाच |\nएतच्छ्रुत्वा वचनं केशवस्य\nकृताञ्जलिर्वेपमानः किरीटी |\nनमस्कृत्वा भूय एवाह कृष्णं\nसगद्गदं भीतभीतः प्रणम्य ||११-३५||",
+        "hindi": "।।11.35।। संजय ने कहा -- केशव भगवान् के इस वचन को सुनकर मुकुटधारी अर्जुन हाथ जोड़े हुए, कांपता हुआ नमस्कार करके पुन: भयभीत हुआ श्रीकृष्ण के प्रति गद्गद् वाणी से बोला।।",
+        "english": "Sañjaya said to Dhṛtarāṣṭra: O King, after hearing these words from the Supreme Personality of Godhead, the trembling Arjuna offered obeisances with folded hands again and again. He fearfully spoke to Lord Kṛṣṇa in a faltering voice, as follows."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.36",
+      "chapter": 11,
+      "number": 36,
+      "transliteration": "arjuna uvāca .\nsthāne hṛṣīkeśa tava prakīrtyā jagatprahṛṣyatyanurajyate ca .\nrakṣāṃsi bhītāni diśo dravanti sarve namasyanti ca siddhasaṅghāḥ ||11-36||",
+      "text": {
+        "sanskrit": "अर्जुन उवाच |\nस्थाने हृषीकेश तव प्रकीर्त्या\nजगत्प्रहृष्यत्यनुरज्यते च |\nरक्षांसि भीतानि दिशो द्रवन्ति\nसर्वे नमस्यन्ति च सिद्धसङ्घाः ||११-३६||",
+        "hindi": "।।11.36।। अर्जुन ने कहा -- यह योग्य ही है कि आपके कीर्तन से जगत् अति हर्षित होता है और अनुराग को भी प्राप्त होता है। भयभीत राक्षस लोग समस्त दिशाओं में भागते हैं और समस्त सिद्धगणों के समुदाय आपको नमस्कार करते हैं।।",
+        "english": "Arjuna said: O master of the senses, the world becomes joyful upon hearing Your name, and thus everyone becomes attached to You. Although the perfected beings offer You their respectful homage, the demons are afraid, and they flee here and there. All this is rightly done."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.37",
+      "chapter": 11,
+      "number": 37,
+      "transliteration": "kasmācca te na nameranmahātman garīyase brahmaṇo.apyādikartre .\nananta deveśa jagannivāsa tvamakṣaraṃ sadasattatparaṃ yat ||11-37||",
+      "text": {
+        "sanskrit": "कस्माच्च ते न नमेरन्महात्मन्\nगरीयसे ब्रह्मणोऽप्यादिकर्त्रे |\nअनन्त देवेश जगन्निवास\nत्वमक्षरं सदसत्तत्परं यत् ||११-३७||",
+        "hindi": "।।11.37।। हे महात्मन् ! ब्रह्मा के भी आदि कर्ता और सबसे श्रेष्ठ आपके लिए वे कैसे नमस्कार नहीं करें? (क्योंकि) हे अनन्त! हे देवेश! हे जगन्निवास! जो सत् असत् और इन दोनों से परे अक्षरतत्त्व है, वह आप ही हैं।।",
+        "english": "O great one, greater even than Brahmā, You are the original creator. Why then should they not offer their respectful obeisances unto You? O limitless one, God of gods, refuge of the universe! You are the invincible source, the cause of all causes, transcendental to this material manifestation."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.38",
+      "chapter": 11,
+      "number": 38,
+      "transliteration": "tvamādidevaḥ puruṣaḥ purāṇasa- tvamasya viśvasya paraṃ nidhānam .\nvettāsi vedyaṃ ca paraṃ ca dhāma tvayā tataṃ viśvamanantarūpa ||11-38||",
+      "text": {
+        "sanskrit": "त्वमादिदेवः पुरुषः पुराणस्-\nत्वमस्य विश्वस्य परं निधानम् |\nवेत्तासि वेद्यं च परं च धाम\nत्वया ततं विश्वमनन्तरूप ||११-३८||",
+        "hindi": "।।11.38।। आप आदिदेव और पुराण (सनातन) पुरुष हैं। आप इस जगत् के परम आश्रय, ज्ञाता, ज्ञेय, (जानने योग्य) और परम धाम हैं। हे अनन्तरूप आपसे ही यह विश्व व्याप्त है।।",
+        "english": "You are the original Personality of Godhead, the oldest, the ultimate sanctuary of this manifested cosmic world. You are the knower of everything, and You are all that is knowable. You are the supreme refuge, above the material modes. O limitless form! This whole cosmic manifestation is pervaded by You!"
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.39",
+      "chapter": 11,
+      "number": 39,
+      "transliteration": "vāyuryamo.agnirvaruṇaḥ śaśāṅkaḥ prajāpatistvaṃ prapitāmahaśca .\nnamo namaste.astu sahasrakṛtvaḥ punaśca bhūyo.api namo namaste ||11-39||",
+      "text": {
+        "sanskrit": "वायुर्यमोऽग्निर्वरुणः शशाङ्कः\nप्रजापतिस्त्वं प्रपितामहश्च |\nनमो नमस्तेऽस्तु सहस्रकृत्वः\nपुनश्च भूयोऽपि नमो नमस्ते ||११-३९||",
+        "hindi": "।।11.39।। आप वायु, यम, अग्नि, वरुण, चन्द्रमा, प्रजापति (ब्रह्मा) और प्रपितामह (ब्रह्मा के भी कारण) हैं; आपके लिए सहस्र बार नमस्कार, नमस्कार है, पुन: आपको बारम्बार नमस्कार, नमस्कार है।।",
+        "english": "You are air, and You are the supreme controller! You are fire, You are water, and You are the moon! You are Brahmā, the first living creature, and You are the great-grandfather. I therefore offer my respectful obeisances unto You a thousand times, and again and yet again!"
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.40",
+      "chapter": 11,
+      "number": 40,
+      "transliteration": "namaḥ purastādatha pṛṣṭhataste namo.astu te sarvata eva sarva .\nanantavīryāmitavikramastvaṃ sarvaṃ samāpnoṣi tato.asi sarvaḥ ||11-40||",
+      "text": {
+        "sanskrit": "नमः पुरस्तादथ पृष्ठतस्ते\nनमोऽस्तु ते सर्वत एव सर्व |\nअनन्तवीर्यामितविक्रमस्त्वं\nसर्वं समाप्नोषि ततोऽसि सर्वः ||११-४०||",
+        "hindi": "।।11.40।। हे अनन्तसार्मथ्य वाले भगवन्! आपके लिए अग्रत: और पृष्ठत: नमस्कार है, हे सर्वात्मन्! आपको सब ओर से नमस्कार है। आप अमित विक्रमशाली हैं और आप सबको व्याप्त किये हुए हैं, इससे आप सर्वरूप हैं।।",
+        "english": "Obeisances to You from the front, from behind and from all sides! O unbounded power, You are the master of limitless might! You are all-pervading, and thus You are everything!"
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.41",
+      "chapter": 11,
+      "number": 41,
+      "transliteration": "sakheti matvā prasabhaṃ yaduktaṃ he kṛṣṇa he yādava he sakheti .\najānatā mahimānaṃ tavedaṃ mayā pramādātpraṇayena vāpi ||11-41||",
+      "text": {
+        "sanskrit": "सखेति मत्वा प्रसभं यदुक्तं\nहे कृष्ण हे यादव हे सखेति |\nअजानता महिमानं तवेदं\nमया प्रमादात्प्रणयेन वापि ||११-४१||",
+        "hindi": "।।11.41।। हे भगवन्! आपको सखा मानकर आपकी इस महिमा को न जानते हुए मेरे द्वारा प्रमाद से अथवा प्रेम से भी \"हे कृष्ण हे! यादव हे सखे!\" इस प्रकार जो कुछ बलात् कहा गया है।।",
+        "english": "Therefore, get up and prepare to fight. After conquering your enemies, you will enjoy a flourishing kingdom. They are already put to death by My arrangement, and you, O Savyasachin, can be but an instrument in the fight."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.42",
+      "chapter": 11,
+      "number": 42,
+      "transliteration": "yaccāvahāsārthamasatkṛto.asi vihāraśayyāsanabhojaneṣu .\neko.athavāpyacyuta tatsamakṣaṃ tatkṣāmaye tvāmahamaprameyam ||11-42||",
+      "text": {
+        "sanskrit": "यच्चावहासार्थमसत्कृतोऽसि\nविहारशय्यासनभोजनेषु |\nएकोऽथवाप्यच्युत तत्समक्षं\nतत्क्षामये त्वामहमप्रमेयम् ||११-४२||",
+        "hindi": "।।11.42।। और, हे अच्युत! जो आप मेरे द्वारा हँसी के लिये बिहार, शय्या, आसन और भोजन के समय अकेले में अथवा अन्यों के समक्ष भी अपमानित किये गये हैं, उन सब के लिए अप्रमेय स्वरूप आप से मैं क्षमायाचना करता हूँ।।",
+        "english": "Of cheats, I am the gambling of cheats, and I am the brilliance of the brilliant. I am victory, I am endeavor, and I am the strength of the strong."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.43",
+      "chapter": 11,
+      "number": 43,
+      "transliteration": "pitāsi lokasya carācarasya tvamasya pūjyaśca gururgarīyān .\nna tvatsamo.astyabhyadhikaḥ kuto.anyo lokatraye.apyapratimaprabhāva ||11-43||",
+      "text": {
+        "sanskrit": "पितासि लोकस्य चराचरस्य\nत्वमस्य पूज्यश्च गुरुर्गरीयान् |\nन त्वत्समोऽस्त्यभ्यधिकः कुतोऽन्यो\nलोकत्रयेऽप्यप्रतिमप्रभाव ||११-४३||",
+        "hindi": "।।11.43।। आप इस चराचर जगत् के पिता, पूजनीय और सर्वश्रेष्ठ गुरु हैं। हे अप्रितम प्रभाव वाले भगवन्! तीनों लोकों में आपके समान भी कोई नहीं हैं, तो फिर आपसे अधिक श्रेष्ठ कैसे होगा?।।",
+        "english": "You are the father of this complete cosmic manifestation, of the moving and the nonmoving. You are its worshipable chief, the supreme spiritual master. No one is greater than You, nor can anyone be one with You. How then could there be anyone greater than You within the three worlds, O Lord of immeasurable power?"
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.44",
+      "chapter": 11,
+      "number": 44,
+      "transliteration": "tasmātpraṇamya praṇidhāya kāyaṃ prasādaye tvāmahamīśamīḍyam .\npiteva putrasya sakheva sakhyuḥ priyaḥ priyāyārhasi deva soḍhum ||11-44||",
+      "text": {
+        "sanskrit": "तस्मात्प्रणम्य प्रणिधाय कायं\nप्रसादये त्वामहमीशमीड्यम् |\nपितेव पुत्रस्य सखेव सख्युः\nप्रियः प्रियायार्हसि देव सोढुम् ||११-४४||",
+        "hindi": "।।11.44।। इसलिये हे भगवन्! मैं शरीर के द्वारा साष्टांग प्रणिपात करके स्तुति के योग्य आप ईश्वर को प्रसन्न होने के लिये प्रार्थना करता हूँ। हे देव! जैसे पिता पुत्र के, मित्र अपने मित्र के और प्रिय अपनी प्रिया के(अपराध को क्षमा करता है), वैसे ही आप भी मेरे अपराधों को क्षमा कीजिये।।",
+        "english": "You are the Supreme Lord, to be worshiped by every living being. Thus I fall down to offer You my respectful obeisances and ask Your mercy. As a father tolerates the impudence of his son, a friend the impertinence of a friend, or a husband the familiarity of his wife, please tolerate the wrongs I may have done You."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.45",
+      "chapter": 11,
+      "number": 45,
+      "transliteration": "adṛṣṭapūrvaṃ hṛṣito.asmi dṛṣṭvā bhayena ca pravyathitaṃ mano me .\ntadeva me darśaya deva rūpaṃ prasīda deveśa jagannivāsa ||11-45||",
+      "text": {
+        "sanskrit": "अदृष्टपूर्वं हृषितोऽस्मि दृष्ट्वा\nभयेन च प्रव्यथितं मनो मे |\nतदेव मे दर्शय देव रूपं\nप्रसीद देवेश जगन्निवास ||११-४५||",
+        "hindi": "।।11.45।। मैं आपके इस अदृष्टपूर्व रूप को देखकर हर्षित हो रहा हूँ और मेरा मन भय से अतिव्याकुल भी हो रहा हैं। इसलिए हे देव! आप उस पूर्वकाल को ही मुझे दिखाइये। हे देवेश! हे जगन्निवास! आप प्रसन्न होइये।।",
+        "english": "After seeing this universal form, which I have never seen before, I am gladdened, but at the same time my mind is disturbed with fear. Therefore please bestow Your grace upon me and reveal again Your form as the Personality of Godhead, O Lord of lords, O abode of the universe."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.46",
+      "chapter": 11,
+      "number": 46,
+      "transliteration": "kirīṭinaṃ gadinaṃ cakrahastaṃ icchāmi tvāṃ draṣṭumahaṃ tathaiva .\ntenaiva rūpeṇa caturbhujena sahasrabāho bhava viśvamūrte ||11-46||",
+      "text": {
+        "sanskrit": "किरीटिनं गदिनं चक्रहस्तं\nइच्छामि त्वां द्रष्टुमहं तथैव |\nतेनैव रूपेण चतुर्भुजेन\nसहस्रबाहो भव विश्वमूर्ते ||११-४६||",
+        "hindi": "।।11.46।। मैं आपको उसी प्रकार मुकुटधारी, गदा और चक्र हाथ में लिए हुए देखना चाहता हूँ। हे विश्वमूर्ते! हे सहस्रबाहो! आप उस चतुर्भुजरूप के ही बन जाइए।।",
+        "english": "O universal form, O thousand-armed Lord, I wish to see You in Your four-armed form, with helmeted head and with club, wheel, conch and lotus flower in Your hands. I long to see You in that form."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.47",
+      "chapter": 11,
+      "number": 47,
+      "transliteration": "śrībhagavānuvāca .\nmayā prasannena tavārjunedaṃ rūpaṃ paraṃ darśitamātmayogāt .\ntejomayaṃ viśvamanantamādyaṃ yanme tvadanyena na dṛṣṭapūrvam ||11-47||",
+      "text": {
+        "sanskrit": "श्रीभगवानुवाच |\nमया प्रसन्नेन तवार्जुनेदं\nरूपं परं दर्शितमात्मयोगात् |\nतेजोमयं विश्वमनन्तमाद्यं\nयन्मे त्वदन्येन न दृष्टपूर्वम् ||११-४७||",
+        "hindi": "।।11.47।। हे अर्जुन! तुम पर प्रसन्न होकर मैंने अपनी योगशक्ति (आत्मयोगात्) के प्रभाव से यह अपना परम तेजोमय, सबका आदि और अनन्त विश्वरूप तुझे दर्शाया है, जिसे तुम्हारे पूर्व किसी ने नहीं देखा है।।",
+        "english": "The Supreme Personality of Godhead said: My dear Arjuna, happily have I shown you, by My internal potency, this supreme universal form within the material world. No one before you has ever seen this primal form, unlimited and full of glaring effulgence."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.48",
+      "chapter": 11,
+      "number": 48,
+      "transliteration": "na vedayajñādhyayanairna dānaira- na ca kriyābhirna tapobhirugraiḥ .\nevaṃrūpaḥ śakya ahaṃ nṛloke draṣṭuṃ tvadanyena kurupravīra ||11-48||",
+      "text": {
+        "sanskrit": "न वेदयज्ञाध्ययनैर्न दानैर्-\nन च क्रियाभिर्न तपोभिरुग्रैः |\nएवंरूपः शक्य अहं नृलोके\nद्रष्टुं त्वदन्येन कुरुप्रवीर ||११-४८||",
+        "hindi": "।।11.48।। हे कुरुप्रवीर! तुम्हारे अतिरिक्त इस मनुष्य लोक में किसी अन्य के द्वारा मैं इस रूप में, न वेदाध्ययन और न यज्ञ, न दान और न (धार्मिक) क्रियायों के द्वारा और न उग्र तपों के द्वारा ही देखा जा सकता हूँ।।",
+        "english": "O best of the Kuru warriors, no one before you has ever seen this universal form of Mine, for neither by studying the Vedas, nor by performing sacrifices, nor by charity, nor by pious activities, nor by severe penances can I be seen in this form in the material world."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.49",
+      "chapter": 11,
+      "number": 49,
+      "transliteration": "mā te vyathā mā ca vimūḍhabhāvo dṛṣṭvā rūpaṃ ghoramīdṛṅmamedam .\nvyapetabhīḥ prītamanāḥ punastvaṃ tadeva me rūpamidaṃ prapaśya ||11-49||",
+      "text": {
+        "sanskrit": "मा ते व्यथा मा च विमूढभावो\nदृष्ट्वा रूपं घोरमीदृङ्ममेदम् |\nव्यपेतभीः प्रीतमनाः पुनस्त्वं\nतदेव मे रूपमिदं प्रपश्य ||११-४९||",
+        "hindi": "।।11.49।। इस प्रकार मेरे इस घोर रूप को देखकर तुम व्यथा और मूढ़भाव को मत प्राप्त हो। निर्भय और प्रसन्नचित्त होकर तुम पुन: मेरे उसी (पूर्व के) रूप को देखो।।",
+        "english": "You have been perturbed and bewildered by seeing this horrible feature of Mine. Now let it be finished. My devotee, be free again from all disturbances. With a peaceful mind you can now see the form you desire."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.50",
+      "chapter": 11,
+      "number": 50,
+      "transliteration": "sañjaya uvāca .\nityarjunaṃ vāsudevastathoktvā svakaṃ rūpaṃ darśayāmāsa bhūyaḥ .\nāśvāsayāmāsa ca bhītamenaṃ bhūtvā punaḥ saumyavapurmahātmā ||11-50||",
+      "text": {
+        "sanskrit": "सञ्जय उवाच |\nइत्यर्जुनं वासुदेवस्तथोक्त्वा\nस्वकं रूपं दर्शयामास भूयः |\nआश्वासयामास च भीतमेनं\nभूत्वा पुनः सौम्यवपुर्महात्मा ||११-५०||",
+        "hindi": "।।11.50।। संजय ने कहा -- भगवान् वासुदेव ने अर्जुन से इस प्रकार कहकर, पुन: अपने (पूर्व) रूप को दर्शाया, और फिर, सौम्यरूप महात्मा श्रीकृष्ण ने इस भयभीत अर्जुन को आश्वस्त किया।।",
+        "english": "Sañjaya said to Dhṛtarāṣṭra: The Supreme Personality of Godhead, Kṛṣṇa, having spoken thus to Arjuna, displayed His real four-armed form and at last showed His two-armed form, thus encouraging the fearful Arjuna."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.51",
+      "chapter": 11,
+      "number": 51,
+      "transliteration": "arjuna uvāca .\ndṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyaṃ janārdana .\nidānīmasmi saṃvṛttaḥ sacetāḥ prakṛtiṃ gataḥ ||11-51||",
+      "text": {
+        "sanskrit": "अर्जुन उवाच |\nदृष्ट्वेदं मानुषं रूपं तव सौम्यं जनार्दन |\nइदानीमस्मि संवृत्तः सचेताः प्रकृतिं गतः ||११-५१||",
+        "hindi": "।।11.51।। अर्जुन ने कहा -- हे जनार्दन! आपके इस सौम्य मनुष्य रूप को देखकर अब मैं शांतचित्त हुआ अपने स्वभाव को प्राप्त हो गया हूँ।।",
+        "english": "When Arjuna thus saw Kṛṣṇa in His original form, he said: O Janārdana, seeing this humanlike form, so very beautiful, I am now composed in mind, and I am restored to my original nature."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.52",
+      "chapter": 11,
+      "number": 52,
+      "transliteration": "śrībhagavānuvāca .\nsudurdarśamidaṃ rūpaṃ dṛṣṭavānasi yanmama .\ndevā apyasya rūpasya nityaṃ darśanakāṅkṣiṇaḥ ||11-52||",
+      "text": {
+        "sanskrit": "श्रीभगवानुवाच |\nसुदुर्दर्शमिदं रूपं दृष्टवानसि यन्मम |\nदेवा अप्यस्य रूपस्य नित्यं दर्शनकाङ्क्षिणः ||११-५२||",
+        "hindi": "।।11.52।। श्रीभगवान् ने कहा -- मेरा यह रूप देखने को मिलना अति दुर्लभ है, जिसको कि तुमने देखा है। देवतागण भी सदा इस रूप के दर्शन के इच्छुक रहते हैं।।",
+        "english": "The Supreme Personality of Godhead said: My dear Arjuna, this form of Mine you are now seeing is very difficult to behold. Even the demigods are ever seeking the opportunity to see this form, which is so dear."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.53",
+      "chapter": 11,
+      "number": 53,
+      "transliteration": "nāhaṃ vedairna tapasā na dānena na cejyayā .\nśakya evaṃvidho draṣṭuṃ dṛṣṭavānasi māṃ yathā ||11-53||",
+      "text": {
+        "sanskrit": "नाहं वेदैर्न तपसा न दानेन न चेज्यया |\nशक्य एवंविधो द्रष्टुं दृष्टवानसि मां यथा ||११-५३||",
+        "hindi": "।।11.53।। न वेदों से, न तप से, न दान से और न यज्ञ से ही मैं इस प्रकार देखा जा सकता हूँ, जैसा कि तुमने मुझे देखा है।।",
+        "english": "The form you are seeing with your transcendental eyes cannot be understood simply by studying the Vedas, nor by undergoing serious penances, nor by charity, nor by worship. It is not by these means that one can see Me as I am."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.54",
+      "chapter": 11,
+      "number": 54,
+      "transliteration": "bhaktyā tvananyayā śakya ahamevaṃvidho.arjuna .\njñātuṃ draṣṭuṃ ca tattvena praveṣṭuṃ ca parantapa ||11-54||",
+      "text": {
+        "sanskrit": "भक्त्या त्वनन्यया शक्य अहमेवंविधोऽर्जुन |\nज्ञातुं द्रष्टुं च तत्त्वेन प्रवेष्टुं च परन्तप ||११-५४||",
+        "hindi": "।।11.54।। परन्तु हे परन्तप अर्जुन! अनन्य भक्ति के द्वारा मैं तत्त्वत: 'जानने', 'देखने' और 'प्रवेश' करने के लिए (एकी भाव से प्राप्त होने के लिए) भी, शक्य हूँ!।।",
+        "english": "My dear Arjuna, only by undivided devotional service can I be understood as I am, standing before you, and can thus be seen directly. Only in this way can you enter into the mysteries of My understanding."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    },
+    {
+      "id": "BG11.55",
+      "chapter": 11,
+      "number": 55,
+      "transliteration": "matkarmakṛnmatparamo madbhaktaḥ saṅgavarjitaḥ .\nnirvairaḥ sarvabhūteṣu yaḥ sa māmeti pāṇḍava ||11-55||",
+      "text": {
+        "sanskrit": "मत्कर्मकृन्मत्परमो मद्भक्तः सङ्गवर्जितः |\nनिर्वैरः सर्वभूतेषु यः स मामेति पाण्डव ||११-५५||",
+        "hindi": "।।11.55।। हे पाण्डव! जो पुरुष मेरे लिए ही कर्म करने वाला है, और मुझे ही परम लक्ष्य मानता है, जो मेरा भक्त है तथा संगरहित है, जो भूतमात्र के प्रति निर्वैर है, वह मुझे प्राप्त होता है।।",
+        "english": "My dear Arjuna, he who engages in My pure devotional service, free from the contaminations of fruitive activities and mental speculation, he who works for Me, who makes Me the supreme goal of his life, and who is friendly to every living being – he certainly comes to Me."
+      },
+      "translators": {
+        "sanskrit": "Ved Vyasa",
+        "hindi": "Swami Tejomayananda",
+        "english": "A.C. Bhaktivedanta Swami Prabhupada"
+      },
+      "sources": {
+        "sanskrit": "slok",
+        "hindi": "tej",
+        "english": "prabhu"
+      }
+    }
+  ]
+}
