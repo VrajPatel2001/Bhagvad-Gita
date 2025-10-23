@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Manrope, Playfair_Display } from "next/font/google";
 
 import { AppShell } from "@/components/app-shell";
+import { BookmarkProvider } from "@/components/bookmark-provider";
 import { LanguageProvider } from "@/components/language-provider";
 
 import "./globals.css";
@@ -36,7 +37,9 @@ export default function RootLayout({
         className={`${manrope.variable} ${playfair.variable} bg-sand-25 text-ink-700 antialiased`}
       >
         <LanguageProvider>
-          <AppShell>{children}</AppShell>
+          <BookmarkProvider>
+            <AppShell>{children}</AppShell>
+          </BookmarkProvider>
         </LanguageProvider>
       </body>
     </html>
